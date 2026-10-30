@@ -1,1 +1,754 @@
-[]
+[
+  {
+    "title": "Django security documentation",
+    "url": "https://docs.djangoproject.com/en/stable/topics/security",
+    "source": "Curated starter list",
+    "category": "API Security \u0026 Authentication",
+    "discovered": "2026-10-30T05:42:46.45323262Z",
+    "description": "Official guidance for common Django security concerns."
+  },
+  {
+    "title": "DRF authentication documentation",
+    "url": "https://www.django-rest-framework.org/api-guide/authentication",
+    "source": "Curated starter list",
+    "category": "API Security \u0026 Authentication",
+    "discovered": "2026-10-30T05:42:46.45323262Z",
+    "description": "Authentication classes and request authentication."
+  },
+  {
+    "title": "DRF permissions documentation",
+    "url": "https://www.django-rest-framework.org/api-guide/permissions",
+    "source": "Curated starter list",
+    "category": "API Security \u0026 Authentication",
+    "discovered": "2026-10-30T05:42:46.45323262Z",
+    "description": "Permission policies and object-level access."
+  },
+  {
+    "title": "DRF throttling documentation",
+    "url": "https://www.django-rest-framework.org/api-guide/throttling",
+    "source": "Curated starter list",
+    "category": "API Security \u0026 Authentication",
+    "discovered": "2026-10-30T05:42:46.45323262Z",
+    "description": "Rate-limiting and throttling API requests."
+  },
+  {
+    "title": "The Real Python Podcast – Episode #316: The Future of Python Security: Trends, Challenges, and Solutions",
+    "url": "https://realpython.com/podcasts/rpp/316",
+    "source": "Real Python",
+    "category": "API Security \u0026 Authentication",
+    "discovered": "2026-10-23T12:00:00Z",
+    "description": "How is the Python ecosystem adapting to the modern landscape of software security and supply chain defense? This week on the show, we sit down with Seth Larson, the Python Software Foundation's Security Developer in Residence."
+  },
+  {
+    "title": "Django security reporting update",
+    "url": "https://www.djangoproject.com/weblog/2026/oct/08/django-security-reporting-update",
+    "source": "Django Blog",
+    "category": "API Security \u0026 Authentication",
+    "discovered": "2026-10-08T11:00:00Z",
+    "description": "We are no longer accepting new security reports for the Django project through HackerOne. Existing reports submitted through HackerOne will remain open and continue to be handled by the Django Security Team. If you discover a security issu…"
+  },
+  {
+    "title": "Django security releases issued: 6.1.2, 6.0.9, and 5.2.18",
+    "url": "https://www.djangoproject.com/weblog/2026/oct/06/security-releases",
+    "source": "Django Blog",
+    "category": "API Security \u0026 Authentication",
+    "discovered": "2026-10-06T13:00:00Z",
+    "description": "In accordance with our security release policy , the Django team is issuing releases for Django 6.1.2 , Django 6.0.9 , and Django 5.2.18 . These releases address the security issues detailed below. We encourage all users of Django to upgra…"
+  },
+  {
+    "title": "Django REST Framework Tutorial (2025): Build a CRUD API with Authentication | Real Estate API Series - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBMdmF5WU5DdTEwU25YV1ZqUU1acmhMa1BRUEhmZ1JIYjNSaXF6VlNJc3NlWUUzYmEzQmtYblFqVUdJZw?oc=5",
+    "source": "Google News search: Django REST framework tutorial",
+    "category": "API Security \u0026 Authentication",
+    "discovered": "2025-09-11T07:00:00Z",
+    "description": "Django REST Framework Tutorial (2025): Build a CRUD API with Authentication | Real Estate API Series YouTube"
+  },
+  {
+    "title": "Django for APIs",
+    "url": "https://djangoforapis.com",
+    "source": "Curated starter list",
+    "category": "Courses \u0026 Training",
+    "discovered": "2026-10-30T05:42:46.45323262Z",
+    "description": "Book and learning resources focused on APIs with Django."
+  },
+  {
+    "title": "Django Girls Tutorial",
+    "url": "https://tutorial.djangogirls.org",
+    "source": "Curated starter list",
+    "category": "Courses \u0026 Training",
+    "discovered": "2026-10-30T05:42:46.45323262Z",
+    "description": "Beginner-friendly, project-based Django course."
+  },
+  {
+    "title": "Exploring AI Coding Agent Workflows",
+    "url": "https://realpython.com/courses/exploring-ai-coding-agent-workflows",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2026-10-27T14:00:00Z",
+    "description": "AI coding agents come in four types: IDE, terminal, PR, and cloud. Learn how each workflow fits into modern Python development."
+  },
+  {
+    "title": "AI for Beginners: Use Agents With Confidence",
+    "url": "https://realpython.com/courses/ai-agents-101",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2026-10-26T14:00:00Z",
+    "description": "Learn how AI agents really work, from models and harnesses to context and skills, so you can get better results and stay in control."
+  },
+  {
+    "title": "Python itertools By Example",
+    "url": "https://realpython.com/courses/python-itertools-by-example",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2026-10-21T14:00:00Z",
+    "description": "Combine Python's itertools functions into memory-efficient pipelines as you deal cards, analyze stock data, and pick relay teams."
+  },
+  {
+    "title": "Building an AI Agent With LangGraph and Python",
+    "url": "https://realpython.com/courses/building-ai-agent-langgraph-python",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2026-10-20T14:00:00Z",
+    "description": "Learn LangGraph in Python with this hands-on video course and build a stateful AI agent using state graphs, nodes, and conditional edges."
+  },
+  {
+    "title": "Tell Your Tech Career Story: Proof, Résumés, and Interviews",
+    "url": "https://realpython.com/courses/tell-your-tech-career-story",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2026-10-20T14:00:00Z",
+    "description": "Turn your experience into a clear career story with achievement stories, proof of skills, a tailored résumé, and interview practice with Mentor AI."
+  },
+  {
+    "title": "How to Use Python: Taking Your First Steps",
+    "url": "https://realpython.com/courses/python-first-steps",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2026-10-13T14:00:00Z",
+    "description": "Take your first steps with Python. Install it, run your first program, and work with variables, data types, loops, functions, and errors."
+  },
+  {
+    "title": "Exploring the MVC Pattern in Python",
+    "url": "https://realpython.com/courses/exploring-mvc-pattern-python",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2026-10-06T14:00:00Z",
+    "description": "Learn how the Model-View-Controller pattern organizes Python web apps, then build a small Flask app using models, views, and controllers."
+  },
+  {
+    "title": "What's New in Python 3.15",
+    "url": "https://realpython.com/courses/whats-new-in-python-315",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2026-09-29T14:00:00Z",
+    "description": "Explore the new features in Python 3.15, including lazy imports, frozendict, sentinel values, a sampling profiler, and a faster JIT."
+  },
+  {
+    "title": "Using the Claude API in Python",
+    "url": "https://realpython.com/courses/using-claude-api-python",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2026-09-22T14:00:00Z",
+    "description": "Learn how to use the Claude API in Python to send prompts, control responses with system instructions, and get structured output."
+  },
+  {
+    "title": "Learning Path: FastAPI: Python API Development With Light Speed",
+    "url": "https://realpython.com/learning-paths/fastapi",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2026-07-22T12:00:00Z",
+    "description": "Learn FastAPI from the ground up. Build REST APIs, serve web pages with Jinja2 templates, and create a complete URL shortener project in Python."
+  },
+  {
+    "title": "Learning Path: Python Game Development",
+    "url": "https://realpython.com/learning-paths/python-game-development",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2026-04-16T12:00:00Z",
+    "description": "Build Python games from command-line projects to 2D graphical games with turtle, Tkinter, Pygame, and Arcade."
+  },
+  {
+    "title": "Learning Path: LLM Application Development With Python",
+    "url": "https://realpython.com/learning-paths/llm-application-development-python",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2026-03-19T12:00:00Z",
+    "description": "Build LLM-powered applications in Python. Call model APIs, craft prompts, add retrieval-augmented generation, create AI agents, and connect via MCP."
+  },
+  {
+    "title": "10 Django Projects to Build Your Skills - Coursera",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qYkF2bEVHSTBkOHlheml4djJyOGxyZ21MNUpvM196Z2Zfd2xsMjI4U0hadENiVXllR0tjc05BVFpiNnR1aXlobjFKcmkyMWNMUnB4aDhId0JnTEZkN0xoMFRn?oc=5",
+    "source": "Google News search: Django REST framework course training",
+    "category": "Courses \u0026 Training",
+    "discovered": "2026-01-23T08:00:00Z",
+    "description": "10 Django Projects to Build Your Skills Coursera"
+  },
+  {
+    "title": "Django Learning Roadmap: Beginner to Expert (2026) - Coursera",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51ZFEzaW1XNGh5QVNpM0lPeDlMRDFfWUZTOWd5ejE4eXA5VmswVy1rVUxkUTFDMkljMDFuSjJ1Q0xyUmZxYmE3WWpSZGhXRVI1cHV5R3NTLWVtd0JBeHRWbDl4U0tLZUxxRnc?oc=5",
+    "source": "Google News search: Django REST framework course training",
+    "category": "Courses \u0026 Training",
+    "discovered": "2025-12-19T19:42:58Z",
+    "description": "Django Learning Roadmap: Beginner to Expert (2026) Coursera"
+  },
+  {
+    "title": "Learning Path: Python Coding With AI",
+    "url": "https://realpython.com/learning-paths/coding-with-ai",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2025-12-07T12:00:00Z",
+    "description": "Use AI coding assistants to write, review, and debug Python code faster. Choose an editor-based assistant like Cursor or a terminal-based one like Claude Code, then make it part of your daily workflow."
+  },
+  {
+    "title": "Learning Path: Ace Your Python Coding Interview",
+    "url": "https://realpython.com/learning-paths/python-interview",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2024-11-14T12:00:00Z",
+    "description": "Prepare for Python coding interviews with practice problems, tips for standing out, and resources from top PyCon talks and Python books."
+  },
+  {
+    "title": "Learning Path: Create Graphical User Interfaces (GUI)",
+    "url": "https://realpython.com/learning-paths/python-gui-programming",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2024-11-14T12:00:00Z",
+    "description": "Build Python GUI applications with Tkinter, PyQt, wxPython, and Kivy. Learn layouts, event handling, threading, and database integration."
+  },
+  {
+    "title": "Learning Path: Exceptions, Logging, and Debugging",
+    "url": "https://realpython.com/learning-paths/exception-handling-logging-debugging",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2024-11-14T12:00:00Z",
+    "description": "Learn Python exception handling, logging, and debugging. Work with raise, built-in exceptions, the logging module, and pdb to write reliable code."
+  },
+  {
+    "title": "Learning Path: Important Standard Library Modules",
+    "url": "https://realpython.com/learning-paths/standard-library-modules-you-should-know",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2024-11-14T12:00:00Z",
+    "description": "Explore Python standard library modules including math, datetime, JSON, CSV, regex, subprocess, and argparse through hands-on tutorials and courses."
+  },
+  {
+    "title": "Learning Path: Python Data Structures",
+    "url": "https://realpython.com/learning-paths/basic-python-data-structures",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2024-11-14T12:00:00Z",
+    "description": "Learn Python's built-in data structures: strings, lists, tuples, dictionaries, sets, and bytes, plus sorting, copying, and comprehensions."
+  },
+  {
+    "title": "Learning Path: Testing and Continuous Integration",
+    "url": "https://realpython.com/learning-paths/test-your-python-apps",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2024-11-14T12:00:00Z",
+    "description": "Learn how to test Python code with unittest, doctest, pytest, and mock objects. Set up continuous integration with GitHub Actions and Docker."
+  },
+  {
+    "title": "Django deployment checklist",
+    "url": "https://docs.djangoproject.com/en/stable/howto/deployment/checklist",
+    "source": "Curated starter list",
+    "category": "Deployment \u0026 Performance",
+    "discovered": "2026-10-30T05:42:46.45323262Z",
+    "description": "Production deployment checklist."
+  },
+  {
+    "title": "Django performance documentation",
+    "url": "https://docs.djangoproject.com/en/stable/topics/performance",
+    "source": "Curated starter list",
+    "category": "Deployment \u0026 Performance",
+    "discovered": "2026-10-30T05:42:46.45323262Z",
+    "description": "Official performance and optimization guidance."
+  },
+  {
+    "title": "The Real Python Podcast – Episode #310: Performance Engineering: Profiling and Making Apps Fast by Default",
+    "url": "https://realpython.com/podcasts/rpp/310",
+    "source": "Real Python",
+    "category": "Deployment \u0026 Performance",
+    "discovered": "2026-09-04T12:00:00Z",
+    "description": "How do you plan for the performance of your Python applications? What does a performance budget entail, and where should you spend your resources? This week on the show, we speak with Den Odell about his new book \"Fast by Default: Practica…"
+  },
+  {
+    "title": "The Real Python Podcast – Episode #307: Improving NumPy Performance on Free-Threaded Python",
+    "url": "https://realpython.com/podcasts/rpp/307",
+    "source": "Real Python",
+    "category": "Deployment \u0026 Performance",
+    "discovered": "2026-08-14T12:00:00Z",
+    "description": "What bottlenecks were preventing NumPy from scaling on free-threaded Python? Christopher Trudeau is back on the show this week with another batch of PyCoder's Weekly articles and projects."
+  },
+  {
+    "title": "Django Tutorial: Build a Production Blog in 13 Steps [2026] - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05SzBUYVd0R1JYcmhDTVdIdnFITjVsUG9XcTV1MGhNZ1ZaNHU0YV84ZnpNTVAwYmhuYW9nWEJfZ2VpS1lwTHZ4Vkt4VDNRUmJya0RkVVhTQUlkd1FqZGNtaldEb1h0SWs5eWpKMA?oc=5",
+    "source": "Google News search: Django REST framework tutorial",
+    "category": "Deployment \u0026 Performance",
+    "discovered": "2026-05-24T07:00:00Z",
+    "description": "Django Tutorial: Build a Production Blog in 13 Steps [2026] https://tech-insider.org/"
+  },
+  {
+    "title": "Building and Scaling an AI Startup with Async Django | Dr. Piotr Gryko - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3VkdaZnA2Z2pXUWVROWhhU0ltRjRHRU94ZC1MUU5oR0NuUmF4cDUzRHFCZXhUT2tPX2ZGS1A0R0xmQ1VrSUxJczR3?oc=5",
+    "source": "Google News search: Django REST framework YouTube",
+    "category": "Deployment \u0026 Performance",
+    "discovered": "2024-11-24T08:00:00Z",
+    "description": "Building and Scaling an AI Startup with Async Django | Dr. Piotr Gryko YouTube"
+  },
+  {
+    "title": "Django documentation",
+    "url": "https://docs.djangoproject.com",
+    "source": "Curated starter list",
+    "category": "Official Documentation",
+    "discovered": "2026-10-30T05:42:46.45323262Z",
+    "description": "Official Django documentation, including models, views, forms, security, and deployment."
+  },
+  {
+    "title": "Django REST Framework documentation",
+    "url": "https://www.django-rest-framework.org",
+    "source": "Curated starter list",
+    "category": "Official Documentation",
+    "discovered": "2026-10-30T05:42:46.45323262Z",
+    "description": "Official API guide and tutorials for serializers, views, authentication, permissions, and more."
+  },
+  {
+    "title": "Quiz: Dictionaries and Arrays: Selecting the Ideal Data Structure",
+    "url": "https://realpython.com/quizzes/dicts-arrays-ideal-data-structure",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-10-29T12:00:00Z",
+    "description": "Test your understanding of Python dictionaries and arrays, from dict, defaultdict, and ChainMap to lists, typed arrays, and bytearray."
+  },
+  {
+    "title": "Build a Python MCP Client to Test Servers From Your Terminal",
+    "url": "https://realpython.com/python-mcp-client",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-10-28T14:00:00Z",
+    "description": "Follow this Python project to build an MCP client that discovers MCP server capabilities and feeds an AI-powered chat with tool calls."
+  },
+  {
+    "title": "Quiz: Creating a Scalable Flask Web Application From Scratch",
+    "url": "https://realpython.com/quizzes/create-scalable-flask-web-app",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-10-28T12:00:00Z",
+    "description": "Test your understanding of Flask project structure, from the application factory and blueprints to Jinja templates and static files."
+  },
+  {
+    "title": "Quiz: Exploring AI Coding Agent Workflows",
+    "url": "https://realpython.com/quizzes/exploring-ai-coding-agent-workflows",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-10-27T12:00:00Z",
+    "description": "Test your understanding of IDE, terminal, PR, and cloud AI coding agents, and learn which workflow fits each development task."
+  },
+  {
+    "title": "ChromaDB: Embeddings and Vector Databases in Python",
+    "url": "https://realpython.com/chromadb-vector-database",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-10-26T14:00:00Z",
+    "description": "Learn what embeddings and vector databases are, then store, query, and filter text with ChromaDB in Python and use it to give an LLM context."
+  },
+  {
+    "title": "The Real Python Podcast – Episode #314: Codemoo: Demonstrating How Coding Agents Work",
+    "url": "https://realpython.com/podcasts/rpp/314",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-10-09T12:00:00Z",
+    "description": "How do you assemble the core pieces of a coding agent? How are developers defining projects through conversation and introspection? This week on the show, Geir Arne Hjelle returns to talk about his recent project to demonstrate how coding …"
+  },
+  {
+    "title": "The Real Python Podcast – Episode #313: Python 3.15: Exploring the New Features",
+    "url": "https://realpython.com/podcasts/rpp/313",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-10-02T12:00:00Z",
+    "description": "Python 3.15 is (almost*) here! Christopher Trudeau and Bartosz Zaczyński return to discuss the new version. Bartosz coordinated the series of preview articles with members of the Real Python team and wrote the showcase tutorial, \"Python 3.…"
+  },
+  {
+    "title": "The Real Python Podcast – Episode #312: Navigating AI in Open Source: Insights From Wagtail",
+    "url": "https://realpython.com/podcasts/rpp/312",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-09-25T12:00:00Z",
+    "description": "How should you manage AI contributions to an open-source project? How do you measure the impact of using AI tools for development, and what generative features do end users want from a content management system? This week on the show, we s…"
+  },
+  {
+    "title": "The Real Python Podcast – Episode #311: Django Developers Survey Results \u0026 Reproducible Python Builds",
+    "url": "https://realpython.com/podcasts/rpp/311",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-09-11T12:00:00Z",
+    "description": "What are the latest trends uncovered in the 2026 Django Developers Survey? How are Django users employing LLMs in their development process? Christopher Trudeau is back on the show this week with another batch of PyCoder's Weekly articles …"
+  },
+  {
+    "title": "The Real Python Podcast – Episode #309: Exploring Complex Systems \u0026 Maintainable Data Science Pipelines",
+    "url": "https://realpython.com/podcasts/rpp/309",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-08-28T12:00:00Z",
+    "description": "What are the key characteristics of complex systems, and what are practical patterns for tackling complex coding problems? Christopher Trudeau is back on the show this week with another batch of PyCoder's Weekly articles and projects."
+  },
+  {
+    "title": "The Real Python Podcast – Episode #308: Navigating Silent Failures in AI: Strategies for Effective Oversight",
+    "url": "https://realpython.com/podcasts/rpp/308",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-08-21T12:00:00Z",
+    "description": "Why do AI systems silently fail? How can you set up a system that produces results while also reviewing and validating the work? This week on the show, Calvin Hendryx-Parker returns to discuss his recent talk \"Orchestrate Agentic AI: Conte…"
+  },
+  {
+    "title": "Django REST Framework source code",
+    "url": "https://github.com/encode/django-rest-framework",
+    "source": "Curated starter list",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2026-10-30T05:42:46.45323262Z",
+    "description": "Explore the DRF implementation and issue history."
+  },
+  {
+    "title": "Pyrefly: A Fast Static Type Checker for Python Projects",
+    "url": "https://realpython.com/pyrefly-python",
+    "source": "Real Python",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2026-10-27T14:00:00Z",
+    "description": "Learn how to use Pyrefly, a fast static type checker for Python, to catch type errors, generate type annotations, and measure type coverage."
+  },
+  {
+    "title": "Quiz: Pyrefly: A Fast Static Type Checker for Python Projects",
+    "url": "https://realpython.com/quizzes/pyrefly-python",
+    "source": "Real Python",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2026-10-27T12:00:00Z",
+    "description": "Test your understanding of Pyrefly, a fast Python type checker, from catching type errors to generating type hints and measuring type coverage."
+  },
+  {
+    "title": "Natalia Bidart - Planned short-term leave",
+    "url": "https://www.djangoproject.com/weblog/2026/oct/26/natalia-bidart-planned-short-term-leave",
+    "source": "Django Blog",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2026-10-26T17:00:00Z",
+    "description": "After more than three years as a Django Fellow, I will be taking a three-month break from Fellow duties during November, December, and January. This time will allow me to properly rest, reset, and recover from some accumulated fatigue so I…"
+  },
+  {
+    "title": "13 Project Ideas for Intermediate Python Developers",
+    "url": "https://realpython.com/intermediate-python-project-ideas",
+    "source": "Real Python",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2026-10-26T14:00:00Z",
+    "description": "Try 13 Python project ideas for intermediate developers. Build web, GUI, and command-line apps that challenge you and make you a better Pythonista."
+  },
+  {
+    "title": "Managing Python Projects With uv: An All-in-One Solution",
+    "url": "https://realpython.com/python-uv",
+    "source": "Real Python",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2026-10-26T14:00:00Z",
+    "description": "Learn how to create and manage your Python projects using uv, an extremely fast Python package and project manager written in Rust."
+  },
+  {
+    "title": "Quarterly contributor outreach",
+    "url": "https://www.djangoproject.com/weblog/2026/oct/19/quarterly-contributor-outreach",
+    "source": "Django Blog",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2026-10-19T17:28:23Z",
+    "description": "Hi Django community, thank you all for continuing to contribute to Django. The Steering Council is reaching out to bring people's attention to a few areas. We have major features we'd like to test and review for 6.2 , smaller changes that …"
+  },
+  {
+    "title": "Nominate Someone for the 2026 Malcolm Tredinnick Memorial Prize",
+    "url": "https://www.djangoproject.com/weblog/2026/oct/01/nominate-someone-for-the-2026-malcolm-prize",
+    "source": "Django Blog",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2026-10-01T13:51:21Z",
+    "description": "Hello Everyone 👋 It is that time of year again when we recognize someone from our community in memory of our friend Malcolm. Malcolm was an early core contributor to Django and had a huge influence on the Django we know today. Besides bein…"
+  },
+  {
+    "title": "DSF member of the month - Ken Whitesell",
+    "url": "https://www.djangoproject.com/weblog/2026/sep/24/dsf-member-of-the-month-ken-whitesell",
+    "source": "Django Blog",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2026-09-24T14:13:21Z",
+    "description": "For September 2026, we welcome Ken Whitesell as our DSF member of the month! ⭐ Ken has long been part of the Django community, serving for many years as an helper in the Django forum and recipient of the Malcolm Tredinnick Memorial award. …"
+  },
+  {
+    "title": "New Technical Governance Approved",
+    "url": "https://www.djangoproject.com/weblog/2026/sep/22/new-technical-governance-approved",
+    "source": "Django Blog",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2026-09-22T11:00:00Z",
+    "description": "Both the Steering Council and DSF Board have approved DEP 19, which implements our new technical governance. Thank you to everyone who read the document and participated in the process! This was the effort of two different DSF boards and d…"
+  },
+  {
+    "title": "Proposed change to DSF voting membership",
+    "url": "https://www.djangoproject.com/weblog/2026/sep/18/proposed-change-to-dsf-voting-membership",
+    "source": "Django Blog",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2026-09-18T17:00:00Z",
+    "description": "We're proposing a new voting membership status to help us track active members. If you've voted in a Board election in the last two years, you're active, and you count toward quorum. If you haven't, you're still a member, but you won't cou…"
+  },
+  {
+    "title": "Executive Director Search Extended to September 22",
+    "url": "https://www.djangoproject.com/weblog/2026/sep/16/executive-director-search-extended",
+    "source": "Django Blog",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2026-09-16T12:50:40Z",
+    "description": "We are extending the search for the Django Software Foundation's first Executive Director . Applications now close at the end of Tuesday, September 22, 2026, anywhere on Earth (AoE). As long as it is still September 22 somewhere, your appl…"
+  },
+  {
+    "title": "DjangoCon Europe 2027 is heading to Innsbruck, Austria! 🏔️⛷️🚠🇦🇹",
+    "url": "https://www.djangoproject.com/weblog/2026/sep/15/djangocon-europe-2027-is-heading-to-innsbruck",
+    "source": "Django Blog",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2026-09-15T13:20:26Z",
+    "description": "We’re delighted to announce that DjangoCon Europe 2027 will take place in Innsbruck, Austria, from February 17–21, 2027! Photo by Nicole Baster on Unsplash Each year, DjangoCon Europe brings together people from across the Django community…"
+  },
+  {
+    "title": "Django vs Flask: 1 Clear Winner for 87% of Projects [2026] - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DYmtlbUtDb09qX2JuVE4tWnQtZ0xWY2xBZkh0RXNsZmZYUDU3N1Q2QUQwQTI4c1VoenhWWV90V2ZDT01fRjZqbmF5ZUdYNHlyYkxLLWRUaHlsdw?oc=5",
+    "source": "Google News search: Django REST framework tutorial",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2026-04-03T07:00:00Z",
+    "description": "Django vs Flask: 1 Clear Winner for 87% of Projects [2026] https://tech-insider.org/"
+  },
+  {
+    "title": "What Is Flask? (Definition, vs. Django, Examples, History) - Built In",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByOTF5YTY3bzhfVWRXZmdaM0dJMFpQdW9yMW5MdEhyZ1ZUTnJGWEo1cVliMjFBbXd6dllWeHQxS0dGM0U3RXVnT0FaUFpoS0JXX3lTeTFsQS1yZmpadXhJa24yQVM5WEduN3dN?oc=5",
+    "source": "Google News search: Django REST framework beginner project",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2025-09-05T07:00:00Z",
+    "description": "What Is Flask? (Definition, vs. Django, Examples, History) Built In"
+  },
+  {
+    "title": "Top 10 Django Apps Examples - Netguru",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nSE8yOHFPd1RjR29IbzFMUXNxclFtQmNmWjgwTHkwT0xXTGR3YkxhX1dmRmxvSmFaeHFad2NhTDhqMm1JblBTQVlhLVhjQVE5Z25NUUozY0JPclZ2OXc?oc=5",
+    "source": "Google News search: Django REST framework YouTube",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2022-09-19T13:11:06Z",
+    "description": "Top 10 Django Apps Examples Netguru"
+  },
+  {
+    "title": "DRF testing documentation",
+    "url": "https://www.django-rest-framework.org/api-guide/testing",
+    "source": "Curated starter list",
+    "category": "Testing \u0026 Quality",
+    "discovered": "2026-10-30T05:42:46.45323262Z",
+    "description": "APIRequestFactory, APIClient, and API test patterns."
+  },
+  {
+    "title": "Can Rust Improve Real Django API Performance? Testing Django-Bolt Beyond Synthetic Benchmarks - DevOps.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLVhpTG1xLS00Ti1GSFBLbWNtd0dhakVrbjhJRWxnQ05pTVI0WjZVQ3NLWERYekEtT0FlOGJidXo3Z1V6SkpER2NiRTJiTWZtRGRub0dlWk1xZ2QyWlVFU1FRdG5zTml1bDE3N25RNUJJWmdhSXhIUUQ4aU5SSTZTZklkODFxV184blJNNUtPSzhVUUFWY09SU08yNFZXdUtRdjMwNF8xc1VhMFdPVmZuTg?oc=5",
+    "source": "Google News search: Django REST framework testing deployment performance",
+    "category": "Testing \u0026 Quality",
+    "discovered": "2026-09-16T07:00:00Z",
+    "description": "Can Rust Improve Real Django API Performance? Testing Django-Bolt Beyond Synthetic Benchmarks DevOps.com"
+  },
+  {
+    "title": "DRF filtering documentation",
+    "url": "https://www.django-rest-framework.org/api-guide/filtering",
+    "source": "Curated starter list",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-30T05:42:46.45323262Z",
+    "description": "Filtering API querysets."
+  },
+  {
+    "title": "DRF pagination documentation",
+    "url": "https://www.django-rest-framework.org/api-guide/pagination",
+    "source": "Curated starter list",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-30T05:42:46.45323262Z",
+    "description": "Pagination styles for API responses."
+  },
+  {
+    "title": "DRF Tutorial: Quickstart",
+    "url": "https://www.django-rest-framework.org/tutorial/quickstart",
+    "source": "Curated starter list",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-30T05:42:46.45323262Z",
+    "description": "Build a simple API using serializers, viewsets, and routers."
+  },
+  {
+    "title": "DRF Tutorial: Serialization",
+    "url": "https://www.django-rest-framework.org/tutorial/1-serialization",
+    "source": "Curated starter list",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-30T05:42:46.45323262Z",
+    "description": "Start the official multi-part API tutorial."
+  },
+  {
+    "title": "Real Python: Django REST Framework",
+    "url": "https://realpython.com/tutorials/django",
+    "source": "Curated starter list",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-30T05:42:46.45323262Z",
+    "description": "Django tutorials and practical articles."
+  },
+  {
+    "title": "Learn With Mentor AI: A Guided Journey Through Async Python",
+    "url": "https://realpython.com/learn-with-mentor-ai-async-python",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-29T14:00:00Z",
+    "description": "Experience a new way of learning on Real Python by working through async Python in conversation with Mentor AI, one well-placed question at a time."
+  },
+  {
+    "title": "Quiz: Learn With Mentor AI: A Guided Journey Through Async Python",
+    "url": "https://realpython.com/quizzes/learn-with-mentor-ai-async-python",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-29T12:00:00Z",
+    "description": "Practice learning async Python with Mentor AI. Check how coroutines, await, and the event loop work, and how to steer your mentor."
+  },
+  {
+    "title": "How to Get Out of Tutorial Hell",
+    "url": "https://realpython.com/how-to-get-out-of-tutorial-hell",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-27T14:00:00Z",
+    "description": "Stuck in tutorial hell? Learn how to get out by turning Python tutorials into practical projects that build real skills and lasting confidence."
+  },
+  {
+    "title": "MCP vs API Calls: Which Should You Use for Python LLM Apps?",
+    "url": "https://realpython.com/mcp-vs-api",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-27T14:00:00Z",
+    "description": "MCP vs API calls: build one Python tool, integrate it both ways, and compare. Learn what each approach costs and when an MCP server pays for itself."
+  },
+  {
+    "title": "Python Circular Imports: Why They Happen and How to Fix Them",
+    "url": "https://realpython.com/python-circular-imports",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-27T14:00:00Z",
+    "description": "Confused by Python circular imports? Learn why they happen, how Python's import system works, and how to fix import errors using practical examples."
+  },
+  {
+    "title": "Quiz: How to Get Out of Tutorial Hell",
+    "url": "https://realpython.com/quizzes/how-to-get-out-of-tutorial-hell",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-27T12:00:00Z",
+    "description": "Test how well you can turn Python tutorials into practical projects by specifying problems, weighing tradeoffs, and knowing when you're done."
+  },
+  {
+    "title": "Quiz: MCP vs API Calls: Which Should You Use for Python LLM Apps?",
+    "url": "https://realpython.com/quizzes/mcp-vs-api",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-27T12:00:00Z",
+    "description": "Test your understanding of MCP vs API calls in Python LLM apps, from tool schemas and MCP servers to when each approach pays off."
+  },
+  {
+    "title": "Quiz: Python Circular Imports: Why They Happen and How to Fix Them",
+    "url": "https://realpython.com/quizzes/python-circular-imports",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-27T12:00:00Z",
+    "description": "Test your understanding of Python circular imports, from how the import system loads modules to the fixes and workarounds that break a cycle."
+  },
+  {
+    "title": "A Practical Introduction to Web Scraping in Python",
+    "url": "https://realpython.com/python-web-scraping-practical-introduction",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-26T14:00:00Z",
+    "description": "Get started with Python web scraping: parse data from websites and interact with HTML forms using Beautiful Soup and MechanicalSoup."
+  },
+  {
+    "title": "Quiz: A Practical Introduction to Web Scraping in Python",
+    "url": "https://realpython.com/quizzes/python-web-scraping-practical-introduction",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-26T12:00:00Z",
+    "description": "In this quiz, you'll test your understanding of web scraping in Python. Web scraping is a powerful tool for data collection and analysis. By working through this quiz, you'll revisit how to parse website data using string methods, regular …"
+  },
+  {
+    "title": "Quiz: Working With APIs in Python: Reading Public Data",
+    "url": "https://realpython.com/quizzes/working-apis-reading-public-data",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-26T12:00:00Z",
+    "description": "Test your understanding of consuming REST APIs with Requests, from status codes and JSON to query parameters, authentication, and rate limits."
+  },
+  {
+    "title": "The Real Python Podcast – Episode #315: Python Pitfalls: Common Mistakes and How to Avoid Them",
+    "url": "https://realpython.com/podcasts/rpp/315",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-16T12:00:00Z",
+    "description": "What are common mistakes that Python beginners make, and how do you avoid them? Christopher Trudeau is back on the show this week with another batch of PyCoder's Weekly articles and projects."
+  },
+  {
+    "title": "Top Django Libraries Every Python Developer Needs in 2026 - Analytics Insight",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTl9YY3pwSVRlZGpvWjB5UkhUX09jZTR0YUdKTjlGYmtEa2JEVGU2OXVKY2xwb1pJa3hVa0VnQ0RKVlZDQjEwaXFwczdsN2FpdFZYNjBqMzVYaWg3U2FRYVM2SE92cWZMRFd3WEg5Z1ZpVGRVbnVEcVhiRkZsbVlvalBiYzNyQUdMS3pYTU04MGd3N05tdXBUZTUzbzFoR3pn0gGuAUFVX3lxTE0tVlkyNGYzdzREbXlHZ1R0Q1FBNXVHVzNQQVJuQWFDRG9IT21TV3BIX3Y5TXYtd3ZCNWptbTdxNzBmcDBqT3U1QzMzLWF5UFA5OElJdjByZHhmSGd3azFidnlmcVMzaFhNSXVONk42NFZNdmw2SlQ3TEdwcFF0cWkxUGVudE1HenU2NXFoQVpuLXc0RG95WmpXVE84NF84QWFaWkZHRmFwc1BhT01uUQ?oc=5",
+    "source": "Google News search: Django REST framework beginner project",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-07-26T07:00:00Z",
+    "description": "Top Django Libraries Every Python Developer Needs in 2026 Analytics Insight"
+  },
+  {
+    "title": "Build a Django REST API in 30 Minutes [2026] - tech-insider.org",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1bmJhcmNPU3JVM1RVUHJQRGtobnR3YTV2b2pzMEQyQ1ZRXzBpTmlGYmJ5RUVBUnA5RlNnNmlXeEpqR1VtNEFNX192SmkzbEp3WVI0MmUzWjJEY1RnZmNiMGN6MWNxTnBFaFM3ei1OYnluMng1cncxYTNYV1o?oc=5",
+    "source": "Google News search: Django REST framework tutorial",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-03-30T07:00:00Z",
+    "description": "Build a Django REST API in 30 Minutes [2026] tech-insider.org"
+  },
+  {
+    "title": "Python Django Tutorial: The Best Guide on Django Framework - Simplilearn.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rOUxCUURqbWhydHBKNTlLT3dZLUVKSzFQOE5qSkNHWG44YWFZMzQ1MnlyQXl0OUhnc05Md2R0Z2NTS2UtSDdkYjJFZUhtUjl5ZTVLVVVsUFZkc19DVXJQRUo1Z21mQlJ3MUxjYkpnY2JrSHpMWWc?oc=5",
+    "source": "Google News search: Django tutorial advanced",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-03-05T08:00:00Z",
+    "description": "Python Django Tutorial: The Best Guide on Django Framework Simplilearn.com"
+  },
+  {
+    "title": "Django vs Flask vs FastAPI: Which Python Web Framework Should You Choose in 2025? - Vocal",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbno4REZWbzlBUE50RmJ0UXFJZmtEemtuSUh3cGs2bFJJNXdkWVJ3d0k2Q3MtZHBZdDh6aFN5WFFnMWd6X21GYnY3N0JrdEFiNDVuVzFPaXRfZWhEem56T25GTm1nTUxtbUU4ZEpMd1d2NnZPS3pQVkp1elk1WDFPbjc5bFh4Q0IzeXZ1Q1JNWTlUbGdscnhoMUk5S1ZFbC1nZ3N6R2hn?oc=5",
+    "source": "Google News search: Django REST framework beginner project",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2025-05-06T06:57:44Z",
+    "description": "Django vs Flask vs FastAPI: Which Python Web Framework Should You Choose in 2025? Vocal"
+  },
+  {
+    "title": "LearnDjango - Django for APIs (5th Edition) - Buttondown",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNUh6YjVPcDBpUDZaTUJvbjkzQ3ZvX3VFbUpTRWNoa2l6TTJqdTNsWTFiVVk0QVN2S2NzUDlYZ2R1dHlaSU94cVF5RVN4cGduOVI0a19rSHkwcEJlX2djNFh0TWFOUG5sRlNzUkFKejBHRWFzMTRFeVVQSUI3Qk9QX3pTVUFSSmlfeDQ4?oc=5",
+    "source": "Google News search: Django REST framework course training",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2025-03-06T08:00:00Z",
+    "description": "LearnDjango - Django for APIs (5th Edition) Buttondown"
+  },
+  {
+    "title": "Create a Fullstack and Responsive Todo List Web Application With Django and React - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxRmlQZDkyUmRhQ2xvVmpGc2xkZ3B0dEdoMkhnSHQ0RWdxMk5VeGUza3ZQcWwycmRjTENxVmwzclYtd0E2aVlRQktIcTVyYmFBZkxfN1dGbDdmMmVf?oc=5",
+    "source": "Google News search: Django REST framework YouTube",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2024-03-25T07:00:00Z",
+    "description": "Create a Fullstack and Responsive Todo List Web Application With Django and React YouTube"
+  },
+  {
+    "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5",
+    "source": "Google News search: Django REST framework YouTube",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2019-10-18T07:00:00Z",
+    "description": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube"
+  },
+  {
+    "title": "DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8taTVRMzdHVVRXYTZtckdDZGcwMExVODRKb0lPQTRMbG5Rcmx3a0s3c1NQWXBLWElBQ1J3TWl5ZllsRXBsTGY4?oc=5",
+    "source": "Google News search: Django REST framework YouTube",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2016-08-12T07:00:00Z",
+    "description": "DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner YouTube"
+  },
+  {
+    "title": "Community Videos",
+    "url": "https://realpython.com/courses/community-videos",
+    "source": "Real Python",
+    "category": "Videos",
+    "discovered": "2026-09-30T14:00:00Z",
+    "description": "Watch Real Python's YouTube videos right here on the site, with the resources mentioned in each video and a full transcript."
+  }
+]
