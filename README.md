@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-10-30 05:42 UTC  
-**Unique resources:** 94
+**Last updated:** 2026-10-31 10:55 UTC  
+**Unique resources:** 102
 
 ## Start here
 
@@ -78,6 +78,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Tutorials & Articles
 
+- [Quiz: Inheritance and Composition: A Python OOP Guide](https://realpython.com/quizzes/inheritance-composition-python) — In this quiz, you'll test your understanding of inheritance and composition in Python. These are two major concepts in object-oriented programming that help model the relationship between two classes. By working through this quiz, you'll r…  
+  <sub>Source: Real Python · Discovered: 2026-10-30</sub>
 - [DRF filtering documentation](https://www.django-rest-framework.org/api-guide/filtering) — Filtering API querysets.  
   <sub>Source: Curated starter list · Discovered: 2026-10-30</sub>
 - [DRF pagination documentation](https://www.django-rest-framework.org/api-guide/pagination) — Pagination styles for API responses.  
@@ -112,6 +114,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Real Python · Discovered: 2026-10-26</sub>
 - [The Real Python Podcast – Episode #315: Python Pitfalls: Common Mistakes and How to Avoid Them](https://realpython.com/podcasts/rpp/315) — What are common mistakes that Python beginners make, and how do you avoid them? Christopher Trudeau is back on the show this week with another batch of PyCoder's Weekly articles and projects.  
   <sub>Source: Real Python · Discovered: 2026-10-16</sub>
+- [Django vs Flask vs FastAPI: 106K vs 13K req/s \[2026\] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xU1hOZWc5Z0NjYS1FTTRuX3piaV90YUFjUy02TEhaVkNDWGVjc1lMR1FpYjFIQlFqRlVBS1hKNlFSb1FXYVRLdTNnajF6LThzSkxYa1h2VWp5YzF0cTZTa2pESFZIbG1F?oc=5) — Django vs Flask vs FastAPI: 106K vs 13K req/s \[2026\] https://tech-insider.org/  
+  <sub>Source: Google News search: Django REST framework tutorial · Discovered: 2026-09-12</sub>
 - [Top Django Libraries Every Python Developer Needs in 2026 - Analytics Insight](https://news.google.com/rss/articles/CBMioAFBVV95cUxNTl9YY3pwSVRlZGpvWjB5UkhUX09jZTR0YUdKTjlGYmtEa2JEVGU2OXVKY2xwb1pJa3hVa0VnQ0RKVlZDQjEwaXFwczdsN2FpdFZYNjBqMzVYaWg3U2FRYVM2SE92cWZMRFd3WEg5Z1ZpVGRVbnVEcVhiRkZsbVlvalBiYzNyQUdMS3pYTU04MGd3N05tdXBUZTUzbzFoR3pn0gGuAUFVX3lxTE0tVlkyNGYzdzREbXlHZ1R0Q1FBNXVHVzNQQVJuQWFDRG9IT21TV3BIX3Y5TXYtd3ZCNWptbTdxNzBmcDBqT3U1QzMzLWF5UFA5OElJdjByZHhmSGd3azFidnlmcVMzaFhNSXVONk42NFZNdmw2SlQ3TEdwcFF0cWkxUGVudE1HenU2NXFoQVpuLXc0RG95WmpXVE84NF84QWFaWkZHRmFwc1BhT01uUQ?oc=5) — Top Django Libraries Every Python Developer Needs in 2026 Analytics Insight  
   <sub>Source: Google News search: Django REST framework beginner project · Discovered: 2026-07-26</sub>
 - [Build a Django REST API in 30 Minutes \[2026\] - tech-insider.org](https://news.google.com/rss/articles/CBMifEFVX3lxTFB1bmJhcmNPU3JVM1RVUHJQRGtobnR3YTV2b2pzMEQyQ1ZRXzBpTmlGYmJ5RUVBUnA5RlNnNmlXeEpqR1VtNEFNX192SmkzbEp3WVI0MmUzWjJEY1RnZmNiMGN6MWNxTnBFaFM3ei1OYnluMng1cncxYTNYV1o?oc=5) — Build a Django REST API in 30 Minutes \[2026\] tech-insider.org  
@@ -126,6 +130,10 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2024-03-25</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
+- [DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kSUM1cDk5QVRTaEVOT2NlS0ZTOFczRnJnZkgtZkJvaEJNWWc4dHBzWTJ1ZzhYZVN6SFJNTXVXODRCOGFQVDloUWlB?oc=5) — DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
+- [How to Define a Custom Django Model (Django Tutorial) | Part 11 - YouTube](https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1yeEEzd3ZXNlptSDdmMURuSTI2clYwN2s4RDRBUGpiaHRVLVdwLUsyUlJrRmQwQzNpQVp3aEhTOEFremM?oc=5) — How to Define a Custom Django Model (Django Tutorial) | Part 11 YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2016-11-16</sub>
 - [DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner - YouTube](https://news.google.com/rss/articles/CBMiR0FVX3lxTE8taTVRMzdHVVRXYTZtckdDZGcwMExVODRKb0lPQTRMbG5Rcmx3a0s3c1NQWXBLWElBQ1J3TWl5ZllsRXBsTGY4?oc=5) — DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2016-08-12</sub>
 
@@ -172,6 +180,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Projects & Examples
 
+- [The Real Python Podcast – Episode #317: Demystifying Python Memory Management & Choosing a Project Layout](https://realpython.com/podcasts/rpp/317) — How does Python manage memory behind the scenes? What are the common ways to lay out a Python project? Christopher Trudeau is back on the show this week with another batch of PyCoder's Weekly articles and projects.  
+  <sub>Source: Real Python · Discovered: 2026-10-30</sub>
 - [Django REST Framework source code](https://github.com/encode/django-rest-framework) — Explore the DRF implementation and issue history.  
   <sub>Source: Curated starter list · Discovered: 2026-10-30</sub>
 - [Pyrefly: A Fast Static Type Checker for Python Projects](https://realpython.com/pyrefly-python) — Learn how to use Pyrefly, a fast static type checker for Python, to catch type errors, generate type annotations, and measure type coverage.  
@@ -202,11 +212,17 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework tutorial · Discovered: 2026-04-03</sub>
 - [What Is Flask? (Definition, vs. Django, Examples, History) - Built In](https://news.google.com/rss/articles/CBMia0FVX3lxTFByOTF5YTY3bzhfVWRXZmdaM0dJMFpQdW9yMW5MdEhyZ1ZUTnJGWEo1cVliMjFBbXd6dllWeHQxS0dGM0U3RXVnT0FaUFpoS0JXX3lTeTFsQS1yZmpadXhJa24yQVM5WEduN3dN?oc=5) — What Is Flask? (Definition, vs. Django, Examples, History) Built In  
   <sub>Source: Google News search: Django REST framework beginner project · Discovered: 2025-09-05</sub>
+- [Why you should choose Django over Flask for your next API project - Towards Data Science](https://news.google.com/rss/articles/CBMirwFBVV95cUxORlBRSXRxNmRIY2d1VHpMM0RsUW5Qei1wUzN4VkZscnBPSzl1cTRvdGVQelpGaUxzd204Z1JMb3dfM2tDUXdVNnJtR2pVcHF3UDBDdVNqUFQtYjdyNm5zVjdidTV6dVk3MlN2NXQ4dzdEYlI5cmhZR2EwZi1Rc1FlaVhIeEx2cUhPTzJIckRIeTRFbDVYbkJvTGJPeElkYzYwQ3YxXy1MRHJ1a0Y3QUNR?oc=5) — Why you should choose Django over Flask for your next API project Towards Data Science  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2025-02-04</sub>
 - [Top 10 Django Apps Examples - Netguru](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nSE8yOHFPd1RjR29IbzFMUXNxclFtQmNmWjgwTHkwT0xXTGR3YkxhX1dmRmxvSmFaeHFad2NhTDhqMm1JblBTQVlhLVhjQVE5Z25NUUozY0JPclZ2OXc?oc=5) — Top 10 Django Apps Examples Netguru  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2022-09-19</sub>
 
 ## Other
 
+- [GPT-6.1 Terra Draws a Python Reading a Book](https://realpython.com/ai-benchmark-gpt-6-1-terra) — Explore GPT-6.1 Terra's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.  
+  <sub>Source: Real Python · Discovered: 2026-10-30</sub>
+- [Quiz: Python's Mutable vs Immutable Types: What's the Difference?](https://realpython.com/quizzes/python-mutable-vs-immutable-types) — Find out how Python's mutable and immutable types behave, and see how mutability shapes lists, tuples, dictionaries, and your own classes.  
+  <sub>Source: Real Python · Discovered: 2026-10-30</sub>
 - [Quiz: Dictionaries and Arrays: Selecting the Ideal Data Structure](https://realpython.com/quizzes/dicts-arrays-ideal-data-structure) — Test your understanding of Python dictionaries and arrays, from dict, defaultdict, and ChainMap to lists, typed arrays, and bytearray.  
   <sub>Source: Real Python · Discovered: 2026-10-29</sub>
 - [Build a Python MCP Client to Test Servers From Your Terminal](https://realpython.com/python-mcp-client) — Follow this Python project to build an MCP client that discovers MCP server capabilities and feeds an AI-powered chat with tool calls.  

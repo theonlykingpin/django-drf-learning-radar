@@ -312,6 +312,22 @@
     "description": "Official API guide and tutorials for serializers, views, authentication, permissions, and more."
   },
   {
+    "title": "GPT-6.1 Terra Draws a Python Reading a Book",
+    "url": "https://realpython.com/ai-benchmark-gpt-6-1-terra",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-10-30T14:00:00Z",
+    "description": "Explore GPT-6.1 Terra's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions."
+  },
+  {
+    "title": "Quiz: Python's Mutable vs Immutable Types: What's the Difference?",
+    "url": "https://realpython.com/quizzes/python-mutable-vs-immutable-types",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-10-30T12:00:00Z",
+    "description": "Find out how Python's mutable and immutable types behave, and see how mutability shapes lists, tuples, dictionaries, and your own classes."
+  },
+  {
     "title": "Quiz: Dictionaries and Arrays: Selecting the Ideal Data Structure",
     "url": "https://realpython.com/quizzes/dicts-arrays-ideal-data-structure",
     "source": "Real Python",
@@ -398,6 +414,14 @@
     "category": "Other",
     "discovered": "2026-08-21T12:00:00Z",
     "description": "Why do AI systems silently fail? How can you set up a system that produces results while also reviewing and validating the work? This week on the show, Calvin Hendryx-Parker returns to discuss his recent talk \"Orchestrate Agentic AI: Conte…"
+  },
+  {
+    "title": "The Real Python Podcast – Episode #317: Demystifying Python Memory Management \u0026 Choosing a Project Layout",
+    "url": "https://realpython.com/podcasts/rpp/317",
+    "source": "Real Python",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2026-10-30T12:00:00Z",
+    "description": "How does Python manage memory behind the scenes? What are the common ways to lay out a Python project? Christopher Trudeau is back on the show this week with another batch of PyCoder's Weekly articles and projects."
   },
   {
     "title": "Django REST Framework source code",
@@ -520,6 +544,14 @@
     "description": "What Is Flask? (Definition, vs. Django, Examples, History) Built In"
   },
   {
+    "title": "Why you should choose Django over Flask for your next API project - Towards Data Science",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORlBRSXRxNmRIY2d1VHpMM0RsUW5Qei1wUzN4VkZscnBPSzl1cTRvdGVQelpGaUxzd204Z1JMb3dfM2tDUXdVNnJtR2pVcHF3UDBDdVNqUFQtYjdyNm5zVjdidTV6dVk3MlN2NXQ4dzdEYlI5cmhZR2EwZi1Rc1FlaVhIeEx2cUhPTzJIckRIeTRFbDVYbkJvTGJPeElkYzYwQ3YxXy1MRHJ1a0Y3QUNR?oc=5",
+    "source": "Google News search: Django REST framework YouTube",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2025-02-04T13:07:21Z",
+    "description": "Why you should choose Django over Flask for your next API project Towards Data Science"
+  },
+  {
     "title": "Top 10 Django Apps Examples - Netguru",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nSE8yOHFPd1RjR29IbzFMUXNxclFtQmNmWjgwTHkwT0xXTGR3YkxhX1dmRmxvSmFaeHFad2NhTDhqMm1JblBTQVlhLVhjQVE5Z25NUUozY0JPclZ2OXc?oc=5",
     "source": "Google News search: Django REST framework YouTube",
@@ -542,6 +574,14 @@
     "category": "Testing \u0026 Quality",
     "discovered": "2026-09-16T07:00:00Z",
     "description": "Can Rust Improve Real Django API Performance? Testing Django-Bolt Beyond Synthetic Benchmarks DevOps.com"
+  },
+  {
+    "title": "Quiz: Inheritance and Composition: A Python OOP Guide",
+    "url": "https://realpython.com/quizzes/inheritance-composition-python",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-30T12:00:00Z",
+    "description": "In this quiz, you'll test your understanding of inheritance and composition in Python. These are two major concepts in object-oriented programming that help model the relationship between two classes. By working through this quiz, you'll r…"
   },
   {
     "title": "DRF filtering documentation",
@@ -680,6 +720,14 @@
     "description": "What are common mistakes that Python beginners make, and how do you avoid them? Christopher Trudeau is back on the show this week with another batch of PyCoder's Weekly articles and projects."
   },
   {
+    "title": "Django vs Flask vs FastAPI: 106K vs 13K req/s [2026] - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xU1hOZWc5Z0NjYS1FTTRuX3piaV90YUFjUy02TEhaVkNDWGVjc1lMR1FpYjFIQlFqRlVBS1hKNlFSb1FXYVRLdTNnajF6LThzSkxYa1h2VWp5YzF0cTZTa2pESFZIbG1F?oc=5",
+    "source": "Google News search: Django REST framework tutorial",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-09-12T07:00:00Z",
+    "description": "Django vs Flask vs FastAPI: 106K vs 13K req/s [2026] https://tech-insider.org/"
+  },
+  {
     "title": "Top Django Libraries Every Python Developer Needs in 2026 - Analytics Insight",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTl9YY3pwSVRlZGpvWjB5UkhUX09jZTR0YUdKTjlGYmtEa2JEVGU2OXVKY2xwb1pJa3hVa0VnQ0RKVlZDQjEwaXFwczdsN2FpdFZYNjBqMzVYaWg3U2FRYVM2SE92cWZMRFd3WEg5Z1ZpVGRVbnVEcVhiRkZsbVlvalBiYzNyQUdMS3pYTU04MGd3N05tdXBUZTUzbzFoR3pn0gGuAUFVX3lxTE0tVlkyNGYzdzREbXlHZ1R0Q1FBNXVHVzNQQVJuQWFDRG9IT21TV3BIX3Y5TXYtd3ZCNWptbTdxNzBmcDBqT3U1QzMzLWF5UFA5OElJdjByZHhmSGd3azFidnlmcVMzaFhNSXVONk42NFZNdmw2SlQ3TEdwcFF0cWkxUGVudE1HenU2NXFoQVpuLXc0RG95WmpXVE84NF84QWFaWkZHRmFwc1BhT01uUQ?oc=5",
     "source": "Google News search: Django REST framework beginner project",
@@ -734,6 +782,22 @@
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",
     "description": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube"
+  },
+  {
+    "title": "DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kSUM1cDk5QVRTaEVOT2NlS0ZTOFczRnJnZkgtZkJvaEJNWWc4dHBzWTJ1ZzhYZVN6SFJNTXVXODRCOGFQVDloUWlB?oc=5",
+    "source": "Google News search: Django REST framework YouTube",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2019-10-18T07:00:00Z",
+    "description": "DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa YouTube"
+  },
+  {
+    "title": "How to Define a Custom Django Model (Django Tutorial) | Part 11 - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1yeEEzd3ZXNlptSDdmMURuSTI2clYwN2s4RDRBUGpiaHRVLVdwLUsyUlJrRmQwQzNpQVp3aEhTOEFremM?oc=5",
+    "source": "Google News search: Django REST framework YouTube",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2016-11-16T08:00:00Z",
+    "description": "How to Define a Custom Django Model (Django Tutorial) | Part 11 YouTube"
   },
   {
     "title": "DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner - YouTube",
