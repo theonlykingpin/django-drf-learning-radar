@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-10-31 10:55 UTC  
-**Unique resources:** 102
+**Last updated:** 2026-11-01 11:51 UTC  
+**Unique resources:** 111
 
 ## Start here
 
@@ -78,6 +78,12 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Tutorials & Articles
 
+- [How to Write Beautiful Python Code With PEP 8](https://realpython.com/python-pep8) — Learn how to write readable, high-quality Python code by following the PEP 8 style guide and using linters and autoformatters to enforce it.  
+  <sub>Source: Real Python · Discovered: 2026-10-30</sub>
+- [Inheritance and Composition: A Python OOP Guide](https://realpython.com/inheritance-composition-python) — Learn how inheritance and composition in Python model is-a and has-a relationships, and when to use each to design flexible object-oriented code.  
+  <sub>Source: Real Python · Discovered: 2026-10-30</sub>
+- [Python's Requests Library (Guide)](https://realpython.com/python-requests) — The Requests library is the go-to tool for making HTTP requests in Python. Learn how to use its intuitive API to send requests and interact with the web.  
+  <sub>Source: Real Python · Discovered: 2026-10-30</sub>
 - [Quiz: Inheritance and Composition: A Python OOP Guide](https://realpython.com/quizzes/inheritance-composition-python) — In this quiz, you'll test your understanding of inheritance and composition in Python. These are two major concepts in object-oriented programming that help model the relationship between two classes. By working through this quiz, you'll r…  
   <sub>Source: Real Python · Discovered: 2026-10-30</sub>
 - [DRF filtering documentation](https://www.django-rest-framework.org/api-guide/filtering) — Filtering API querysets.  
@@ -155,6 +161,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Django Blog · Discovered: 2026-10-06</sub>
 - [Django REST Framework Tutorial (2025): Build a CRUD API with Authentication | Real Estate API Series - YouTube](https://news.google.com/rss/articles/CBMiQkFVX3lxTFBMdmF5WU5DdTEwU25YV1ZqUU1acmhMa1BRUEhmZ1JIYjNSaXF6VlNJc3NlWUUzYmEzQmtYblFqVUdJZw?oc=5) — Django REST Framework Tutorial (2025): Build a CRUD API with Authentication | Real Estate API Series YouTube  
   <sub>Source: Google News search: Django REST framework tutorial · Discovered: 2025-09-11</sub>
+- [Build a User Authentication Web App With Python and Django - Towards Data Science](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQTBMTEhaNGFqYVAxSjIwZmRNdXBOWnJUZTlTd2pfelZFVzZsSlBEUFJ0aHZNcG5LNmh0bGdrU0FJOHBTVGlBM3VON0NabUtCRllWMnYya0FLVC1rcFVuSjBnZ2c3ckRjNWU4Z2ZtbVBvYmwxMzB3clFpOG1BNzdCSm9LalBYczFVVWh4cGVRZHRURFM3YVRRN3dRekFlcm9mUklpMFJB?oc=5) — Build a User Authentication Web App With Python and Django Towards Data Science  
+  <sub>Source: Google News search: Django REST framework beginner project · Discovered: 2025-02-04</sub>
 
 ## Testing & Quality
 
@@ -200,6 +208,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Django Blog · Discovered: 2026-10-01</sub>
 - [DSF member of the month - Ken Whitesell](https://www.djangoproject.com/weblog/2026/sep/24/dsf-member-of-the-month-ken-whitesell) — For September 2026, we welcome Ken Whitesell as our DSF member of the month! ⭐ Ken has long been part of the Django community, serving for many years as an helper in the Django forum and recipient of the Malcolm Tredinnick Memorial award. …  
   <sub>Source: Django Blog · Discovered: 2026-09-24</sub>
+- [Flask vs Django: which Python framework fits your project - Netguru](https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1WF9MSmI5ek9FQVU3OVdIY1NWS19xdUFPZ2JINXA2SWVQMjJseVpNZ1BvZmZ5c05XbGRCODdxWGdVSFlobUlGOGFjeEcybEk2RXZTejRRZw?oc=5) — Flask vs Django: which Python framework fits your project Netguru  
+  <sub>Source: Google News search: Django REST framework beginner project · Discovered: 2026-09-23</sub>
 - [New Technical Governance Approved](https://www.djangoproject.com/weblog/2026/sep/22/new-technical-governance-approved) — Both the Steering Council and DSF Board have approved DEP 19, which implements our new technical governance. Thank you to everyone who read the document and participated in the process! This was the effort of two different DSF boards and d…  
   <sub>Source: Django Blog · Discovered: 2026-09-22</sub>
 - [Proposed change to DSF voting membership](https://www.djangoproject.com/weblog/2026/sep/18/proposed-change-to-dsf-voting-membership) — We're proposing a new voting membership status to help us track active members. If you've voted in a Board election in the last two years, you're active, and you count toward quorum. If you haven't, you're still a member, but you won't cou…  
@@ -219,7 +229,15 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Other
 
+- [OpenAI Halves the Price of Its New Everyday AI Model](https://realpython.com/ai-news-weekly-2026-10-30) — Real Python's weekly AI news for October 24–30, 2026, explained in plain language: Cheaper OpenAI Model, Free Mistral Model, and New Kimi Model.  
+  <sub>Source: Real Python · Discovered: 2026-10-31</sub>
+- [Quiz: Socket Programming in Python](https://realpython.com/quizzes/socket-programming-in-python) — In this quiz, you'll test your understanding of Python sockets. With this knowledge, you'll be able to create your own client-server applications, handle multiple connections simultaneously, and send messages and data between endpoints.  
+  <sub>Source: Real Python · Discovered: 2026-10-31</sub>
+- [Getters and Setters: Manage Attributes in Python](https://realpython.com/python-getter-setter) — Learn what Python getter and setter methods are, why properties are usually the better choice, and when getters and setters still make sense.  
+  <sub>Source: Real Python · Discovered: 2026-10-30</sub>
 - [GPT-6.1 Terra Draws a Python Reading a Book](https://realpython.com/ai-benchmark-gpt-6-1-terra) — Explore GPT-6.1 Terra's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.  
+  <sub>Source: Real Python · Discovered: 2026-10-30</sub>
+- [Python range(): Represent Numerical Ranges](https://realpython.com/python-range) — Master the Python range() function, see how it works under the hood, and learn when enumerate() or zip() beat ranges in your loops.  
   <sub>Source: Real Python · Discovered: 2026-10-30</sub>
 - [Quiz: Python's Mutable vs Immutable Types: What's the Difference?](https://realpython.com/quizzes/python-mutable-vs-immutable-types) — Find out how Python's mutable and immutable types behave, and see how mutability shapes lists, tuples, dictionaries, and your own classes.  
   <sub>Source: Real Python · Discovered: 2026-10-30</sub>

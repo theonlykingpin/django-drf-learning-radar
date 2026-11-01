@@ -64,6 +64,14 @@
     "description": "Django REST Framework Tutorial (2025): Build a CRUD API with Authentication | Real Estate API Series YouTube"
   },
   {
+    "title": "Build a User Authentication Web App With Python and Django - Towards Data Science",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQTBMTEhaNGFqYVAxSjIwZmRNdXBOWnJUZTlTd2pfelZFVzZsSlBEUFJ0aHZNcG5LNmh0bGdrU0FJOHBTVGlBM3VON0NabUtCRllWMnYya0FLVC1rcFVuSjBnZ2c3ckRjNWU4Z2ZtbVBvYmwxMzB3clFpOG1BNzdCSm9LalBYczFVVWh4cGVRZHRURFM3YVRRN3dRekFlcm9mUklpMFJB?oc=5",
+    "source": "Google News search: Django REST framework beginner project",
+    "category": "API Security \u0026 Authentication",
+    "discovered": "2025-02-04T12:43:03Z",
+    "description": "Build a User Authentication Web App With Python and Django Towards Data Science"
+  },
+  {
     "title": "Django for APIs",
     "url": "https://djangoforapis.com",
     "source": "Curated starter list",
@@ -312,12 +320,44 @@
     "description": "Official API guide and tutorials for serializers, views, authentication, permissions, and more."
   },
   {
+    "title": "OpenAI Halves the Price of Its New Everyday AI Model",
+    "url": "https://realpython.com/ai-news-weekly-2026-10-30",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-10-31T14:00:00Z",
+    "description": "Real Python's weekly AI news for October 24–30, 2026, explained in plain language: Cheaper OpenAI Model, Free Mistral Model, and New Kimi Model."
+  },
+  {
+    "title": "Quiz: Socket Programming in Python",
+    "url": "https://realpython.com/quizzes/socket-programming-in-python",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-10-31T12:00:00Z",
+    "description": "In this quiz, you'll test your understanding of Python sockets. With this knowledge, you'll be able to create your own client-server applications, handle multiple connections simultaneously, and send messages and data between endpoints."
+  },
+  {
+    "title": "Getters and Setters: Manage Attributes in Python",
+    "url": "https://realpython.com/python-getter-setter",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-10-30T14:00:00Z",
+    "description": "Learn what Python getter and setter methods are, why properties are usually the better choice, and when getters and setters still make sense."
+  },
+  {
     "title": "GPT-6.1 Terra Draws a Python Reading a Book",
     "url": "https://realpython.com/ai-benchmark-gpt-6-1-terra",
     "source": "Real Python",
     "category": "Other",
     "discovered": "2026-10-30T14:00:00Z",
     "description": "Explore GPT-6.1 Terra's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions."
+  },
+  {
+    "title": "Python range(): Represent Numerical Ranges",
+    "url": "https://realpython.com/python-range",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-10-30T14:00:00Z",
+    "description": "Master the Python range() function, see how it works under the hood, and learn when enumerate() or zip() beat ranges in your loops."
   },
   {
     "title": "Quiz: Python's Mutable vs Immutable Types: What's the Difference?",
@@ -496,6 +536,14 @@
     "description": "For September 2026, we welcome Ken Whitesell as our DSF member of the month! ⭐ Ken has long been part of the Django community, serving for many years as an helper in the Django forum and recipient of the Malcolm Tredinnick Memorial award. …"
   },
   {
+    "title": "Flask vs Django: which Python framework fits your project - Netguru",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1WF9MSmI5ek9FQVU3OVdIY1NWS19xdUFPZ2JINXA2SWVQMjJseVpNZ1BvZmZ5c05XbGRCODdxWGdVSFlobUlGOGFjeEcybEk2RXZTejRRZw?oc=5",
+    "source": "Google News search: Django REST framework beginner project",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2026-09-23T07:00:00Z",
+    "description": "Flask vs Django: which Python framework fits your project Netguru"
+  },
+  {
     "title": "New Technical Governance Approved",
     "url": "https://www.djangoproject.com/weblog/2026/sep/22/new-technical-governance-approved",
     "source": "Django Blog",
@@ -574,6 +622,30 @@
     "category": "Testing \u0026 Quality",
     "discovered": "2026-09-16T07:00:00Z",
     "description": "Can Rust Improve Real Django API Performance? Testing Django-Bolt Beyond Synthetic Benchmarks DevOps.com"
+  },
+  {
+    "title": "How to Write Beautiful Python Code With PEP 8",
+    "url": "https://realpython.com/python-pep8",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-30T14:00:00Z",
+    "description": "Learn how to write readable, high-quality Python code by following the PEP 8 style guide and using linters and autoformatters to enforce it."
+  },
+  {
+    "title": "Inheritance and Composition: A Python OOP Guide",
+    "url": "https://realpython.com/inheritance-composition-python",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-30T14:00:00Z",
+    "description": "Learn how inheritance and composition in Python model is-a and has-a relationships, and when to use each to design flexible object-oriented code."
+  },
+  {
+    "title": "Python's Requests Library (Guide)",
+    "url": "https://realpython.com/python-requests",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-30T14:00:00Z",
+    "description": "The Requests library is the go-to tool for making HTTP requests in Python. Learn how to use its intuitive API to send requests and interact with the web."
   },
   {
     "title": "Quiz: Inheritance and Composition: A Python OOP Guide",
