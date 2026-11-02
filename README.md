@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-11-01 11:51 UTC  
-**Unique resources:** 111
+**Last updated:** 2026-11-02 13:29 UTC  
+**Unique resources:** 121
 
 ## Start here
 
@@ -29,6 +29,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Courses & Training
 
+- [Operator and Function Overloading in Custom Python Classes](https://realpython.com/operator-function-overloading) — Use Python operator overloading to make built-in functions and operators work with your own classes, and write more Pythonic code.  
+  <sub>Source: Real Python · Discovered: 2026-11-01</sub>
 - [Django for APIs](https://djangoforapis.com) — Book and learning resources focused on APIs with Django.  
   <sub>Source: Curated starter list · Discovered: 2026-10-30</sub>
 - [Django Girls Tutorial](https://tutorial.djangogirls.org) — Beginner-friendly, project-based Django course.  
@@ -78,6 +80,16 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Tutorials & Articles
 
+- [Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code) — A complete guide to documenting Python code. Whether you're documenting a small script or a large project, this guide covers what you need to know.  
+  <sub>Source: Real Python · Discovered: 2026-11-01</sub>
+- [Quiz: Documenting Python Code: A Complete Guide](https://realpython.com/quizzes/documenting-python-code) — In this quiz, you'll test your understanding of documenting Python code. With this knowledge, you'll be able to effectively document your Python scripts and projects, making them more understandable and maintainable.  
+  <sub>Source: Real Python · Discovered: 2026-11-01</sub>
+- [Generating Random Data in Python (Guide)](https://realpython.com/python-random) — Compare the Python random module with its alternatives for generating random data, on security, versatility, purpose, and speed.  
+  <sub>Source: Real Python · Discovered: 2026-10-31</sub>
+- [How to Build a Python GUI Application With wxPython](https://realpython.com/python-gui-with-wxpython) — Build a cross-platform Python GUI with wxPython in this tutorial, from buttons and sizers to a working MP3 tag editor application.  
+  <sub>Source: Real Python · Discovered: 2026-10-31</sub>
+- [Socket Programming in Python (Guide)](https://realpython.com/python-sockets) — Build a Python socket server and client from scratch, then extend it to handle multiple connections at once without blocking.  
+  <sub>Source: Real Python · Discovered: 2026-10-31</sub>
 - [How to Write Beautiful Python Code With PEP 8](https://realpython.com/python-pep8) — Learn how to write readable, high-quality Python code by following the PEP 8 style guide and using linters and autoformatters to enforce it.  
   <sub>Source: Real Python · Discovered: 2026-10-30</sub>
 - [Inheritance and Composition: A Python OOP Guide](https://realpython.com/inheritance-composition-python) — Learn how inheritance and composition in Python model is-a and has-a relationships, and when to use each to design flexible object-oriented code.  
@@ -229,7 +241,15 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Other
 
+- [Quiz: Advanced Git Tips for Python Developers](https://realpython.com/quizzes/advanced-git-for-pythonistas) — Test your advanced Git skills: selecting revisions and ranges, stashing work, comparing commits, and rewriting local history safely.  
+  <sub>Source: Real Python · Discovered: 2026-11-02</sub>
+- [Recursion in Python: An Introduction](https://realpython.com/python-recursion) — Get to grips with Python recursion: what it is, how it works, when to reach for it, and how recursive and iterative solutions compare.  
+  <sub>Source: Real Python · Discovered: 2026-11-01</sub>
+- [Object-Oriented Programming in Python vs Java](https://realpython.com/oop-in-python-vs-java) — Compare Python vs Java for object-oriented programming and learn how to apply your Java knowledge of classes and objects to Python in a Pythonic way.  
+  <sub>Source: Real Python · Discovered: 2026-10-31</sub>
 - [OpenAI Halves the Price of Its New Everyday AI Model](https://realpython.com/ai-news-weekly-2026-10-30) — Real Python's weekly AI news for October 24–30, 2026, explained in plain language: Cheaper OpenAI Model, Free Mistral Model, and New Kimi Model.  
+  <sub>Source: Real Python · Discovered: 2026-10-31</sub>
+- [Using the Python zip() Function for Parallel Iteration](https://realpython.com/python-zip-function) — Learn how to use the Python zip() function to iterate over multiple iterables in parallel, unzip sequences, and build dictionaries with less code.  
   <sub>Source: Real Python · Discovered: 2026-10-31</sub>
 - [Quiz: Socket Programming in Python](https://realpython.com/quizzes/socket-programming-in-python) — In this quiz, you'll test your understanding of Python sockets. With this knowledge, you'll be able to create your own client-server applications, handle multiple connections simultaneously, and send messages and data between endpoints.  
   <sub>Source: Real Python · Discovered: 2026-10-31</sub>

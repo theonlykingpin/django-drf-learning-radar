@@ -72,6 +72,14 @@
     "description": "Build a User Authentication Web App With Python and Django Towards Data Science"
   },
   {
+    "title": "Operator and Function Overloading in Custom Python Classes",
+    "url": "https://realpython.com/operator-function-overloading",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2026-11-01T14:00:00Z",
+    "description": "Use Python operator overloading to make built-in functions and operators work with your own classes, and write more Pythonic code."
+  },
+  {
     "title": "Django for APIs",
     "url": "https://djangoforapis.com",
     "source": "Curated starter list",
@@ -320,12 +328,44 @@
     "description": "Official API guide and tutorials for serializers, views, authentication, permissions, and more."
   },
   {
+    "title": "Quiz: Advanced Git Tips for Python Developers",
+    "url": "https://realpython.com/quizzes/advanced-git-for-pythonistas",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-02T12:00:00Z",
+    "description": "Test your advanced Git skills: selecting revisions and ranges, stashing work, comparing commits, and rewriting local history safely."
+  },
+  {
+    "title": "Recursion in Python: An Introduction",
+    "url": "https://realpython.com/python-recursion",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-01T14:00:00Z",
+    "description": "Get to grips with Python recursion: what it is, how it works, when to reach for it, and how recursive and iterative solutions compare."
+  },
+  {
+    "title": "Object-Oriented Programming in Python vs Java",
+    "url": "https://realpython.com/oop-in-python-vs-java",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-10-31T14:00:00Z",
+    "description": "Compare Python vs Java for object-oriented programming and learn how to apply your Java knowledge of classes and objects to Python in a Pythonic way."
+  },
+  {
     "title": "OpenAI Halves the Price of Its New Everyday AI Model",
     "url": "https://realpython.com/ai-news-weekly-2026-10-30",
     "source": "Real Python",
     "category": "Other",
     "discovered": "2026-10-31T14:00:00Z",
     "description": "Real Python's weekly AI news for October 24–30, 2026, explained in plain language: Cheaper OpenAI Model, Free Mistral Model, and New Kimi Model."
+  },
+  {
+    "title": "Using the Python zip() Function for Parallel Iteration",
+    "url": "https://realpython.com/python-zip-function",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-10-31T14:00:00Z",
+    "description": "Learn how to use the Python zip() function to iterate over multiple iterables in parallel, unzip sequences, and build dictionaries with less code."
   },
   {
     "title": "Quiz: Socket Programming in Python",
@@ -622,6 +662,46 @@
     "category": "Testing \u0026 Quality",
     "discovered": "2026-09-16T07:00:00Z",
     "description": "Can Rust Improve Real Django API Performance? Testing Django-Bolt Beyond Synthetic Benchmarks DevOps.com"
+  },
+  {
+    "title": "Documenting Python Code: A Complete Guide",
+    "url": "https://realpython.com/documenting-python-code",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-11-01T14:00:00Z",
+    "description": "A complete guide to documenting Python code. Whether you're documenting a small script or a large project, this guide covers what you need to know."
+  },
+  {
+    "title": "Quiz: Documenting Python Code: A Complete Guide",
+    "url": "https://realpython.com/quizzes/documenting-python-code",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-11-01T12:00:00Z",
+    "description": "In this quiz, you'll test your understanding of documenting Python code. With this knowledge, you'll be able to effectively document your Python scripts and projects, making them more understandable and maintainable."
+  },
+  {
+    "title": "Generating Random Data in Python (Guide)",
+    "url": "https://realpython.com/python-random",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-31T14:00:00Z",
+    "description": "Compare the Python random module with its alternatives for generating random data, on security, versatility, purpose, and speed."
+  },
+  {
+    "title": "How to Build a Python GUI Application With wxPython",
+    "url": "https://realpython.com/python-gui-with-wxpython",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-31T14:00:00Z",
+    "description": "Build a cross-platform Python GUI with wxPython in this tutorial, from buttons and sizers to a working MP3 tag editor application."
+  },
+  {
+    "title": "Socket Programming in Python (Guide)",
+    "url": "https://realpython.com/python-sockets",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-10-31T14:00:00Z",
+    "description": "Build a Python socket server and client from scratch, then extend it to handle multiple connections at once without blocking."
   },
   {
     "title": "How to Write Beautiful Python Code With PEP 8",
