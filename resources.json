@@ -328,6 +328,30 @@
     "description": "Official API guide and tutorials for serializers, views, authentication, permissions, and more."
   },
   {
+    "title": "Quiz: Converting Documents to Markdown With MarkItDown",
+    "url": "https://realpython.com/quizzes/converting-documents-markdown-markitdown",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-03T12:00:00Z",
+    "description": "Check your MarkItDown skills. Convert documents to LLM-ready Markdown, use the MCP server, and get image descriptions. Try the quiz."
+  },
+  {
+    "title": "Python 3.15 Ships and Other Python News for November 2026",
+    "url": "https://realpython.com/python-news-november-2026",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-02T14:00:00Z",
+    "description": "Python 3.15 ships, 3.16 eyes None-aware operators, eight broken CA keys trigger security releases, and Anthropic drops temperature."
+  },
+  {
+    "title": "SimPy: Simulating Real-World Processes With Python",
+    "url": "https://realpython.com/simpy-simulating-with-python",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-02T14:00:00Z",
+    "description": "Use the SimPy package to model real-world processes in Python, then design and run a simulation that shows where a system gets congested."
+  },
+  {
     "title": "Quiz: Advanced Git Tips for Python Developers",
     "url": "https://realpython.com/quizzes/advanced-git-for-pythonistas",
     "source": "Real Python",
@@ -664,6 +688,14 @@
     "description": "Can Rust Improve Real Django API Performance? Testing Django-Bolt Beyond Synthetic Benchmarks DevOps.com"
   },
   {
+    "title": "Quiz: How to Use Claude Code Skills for Better Python Docstrings",
+    "url": "https://realpython.com/quizzes/claude-code-skills",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-11-03T12:00:00Z",
+    "description": "Check your understanding of Claude Code skills, from SKILL.md frontmatter and reference files to bundled scripts and personal skills."
+  },
+  {
     "title": "Documenting Python Code: A Complete Guide",
     "url": "https://realpython.com/documenting-python-code",
     "source": "Real Python",
@@ -930,6 +962,14 @@
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5",
+    "source": "Google News search: Django REST framework YouTube",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2019-10-18T07:00:00Z",
+    "description": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube"
+  },
+  {
+    "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",

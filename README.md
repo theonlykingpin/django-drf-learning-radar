@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-11-02 13:29 UTC  
-**Unique resources:** 121
+**Last updated:** 2026-11-03 12:48 UTC  
+**Unique resources:** 126
 
 ## Start here
 
@@ -80,6 +80,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Tutorials & Articles
 
+- [Quiz: How to Use Claude Code Skills for Better Python Docstrings](https://realpython.com/quizzes/claude-code-skills) — Check your understanding of Claude Code skills, from SKILL.md frontmatter and reference files to bundled scripts and personal skills.  
+  <sub>Source: Real Python · Discovered: 2026-11-03</sub>
 - [Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code) — A complete guide to documenting Python code. Whether you're documenting a small script or a large project, this guide covers what you need to know.  
   <sub>Source: Real Python · Discovered: 2026-11-01</sub>
 - [Quiz: Documenting Python Code: A Complete Guide](https://realpython.com/quizzes/documenting-python-code) — In this quiz, you'll test your understanding of documenting Python code. With this knowledge, you'll be able to effectively document your Python scripts and projects, making them more understandable and maintainable.  
@@ -147,6 +149,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 - [Create a Fullstack and Responsive Todo List Web Application With Django and React - YouTube](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxRmlQZDkyUmRhQ2xvVmpGc2xkZ3B0dEdoMkhnSHQ0RWdxMk5VeGUza3ZQcWwycmRjTENxVmwzclYtd0E2aVlRQktIcTVyYmFBZkxfN1dGbDdmMmVf?oc=5) — Create a Fullstack and Responsive Todo List Web Application With Django and React YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2024-03-25</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
+- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kSUM1cDk5QVRTaEVOT2NlS0ZTOFczRnJnZkgtZkJvaEJNWWc4dHBzWTJ1ZzhYZVN6SFJNTXVXODRCOGFQVDloUWlB?oc=5) — DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
@@ -241,6 +245,12 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Other
 
+- [Quiz: Converting Documents to Markdown With MarkItDown](https://realpython.com/quizzes/converting-documents-markdown-markitdown) — Check your MarkItDown skills. Convert documents to LLM-ready Markdown, use the MCP server, and get image descriptions. Try the quiz.  
+  <sub>Source: Real Python · Discovered: 2026-11-03</sub>
+- [Python 3.15 Ships and Other Python News for November 2026](https://realpython.com/python-news-november-2026) — Python 3.15 ships, 3.16 eyes None-aware operators, eight broken CA keys trigger security releases, and Anthropic drops temperature.  
+  <sub>Source: Real Python · Discovered: 2026-11-02</sub>
+- [SimPy: Simulating Real-World Processes With Python](https://realpython.com/simpy-simulating-with-python) — Use the SimPy package to model real-world processes in Python, then design and run a simulation that shows where a system gets congested.  
+  <sub>Source: Real Python · Discovered: 2026-11-02</sub>
 - [Quiz: Advanced Git Tips for Python Developers](https://realpython.com/quizzes/advanced-git-for-pythonistas) — Test your advanced Git skills: selecting revisions and ranges, stashing work, comparing commits, and rewriting local history safely.  
   <sub>Source: Real Python · Discovered: 2026-11-02</sub>
 - [Recursion in Python: An Introduction](https://realpython.com/python-recursion) — Get to grips with Python recursion: what it is, how it works, when to reach for it, and how recursive and iterative solutions compare.  
