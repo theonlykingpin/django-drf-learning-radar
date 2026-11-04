@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-11-03 12:48 UTC  
-**Unique resources:** 126
+**Last updated:** 2026-11-04 12:59 UTC  
+**Unique resources:** 129
 
 ## Start here
 
@@ -29,6 +29,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Courses & Training
 
+- [Converting Documents to Markdown With MarkItDown](https://realpython.com/courses/converting-documents-markdown-markitdown) — Learn how to use MarkItDown to convert Excel files, PDFs, and images into clean Markdown that's ready for LLMs and AI workflows.  
+  <sub>Source: Real Python · Discovered: 2026-11-03</sub>
 - [Operator and Function Overloading in Custom Python Classes](https://realpython.com/operator-function-overloading) — Use Python operator overloading to make built-in functions and operators work with your own classes, and write more Pythonic code.  
   <sub>Source: Real Python · Discovered: 2026-11-01</sub>
 - [Django for APIs](https://djangoforapis.com) — Book and learning resources focused on APIs with Django.  
@@ -80,6 +82,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Tutorials & Articles
 
+- [Quiz: Positron IDE: A Hands-on Python Tutorial](https://realpython.com/quizzes/positron-ide) — Check your understanding of Positron IDE for Python data analysis, from exploring raw data to cleaning it in scripts and notebooks.  
+  <sub>Source: Real Python · Discovered: 2026-11-04</sub>
 - [Quiz: How to Use Claude Code Skills for Better Python Docstrings](https://realpython.com/quizzes/claude-code-skills) — Check your understanding of Claude Code skills, from SKILL.md frontmatter and reference files to bundled scripts and personal skills.  
   <sub>Source: Real Python · Discovered: 2026-11-03</sub>
 - [Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code) — A complete guide to documenting Python code. Whether you're documenting a small script or a large project, this guide covers what you need to know.  
@@ -161,6 +165,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## API Security & Authentication
 
+- [Django security releases issued: 6.1.3, 6.0.10, and 5.2.19](https://www.djangoproject.com/weblog/2026/nov/03/security-releases) — In accordance with our security release policy , the Django team is issuing releases for Django 6.1.3 , Django 6.0.10 , and Django 5.2.19 . These releases address the security issues detailed below. We encourage all users of Django to upgr…  
+  <sub>Source: Django Blog · Discovered: 2026-11-03</sub>
 - [Django security documentation](https://docs.djangoproject.com/en/stable/topics/security) — Official guidance for common Django security concerns.  
   <sub>Source: Curated starter list · Discovered: 2026-10-30</sub>
 - [DRF authentication documentation](https://www.django-rest-framework.org/api-guide/authentication) — Authentication classes and request authentication.  

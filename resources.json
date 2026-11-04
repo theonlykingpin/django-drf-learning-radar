@@ -1,5 +1,13 @@
 [
   {
+    "title": "Django security releases issued: 6.1.3, 6.0.10, and 5.2.19",
+    "url": "https://www.djangoproject.com/weblog/2026/nov/03/security-releases",
+    "source": "Django Blog",
+    "category": "API Security \u0026 Authentication",
+    "discovered": "2026-11-03T15:30:00Z",
+    "description": "In accordance with our security release policy , the Django team is issuing releases for Django 6.1.3 , Django 6.0.10 , and Django 5.2.19 . These releases address the security issues detailed below. We encourage all users of Django to upgr…"
+  },
+  {
     "title": "Django security documentation",
     "url": "https://docs.djangoproject.com/en/stable/topics/security",
     "source": "Curated starter list",
@@ -70,6 +78,14 @@
     "category": "API Security \u0026 Authentication",
     "discovered": "2025-02-04T12:43:03Z",
     "description": "Build a User Authentication Web App With Python and Django Towards Data Science"
+  },
+  {
+    "title": "Converting Documents to Markdown With MarkItDown",
+    "url": "https://realpython.com/courses/converting-documents-markdown-markitdown",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2026-11-03T14:00:00Z",
+    "description": "Learn how to use MarkItDown to convert Excel files, PDFs, and images into clean Markdown that's ready for LLMs and AI workflows."
   },
   {
     "title": "Operator and Function Overloading in Custom Python Classes",
@@ -686,6 +702,14 @@
     "category": "Testing \u0026 Quality",
     "discovered": "2026-09-16T07:00:00Z",
     "description": "Can Rust Improve Real Django API Performance? Testing Django-Bolt Beyond Synthetic Benchmarks DevOps.com"
+  },
+  {
+    "title": "Quiz: Positron IDE: A Hands-on Python Tutorial",
+    "url": "https://realpython.com/quizzes/positron-ide",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-11-04T12:00:00Z",
+    "description": "Check your understanding of Positron IDE for Python data analysis, from exploring raw data to cleaning it in scripts and notebooks."
   },
   {
     "title": "Quiz: How to Use Claude Code Skills for Better Python Docstrings",
