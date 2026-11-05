@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-11-04 12:59 UTC  
-**Unique resources:** 129
+**Last updated:** 2026-11-05 13:12 UTC  
+**Unique resources:** 135
 
 ## Start here
 
@@ -24,6 +24,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Videos
 
+- [Quiz: Learn With Mentor AI: Getting More Out of Video Courses](https://realpython.com/quizzes/learn-with-mentor-ai-video-courses) — Check how you use Mentor AI with Real Python video courses, from asking what the instructor said to quizzing yourself after a lesson.  
+  <sub>Source: Real Python · Discovered: 2026-11-05</sub>
 - [Community Videos](https://realpython.com/courses/community-videos) — Watch Real Python's YouTube videos right here on the site, with the resources mentioned in each video and a full transcript.  
   <sub>Source: Real Python · Discovered: 2026-09-30</sub>
 
@@ -82,6 +84,10 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Tutorials & Articles
 
+- [Quiz: Python Plotting With Matplotlib (Guide)](https://realpython.com/quizzes/python-matplotlib-guide) — Test your understanding of Python plotting with matplotlib, from Figure and Axes objects to subplots, pandas plotting, and styling.  
+  <sub>Source: Real Python · Discovered: 2026-11-05</sub>
+- [Positron IDE: A Hands-on Python Tutorial](https://realpython.com/positron-ide) — Learn how to use Positron IDE for Python data analysis: clean, visualize, and explore data manually or with the help of AI.  
+  <sub>Source: Real Python · Discovered: 2026-11-04</sub>
 - [Quiz: Positron IDE: A Hands-on Python Tutorial](https://realpython.com/quizzes/positron-ide) — Check your understanding of Positron IDE for Python data analysis, from exploring raw data to cleaning it in scripts and notebooks.  
   <sub>Source: Real Python · Discovered: 2026-11-04</sub>
 - [Quiz: How to Use Claude Code Skills for Better Python Docstrings](https://realpython.com/quizzes/claude-code-skills) — Check your understanding of Claude Code skills, from SKILL.md frontmatter and reference files to bundled scripts and personal skills.  
@@ -152,9 +158,13 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework course training · Discovered: 2025-03-06</sub>
 - [Create a Fullstack and Responsive Todo List Web Application With Django and React - YouTube](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxRmlQZDkyUmRhQ2xvVmpGc2xkZ3B0dEdoMkhnSHQ0RWdxMk5VeGUza3ZQcWwycmRjTENxVmwzclYtd0E2aVlRQktIcTVyYmFBZkxfN1dGbDdmMmVf?oc=5) — Create a Fullstack and Responsive Todo List Web Application With Django and React YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2024-03-25</sub>
-- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
+- [DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IWS05M2c3cWNBOGtBYW9zNWs5d29CdUJ1VWJqVzU4WUFZMVhYTlhPSm9PV2hyQ2huRnlLYW1DSnFsU1MxMnNhSDFn?oc=5) — DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
+- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
+- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kSUM1cDk5QVRTaEVOT2NlS0ZTOFczRnJnZkgtZkJvaEJNWWc4dHBzWTJ1ZzhYZVN6SFJNTXVXODRCOGFQVDloUWlB?oc=5) — DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
@@ -251,6 +261,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Other
 
+- [An Effective Python Development Environment](https://realpython.com/effective-python-environment) — Choose a Python development environment that helps you get coding. Find tutorials and courses on editors, uv, virtual environments, and useful tools.  
+  <sub>Source: Real Python · Discovered: 2026-11-04</sub>
 - [Quiz: Converting Documents to Markdown With MarkItDown](https://realpython.com/quizzes/converting-documents-markdown-markitdown) — Check your MarkItDown skills. Convert documents to LLM-ready Markdown, use the MCP server, and get image descriptions. Try the quiz.  
   <sub>Source: Real Python · Discovered: 2026-11-03</sub>
 - [Python 3.15 Ships and Other Python News for November 2026](https://realpython.com/python-news-november-2026) — Python 3.15 ships, 3.16 eyes None-aware operators, eight broken CA keys trigger security releases, and Anthropic drops temperature.  

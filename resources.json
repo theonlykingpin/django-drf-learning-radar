@@ -344,6 +344,14 @@
     "description": "Official API guide and tutorials for serializers, views, authentication, permissions, and more."
   },
   {
+    "title": "An Effective Python Development Environment",
+    "url": "https://realpython.com/effective-python-environment",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-04T14:00:00Z",
+    "description": "Choose a Python development environment that helps you get coding. Find tutorials and courses on editors, uv, virtual environments, and useful tools."
+  },
+  {
     "title": "Quiz: Converting Documents to Markdown With MarkItDown",
     "url": "https://realpython.com/quizzes/converting-documents-markdown-markitdown",
     "source": "Real Python",
@@ -704,6 +712,22 @@
     "description": "Can Rust Improve Real Django API Performance? Testing Django-Bolt Beyond Synthetic Benchmarks DevOps.com"
   },
   {
+    "title": "Quiz: Python Plotting With Matplotlib (Guide)",
+    "url": "https://realpython.com/quizzes/python-matplotlib-guide",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-11-05T12:00:00Z",
+    "description": "Test your understanding of Python plotting with matplotlib, from Figure and Axes objects to subplots, pandas plotting, and styling."
+  },
+  {
+    "title": "Positron IDE: A Hands-on Python Tutorial",
+    "url": "https://realpython.com/positron-ide",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-11-04T14:00:00Z",
+    "description": "Learn how to use Positron IDE for Python data analysis: clean, visualize, and explore data manually or with the help of AI."
+  },
+  {
     "title": "Quiz: Positron IDE: A Hands-on Python Tutorial",
     "url": "https://realpython.com/quizzes/positron-ide",
     "source": "Real Python",
@@ -984,8 +1008,16 @@
     "description": "Create a Fullstack and Responsive Todo List Web Application With Django and React YouTube"
   },
   {
+    "title": "DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IWS05M2c3cWNBOGtBYW9zNWs5d29CdUJ1VWJqVzU4WUFZMVhYTlhPSm9PV2hyQ2huRnlLYW1DSnFsU1MxMnNhSDFn?oc=5",
+    "source": "Google News search: Django REST framework YouTube",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2019-10-18T07:00:00Z",
+    "description": "DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor YouTube"
+  },
+  {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",
@@ -994,6 +1026,14 @@
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5",
+    "source": "Google News search: Django REST framework YouTube",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2019-10-18T07:00:00Z",
+    "description": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube"
+  },
+  {
+    "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",
@@ -1022,6 +1062,14 @@
     "category": "Tutorials \u0026 Articles",
     "discovered": "2016-08-12T07:00:00Z",
     "description": "DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner YouTube"
+  },
+  {
+    "title": "Quiz: Learn With Mentor AI: Getting More Out of Video Courses",
+    "url": "https://realpython.com/quizzes/learn-with-mentor-ai-video-courses",
+    "source": "Real Python",
+    "category": "Videos",
+    "discovered": "2026-11-05T12:00:00Z",
+    "description": "Check how you use Mentor AI with Real Python video courses, from asking what the instructor said to quizzing yourself after a lesson."
   },
   {
     "title": "Community Videos",
