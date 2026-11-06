@@ -344,6 +344,46 @@
     "description": "Official API guide and tutorials for serializers, views, authentication, permissions, and more."
   },
   {
+    "title": "Quiz: LBYL vs EAFP: Preventing or Handling Errors in Python",
+    "url": "https://realpython.com/quizzes/python-lbyl-vs-eafp",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-06T12:00:00Z",
+    "description": "Test your grasp of Python's LBYL and EAFP coding styles, and learn when to prevent errors and when to handle them in your code."
+  },
+  {
+    "title": "The Real Python Podcast – Episode #318: Free-Threaded Python: Why Python Devs Should Know About the ABI",
+    "url": "https://realpython.com/podcasts/rpp/318",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-06T12:00:00Z",
+    "description": "Why should every Python developer know about the CPython ABI? This week on the show, we speak with Nathan Goldbaum about free-threaded Python and the changes to the Python Application Binary Interface."
+  },
+  {
+    "title": "Beautiful Soup: Build a Web Scraper With Python",
+    "url": "https://realpython.com/beautiful-soup-web-scraper-python",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-05T14:00:00Z",
+    "description": "Build a Python web scraper with Requests and Beautiful Soup. Learn to fetch a page's HTML and extract the specific data you're interested in."
+  },
+  {
+    "title": "Polars vs pandas: What's the Difference?",
+    "url": "https://realpython.com/polars-vs-pandas",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-05T14:00:00Z",
+    "description": "Discover the key differences in Polars vs pandas to help you choose the right Python library for faster, more efficient data analysis."
+  },
+  {
+    "title": "Quiz: Beautiful Soup: Build a Web Scraper With Python",
+    "url": "https://realpython.com/quizzes/beautiful-soup-web-scraper-python",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-05T12:00:00Z",
+    "description": "In this quiz, you'll test your understanding of web scraping using Python. By working through this quiz, you'll revisit how to inspect the HTML structure of a target site, decipher data encoded in URLs, and use Requests and Beautiful Soup …"
+  },
+  {
     "title": "An Effective Python Development Environment",
     "url": "https://realpython.com/effective-python-environment",
     "source": "Real Python",
@@ -1062,6 +1102,14 @@
     "category": "Tutorials \u0026 Articles",
     "discovered": "2016-08-12T07:00:00Z",
     "description": "DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner YouTube"
+  },
+  {
+    "title": "Learn With Mentor AI: Getting More Out of Video Courses",
+    "url": "https://realpython.com/learn-with-mentor-ai-video-courses",
+    "source": "Real Python",
+    "category": "Videos",
+    "discovered": "2026-11-05T14:00:00Z",
+    "description": "Use Mentor AI while you watch Real Python video courses. Ask what the instructor just said, chase side questions, and quiz yourself before the next lesson."
   },
   {
     "title": "Quiz: Learn With Mentor AI: Getting More Out of Video Courses",

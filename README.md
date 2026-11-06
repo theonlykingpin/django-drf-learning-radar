@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-11-05 13:12 UTC  
-**Unique resources:** 135
+**Last updated:** 2026-11-06 12:57 UTC  
+**Unique resources:** 141
 
 ## Start here
 
@@ -24,6 +24,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Videos
 
+- [Learn With Mentor AI: Getting More Out of Video Courses](https://realpython.com/learn-with-mentor-ai-video-courses) — Use Mentor AI while you watch Real Python video courses. Ask what the instructor just said, chase side questions, and quiz yourself before the next lesson.  
+  <sub>Source: Real Python · Discovered: 2026-11-05</sub>
 - [Quiz: Learn With Mentor AI: Getting More Out of Video Courses](https://realpython.com/quizzes/learn-with-mentor-ai-video-courses) — Check how you use Mentor AI with Real Python video courses, from asking what the instructor said to quizzing yourself after a lesson.  
   <sub>Source: Real Python · Discovered: 2026-11-05</sub>
 - [Community Videos](https://realpython.com/courses/community-videos) — Watch Real Python's YouTube videos right here on the site, with the resources mentioned in each video and a full transcript.  
@@ -261,6 +263,16 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Other
 
+- [Quiz: LBYL vs EAFP: Preventing or Handling Errors in Python](https://realpython.com/quizzes/python-lbyl-vs-eafp) — Test your grasp of Python's LBYL and EAFP coding styles, and learn when to prevent errors and when to handle them in your code.  
+  <sub>Source: Real Python · Discovered: 2026-11-06</sub>
+- [The Real Python Podcast – Episode #318: Free-Threaded Python: Why Python Devs Should Know About the ABI](https://realpython.com/podcasts/rpp/318) — Why should every Python developer know about the CPython ABI? This week on the show, we speak with Nathan Goldbaum about free-threaded Python and the changes to the Python Application Binary Interface.  
+  <sub>Source: Real Python · Discovered: 2026-11-06</sub>
+- [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python) — Build a Python web scraper with Requests and Beautiful Soup. Learn to fetch a page's HTML and extract the specific data you're interested in.  
+  <sub>Source: Real Python · Discovered: 2026-11-05</sub>
+- [Polars vs pandas: What's the Difference?](https://realpython.com/polars-vs-pandas) — Discover the key differences in Polars vs pandas to help you choose the right Python library for faster, more efficient data analysis.  
+  <sub>Source: Real Python · Discovered: 2026-11-05</sub>
+- [Quiz: Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/quizzes/beautiful-soup-web-scraper-python) — In this quiz, you'll test your understanding of web scraping using Python. By working through this quiz, you'll revisit how to inspect the HTML structure of a target site, decipher data encoded in URLs, and use Requests and Beautiful Soup …  
+  <sub>Source: Real Python · Discovered: 2026-11-05</sub>
 - [An Effective Python Development Environment](https://realpython.com/effective-python-environment) — Choose a Python development environment that helps you get coding. Find tutorials and courses on editors, uv, virtual environments, and useful tools.  
   <sub>Source: Real Python · Discovered: 2026-11-04</sub>
 - [Quiz: Converting Documents to Markdown With MarkItDown](https://realpython.com/quizzes/converting-documents-markdown-markitdown) — Check your MarkItDown skills. Convert documents to LLM-ready Markdown, use the MCP server, and get image descriptions. Try the quiz.  
