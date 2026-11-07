@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-11-06 12:57 UTC  
-**Unique resources:** 141
+**Last updated:** 2026-11-07 11:43 UTC  
+**Unique resources:** 145
 
 ## Start here
 
@@ -162,11 +162,11 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2024-03-25</sub>
 - [DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IWS05M2c3cWNBOGtBYW9zNWs5d29CdUJ1VWJqVzU4WUFZMVhYTlhPSm9PV2hyQ2huRnlLYW1DSnFsU1MxMnNhSDFn?oc=5) — DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
-- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
-  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
+- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kSUM1cDk5QVRTaEVOT2NlS0ZTOFczRnJnZkgtZkJvaEJNWWc4dHBzWTJ1ZzhYZVN6SFJNTXVXODRCOGFQVDloUWlB?oc=5) — DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
@@ -263,6 +263,14 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Other
 
+- [A Fake Claude Code Extension Tried to Open a Backdoor to Your PC](https://realpython.com/ai-news-weekly-2026-11-06) — Real Python's weekly AI news for October 31–November 6, 2026, explained in plain language: A Rigged AI Add-On, an AI Bug Hunter, and Siri Opens Up.  
+  <sub>Source: Real Python · Discovered: 2026-11-06</sub>
+- [Introduction to Python SQL Libraries](https://realpython.com/python-sql-libraries) — Connect to SQLite, MySQL, and PostgreSQL databases with Python SQL libraries, then run common queries from a single Python application.  
+  <sub>Source: Real Python · Discovered: 2026-11-06</sub>
+- [Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python) — Learn regex matching in Python with re.search(), and use metacharacters, groups, lookarounds, and flags to find complex patterns in strings.  
+  <sub>Source: Real Python · Discovered: 2026-11-06</sub>
+- [Regular Expressions: Regexes in Python (Part 2)](https://realpython.com/regex-python-part-2) — Explore more regex tools in Python, including the re module's search, substitution, and utility functions, compiled regexes, and match objects.  
+  <sub>Source: Real Python · Discovered: 2026-11-06</sub>
 - [Quiz: LBYL vs EAFP: Preventing or Handling Errors in Python](https://realpython.com/quizzes/python-lbyl-vs-eafp) — Test your grasp of Python's LBYL and EAFP coding styles, and learn when to prevent errors and when to handle them in your code.  
   <sub>Source: Real Python · Discovered: 2026-11-06</sub>
 - [The Real Python Podcast – Episode #318: Free-Threaded Python: Why Python Devs Should Know About the ABI](https://realpython.com/podcasts/rpp/318) — Why should every Python developer know about the CPython ABI? This week on the show, we speak with Nathan Goldbaum about free-threaded Python and the changes to the Python Application Binary Interface.  

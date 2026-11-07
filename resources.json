@@ -344,6 +344,38 @@
     "description": "Official API guide and tutorials for serializers, views, authentication, permissions, and more."
   },
   {
+    "title": "A Fake Claude Code Extension Tried to Open a Backdoor to Your PC",
+    "url": "https://realpython.com/ai-news-weekly-2026-11-06",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-06T14:00:00Z",
+    "description": "Real Python's weekly AI news for October 31–November 6, 2026, explained in plain language: A Rigged AI Add-On, an AI Bug Hunter, and Siri Opens Up."
+  },
+  {
+    "title": "Introduction to Python SQL Libraries",
+    "url": "https://realpython.com/python-sql-libraries",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-06T14:00:00Z",
+    "description": "Connect to SQLite, MySQL, and PostgreSQL databases with Python SQL libraries, then run common queries from a single Python application."
+  },
+  {
+    "title": "Regular Expressions: Regexes in Python (Part 1)",
+    "url": "https://realpython.com/regex-python",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-06T14:00:00Z",
+    "description": "Learn regex matching in Python with re.search(), and use metacharacters, groups, lookarounds, and flags to find complex patterns in strings."
+  },
+  {
+    "title": "Regular Expressions: Regexes in Python (Part 2)",
+    "url": "https://realpython.com/regex-python-part-2",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-06T14:00:00Z",
+    "description": "Explore more regex tools in Python, including the re module's search, substitution, and utility functions, compiled regexes, and match objects."
+  },
+  {
     "title": "Quiz: LBYL vs EAFP: Preventing or Handling Errors in Python",
     "url": "https://realpython.com/quizzes/python-lbyl-vs-eafp",
     "source": "Real Python",
@@ -1057,14 +1089,6 @@
   },
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
-    "source": "Google News search: Django REST framework YouTube",
-    "category": "Tutorials \u0026 Articles",
-    "discovered": "2019-10-18T07:00:00Z",
-    "description": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube"
-  },
-  {
-    "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
@@ -1074,6 +1098,14 @@
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5",
+    "source": "Google News search: Django REST framework YouTube",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2019-10-18T07:00:00Z",
+    "description": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube"
+  },
+  {
+    "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",
