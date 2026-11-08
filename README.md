@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-11-07 11:43 UTC  
-**Unique resources:** 145
+**Last updated:** 2026-11-08 11:56 UTC  
+**Unique resources:** 150
 
 ## Start here
 
@@ -164,9 +164,9 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
-- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
-  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
+- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kSUM1cDk5QVRTaEVOT2NlS0ZTOFczRnJnZkgtZkJvaEJNWWc4dHBzWTJ1ZzhYZVN6SFJNTXVXODRCOGFQVDloUWlB?oc=5) — DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
@@ -222,6 +222,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Projects & Examples
 
+- [Python Project Structure: How to Choose the Right Layout](https://realpython.com/python-application-layouts) — Learn how to structure Python projects: pick between flat and src/ layouts, organize your code, and apply the patterns to CLI, web, and GUI apps.  
+  <sub>Source: Real Python · Discovered: 2026-11-07</sub>
 - [The Real Python Podcast – Episode #317: Demystifying Python Memory Management & Choosing a Project Layout](https://realpython.com/podcasts/rpp/317) — How does Python manage memory behind the scenes? What are the common ways to lay out a Python project? Christopher Trudeau is back on the show this week with another batch of PyCoder's Weekly articles and projects.  
   <sub>Source: Real Python · Discovered: 2026-10-30</sub>
 - [Django REST Framework source code](https://github.com/encode/django-rest-framework) — Explore the DRF implementation and issue history.  
@@ -263,6 +265,14 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Other
 
+- [Absolute vs Relative Imports in Python](https://realpython.com/absolute-vs-relative-python-imports) — Compare Python relative imports with absolute imports, weigh the pros and cons of each, and learn best practices for writing clean import statements.  
+  <sub>Source: Real Python · Discovered: 2026-11-07</sub>
+- [Managing Multiple Python Versions With pyenv](https://realpython.com/intro-to-pyenv) — Learn how to use pyenv to manage multiple Python versions, prevent conflicts, and keep your projects compatible and development smooth.  
+  <sub>Source: Real Python · Discovered: 2026-11-07</sub>
+- [Thonny: The Beginner-Friendly Python Editor](https://realpython.com/python-thonny) — Learn how to use Thonny, the free Python IDE built for beginners, to write, run, and debug your code with its step-by-step debugger.  
+  <sub>Source: Real Python · Discovered: 2026-11-07</sub>
+- [Quiz: Managing Multiple Python Versions With pyenv](https://realpython.com/quizzes/intro-to-pyenv) — Test your knowledge of pyenv with this quiz and see how well you can manage multiple Python versions, virtual environments, and dependencies.  
+  <sub>Source: Real Python · Discovered: 2026-11-07</sub>
 - [A Fake Claude Code Extension Tried to Open a Backdoor to Your PC](https://realpython.com/ai-news-weekly-2026-11-06) — Real Python's weekly AI news for October 31–November 6, 2026, explained in plain language: A Rigged AI Add-On, an AI Bug Hunter, and Siri Opens Up.  
   <sub>Source: Real Python · Discovered: 2026-11-06</sub>
 - [Introduction to Python SQL Libraries](https://realpython.com/python-sql-libraries) — Connect to SQLite, MySQL, and PostgreSQL databases with Python SQL libraries, then run common queries from a single Python application.  

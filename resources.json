@@ -344,6 +344,38 @@
     "description": "Official API guide and tutorials for serializers, views, authentication, permissions, and more."
   },
   {
+    "title": "Absolute vs Relative Imports in Python",
+    "url": "https://realpython.com/absolute-vs-relative-python-imports",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-07T14:00:00Z",
+    "description": "Compare Python relative imports with absolute imports, weigh the pros and cons of each, and learn best practices for writing clean import statements."
+  },
+  {
+    "title": "Managing Multiple Python Versions With pyenv",
+    "url": "https://realpython.com/intro-to-pyenv",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-07T14:00:00Z",
+    "description": "Learn how to use pyenv to manage multiple Python versions, prevent conflicts, and keep your projects compatible and development smooth."
+  },
+  {
+    "title": "Thonny: The Beginner-Friendly Python Editor",
+    "url": "https://realpython.com/python-thonny",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-07T14:00:00Z",
+    "description": "Learn how to use Thonny, the free Python IDE built for beginners, to write, run, and debug your code with its step-by-step debugger."
+  },
+  {
+    "title": "Quiz: Managing Multiple Python Versions With pyenv",
+    "url": "https://realpython.com/quizzes/intro-to-pyenv",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-07T12:00:00Z",
+    "description": "Test your knowledge of pyenv with this quiz and see how well you can manage multiple Python versions, virtual environments, and dependencies."
+  },
+  {
     "title": "A Fake Claude Code Extension Tried to Open a Backdoor to Your PC",
     "url": "https://realpython.com/ai-news-weekly-2026-11-06",
     "source": "Real Python",
@@ -614,6 +646,14 @@
     "category": "Other",
     "discovered": "2026-08-21T12:00:00Z",
     "description": "Why do AI systems silently fail? How can you set up a system that produces results while also reviewing and validating the work? This week on the show, Calvin Hendryx-Parker returns to discuss his recent talk \"Orchestrate Agentic AI: Conte…"
+  },
+  {
+    "title": "Python Project Structure: How to Choose the Right Layout",
+    "url": "https://realpython.com/python-application-layouts",
+    "source": "Real Python",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2026-11-07T14:00:00Z",
+    "description": "Learn how to structure Python projects: pick between flat and src/ layouts, organize your code, and apply the patterns to CLI, web, and GUI apps."
   },
   {
     "title": "The Real Python Podcast – Episode #317: Demystifying Python Memory Management \u0026 Choosing a Project Layout",
@@ -1097,7 +1137,7 @@
   },
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",
@@ -1105,7 +1145,7 @@
   },
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",
