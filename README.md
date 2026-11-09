@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-11-08 11:56 UTC  
-**Unique resources:** 150
+**Last updated:** 2026-11-09 13:54 UTC  
+**Unique resources:** 153
 
 ## Start here
 
@@ -162,11 +162,11 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2024-03-25</sub>
 - [DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IWS05M2c3cWNBOGtBYW9zNWs5d29CdUJ1VWJqVzU4WUFZMVhYTlhPSm9PV2hyQ2huRnlLYW1DSnFsU1MxMnNhSDFn?oc=5) — DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
+- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
-  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
-- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kSUM1cDk5QVRTaEVOT2NlS0ZTOFczRnJnZkgtZkJvaEJNWWc4dHBzWTJ1ZzhYZVN6SFJNTXVXODRCOGFQVDloUWlB?oc=5) — DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
@@ -222,6 +222,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Projects & Examples
 
+- [Using Python's pip to Manage Your Projects' Dependencies](https://realpython.com/what-is-pip) — What is pip? Learn how to use pip, Python's standard package manager, to install and manage packages that aren't part of the standard library.  
+  <sub>Source: Real Python · Discovered: 2026-11-08</sub>
 - [Python Project Structure: How to Choose the Right Layout](https://realpython.com/python-application-layouts) — Learn how to structure Python projects: pick between flat and src/ layouts, organize your code, and apply the patterns to CLI, web, and GUI apps.  
   <sub>Source: Real Python · Discovered: 2026-11-07</sub>
 - [The Real Python Podcast – Episode #317: Demystifying Python Memory Management & Choosing a Project Layout](https://realpython.com/podcasts/rpp/317) — How does Python manage memory behind the scenes? What are the common ways to lay out a Python project? Christopher Trudeau is back on the show this week with another batch of PyCoder's Weekly articles and projects.  
@@ -265,6 +267,10 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Other
 
+- [Quiz: TDD With AI Agents: Design the Tests First, Let the Agent Implement](https://realpython.com/quizzes/tdd-ai-agents) — Check your grasp of TDD with AI agents in Python. Write the contract and tests first, then let a coding agent implement code that passes them.  
+  <sub>Source: Real Python · Discovered: 2026-11-09</sub>
+- [Memory Management in Python](https://realpython.com/python-memory-management) — Take a deep dive into Python memory management and learn how CPython allocates and frees memory for your objects with arenas, pools, and blocks.  
+  <sub>Source: Real Python · Discovered: 2026-11-08</sub>
 - [Absolute vs Relative Imports in Python](https://realpython.com/absolute-vs-relative-python-imports) — Compare Python relative imports with absolute imports, weigh the pros and cons of each, and learn best practices for writing clean import statements.  
   <sub>Source: Real Python · Discovered: 2026-11-07</sub>
 - [Managing Multiple Python Versions With pyenv](https://realpython.com/intro-to-pyenv) — Learn how to use pyenv to manage multiple Python versions, prevent conflicts, and keep your projects compatible and development smooth.  

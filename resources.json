@@ -344,6 +344,22 @@
     "description": "Official API guide and tutorials for serializers, views, authentication, permissions, and more."
   },
   {
+    "title": "Quiz: TDD With AI Agents: Design the Tests First, Let the Agent Implement",
+    "url": "https://realpython.com/quizzes/tdd-ai-agents",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-09T12:00:00Z",
+    "description": "Check your grasp of TDD with AI agents in Python. Write the contract and tests first, then let a coding agent implement code that passes them."
+  },
+  {
+    "title": "Memory Management in Python",
+    "url": "https://realpython.com/python-memory-management",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-08T14:00:00Z",
+    "description": "Take a deep dive into Python memory management and learn how CPython allocates and frees memory for your objects with arenas, pools, and blocks."
+  },
+  {
     "title": "Absolute vs Relative Imports in Python",
     "url": "https://realpython.com/absolute-vs-relative-python-imports",
     "source": "Real Python",
@@ -646,6 +662,14 @@
     "category": "Other",
     "discovered": "2026-08-21T12:00:00Z",
     "description": "Why do AI systems silently fail? How can you set up a system that produces results while also reviewing and validating the work? This week on the show, Calvin Hendryx-Parker returns to discuss his recent talk \"Orchestrate Agentic AI: Conte…"
+  },
+  {
+    "title": "Using Python's pip to Manage Your Projects' Dependencies",
+    "url": "https://realpython.com/what-is-pip",
+    "source": "Real Python",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2026-11-08T14:00:00Z",
+    "description": "What is pip? Learn how to use pip, Python's standard package manager, to install and manage packages that aren't part of the standard library."
   },
   {
     "title": "Python Project Structure: How to Choose the Right Layout",
@@ -1129,6 +1153,14 @@
   },
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5",
+    "source": "Google News search: Django REST framework YouTube",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2019-10-18T07:00:00Z",
+    "description": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube"
+  },
+  {
+    "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
@@ -1138,14 +1170,6 @@
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
-    "source": "Google News search: Django REST framework YouTube",
-    "category": "Tutorials \u0026 Articles",
-    "discovered": "2019-10-18T07:00:00Z",
-    "description": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube"
-  },
-  {
-    "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",
