@@ -320,6 +320,14 @@
     "description": "Django Tutorial: Build a Production Blog in 13 Steps [2026] https://tech-insider.org/"
   },
   {
+    "title": "How to deploy a Django application on a VPS - Hostinger",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GVUpGREVZUjU4UU9CUnBzUkZCTUs1WmVmRGFwQm9UbE5BOE40dmhsZmJEeDhHaXZlYzc5bGZ1OTZST2JzMVBnb2ZJVEpsaXBiVUxQcEV1Q1BhQ2R5aGhCNDZrVGkyY1ZNcjdQTnRnV1dSZw?oc=5",
+    "source": "Google News search: Django REST framework tutorial",
+    "category": "Deployment \u0026 Performance",
+    "discovered": "2024-12-20T08:00:00Z",
+    "description": "How to deploy a Django application on a VPS Hostinger"
+  },
+  {
     "title": "Building and Scaling an AI Startup with Async Django | Dr. Piotr Gryko - YouTube",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3VkdaZnA2Z2pXUWVROWhhU0ltRjRHRU94ZC1MUU5oR0NuUmF4cDUzRHFCZXhUT2tPX2ZGS1A0R0xmQ1VrSUxJczR3?oc=5",
     "source": "Google News search: Django REST framework YouTube",
@@ -342,6 +350,38 @@
     "category": "Official Documentation",
     "discovered": "2026-10-30T05:42:46.45323262Z",
     "description": "Official API guide and tutorials for serializers, views, authentication, permissions, and more."
+  },
+  {
+    "title": "Quiz: Getting Started With Git",
+    "url": "https://realpython.com/quizzes/getting-started-with-git",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-10T12:00:00Z",
+    "description": "Test your Git basics, from configuring your identity and committing changes to rewriting history and ignoring files you don't need."
+  },
+  {
+    "title": "Quiz: Python Coding Interview Practice: Hashing, Pointers, and Windows",
+    "url": "https://realpython.com/quizzes/coding-interview-practice-hashing-two-pointers-sliding-windows",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-10T12:00:00Z",
+    "description": "Check your grasp of hashing, two pointers, and sliding windows, and learn to pick an approach from a problem's time and space constraints."
+  },
+  {
+    "title": "Quiz: Python Coding Interview Practice: Prefix Sums and Binary Search",
+    "url": "https://realpython.com/quizzes/coding-interview-practice-prefix-sums-binary-search",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-10T12:00:00Z",
+    "description": "Check your grasp of prefix sums and binary search, and learn to pick between them from a problem's values, ordering, and time bounds."
+  },
+  {
+    "title": "TDD With AI Agents: Design the Tests First, Let the Agent Implement",
+    "url": "https://realpython.com/tdd-ai-agents",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-09T14:00:00Z",
+    "description": "Learn how to use test-driven development (TDD) with AI agents in Python. Design the tests first, then let a coding agent write code that passes them."
   },
   {
     "title": "Quiz: TDD With AI Agents: Design the Tests First, Let the Agent Implement",
@@ -1153,6 +1193,14 @@
   },
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
+    "source": "Google News search: Django REST framework YouTube",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2019-10-18T07:00:00Z",
+    "description": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube"
+  },
+  {
+    "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
@@ -1162,14 +1210,6 @@
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5",
-    "source": "Google News search: Django REST framework YouTube",
-    "category": "Tutorials \u0026 Articles",
-    "discovered": "2019-10-18T07:00:00Z",
-    "description": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube"
-  },
-  {
-    "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",
@@ -1198,6 +1238,14 @@
     "category": "Tutorials \u0026 Articles",
     "discovered": "2016-08-12T07:00:00Z",
     "description": "DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner YouTube"
+  },
+  {
+    "title": "DjangoCon 2014- Digging Into Django's Migrations - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XLVFTQWs0Tm5BTkNyQ29tcDRTbXdCM0RsMm5DMjhWdy14UC1SbHplNnpzMlBqTmxoZDhIN0pmLWhhZmdKZGIteTd3Yw?oc=5",
+    "source": "Google News search: Django REST framework YouTube",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2014-09-16T07:00:00Z",
+    "description": "DjangoCon 2014- Digging Into Django's Migrations YouTube"
   },
   {
     "title": "Learn With Mentor AI: Getting More Out of Video Courses",

@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-11-09 13:54 UTC  
-**Unique resources:** 153
+**Last updated:** 2026-11-10 13:28 UTC  
+**Unique resources:** 159
 
 ## Start here
 
@@ -162,11 +162,11 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2024-03-25</sub>
 - [DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IWS05M2c3cWNBOGtBYW9zNWs5d29CdUJ1VWJqVzU4WUFZMVhYTlhPSm9PV2hyQ2huRnlLYW1DSnFsU1MxMnNhSDFn?oc=5) — DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
+- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
-  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
-- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kSUM1cDk5QVRTaEVOT2NlS0ZTOFczRnJnZkgtZkJvaEJNWWc4dHBzWTJ1ZzhYZVN6SFJNTXVXODRCOGFQVDloUWlB?oc=5) — DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
@@ -174,6 +174,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2016-11-16</sub>
 - [DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner - YouTube](https://news.google.com/rss/articles/CBMiR0FVX3lxTE8taTVRMzdHVVRXYTZtckdDZGcwMExVODRKb0lPQTRMbG5Rcmx3a0s3c1NQWXBLWElBQ1J3TWl5ZllsRXBsTGY4?oc=5) — DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2016-08-12</sub>
+- [DjangoCon 2014- Digging Into Django's Migrations - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XLVFTQWs0Tm5BTkNyQ29tcDRTbXdCM0RsMm5DMjhWdy14UC1SbHplNnpzMlBqTmxoZDhIN0pmLWhhZmdKZGIteTd3Yw?oc=5) — DjangoCon 2014- Digging Into Django's Migrations YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2014-09-16</sub>
 
 ## API Security & Authentication
 
@@ -217,6 +219,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Real Python · Discovered: 2026-08-14</sub>
 - [Django Tutorial: Build a Production Blog in 13 Steps \[2026\] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMibEFVX3lxTE05SzBUYVd0R1JYcmhDTVdIdnFITjVsUG9XcTV1MGhNZ1ZaNHU0YV84ZnpNTVAwYmhuYW9nWEJfZ2VpS1lwTHZ4Vkt4VDNRUmJya0RkVVhTQUlkd1FqZGNtaldEb1h0SWs5eWpKMA?oc=5) — Django Tutorial: Build a Production Blog in 13 Steps \[2026\] https://tech-insider.org/  
   <sub>Source: Google News search: Django REST framework tutorial · Discovered: 2026-05-24</sub>
+- [How to deploy a Django application on a VPS - Hostinger](https://news.google.com/rss/articles/CBMickFVX3lxTE5GVUpGREVZUjU4UU9CUnBzUkZCTUs1WmVmRGFwQm9UbE5BOE40dmhsZmJEeDhHaXZlYzc5bGZ1OTZST2JzMVBnb2ZJVEpsaXBiVUxQcEV1Q1BhQ2R5aGhCNDZrVGkyY1ZNcjdQTnRnV1dSZw?oc=5) — How to deploy a Django application on a VPS Hostinger  
+  <sub>Source: Google News search: Django REST framework tutorial · Discovered: 2024-12-20</sub>
 - [Building and Scaling an AI Startup with Async Django | Dr. Piotr Gryko - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTFA3VkdaZnA2Z2pXUWVROWhhU0ltRjRHRU94ZC1MUU5oR0NuUmF4cDUzRHFCZXhUT2tPX2ZGS1A0R0xmQ1VrSUxJczR3?oc=5) — Building and Scaling an AI Startup with Async Django | Dr. Piotr Gryko YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2024-11-24</sub>
 
@@ -267,6 +271,14 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Other
 
+- [Quiz: Getting Started With Git](https://realpython.com/quizzes/getting-started-with-git) — Test your Git basics, from configuring your identity and committing changes to rewriting history and ignoring files you don't need.  
+  <sub>Source: Real Python · Discovered: 2026-11-10</sub>
+- [Quiz: Python Coding Interview Practice: Hashing, Pointers, and Windows](https://realpython.com/quizzes/coding-interview-practice-hashing-two-pointers-sliding-windows) — Check your grasp of hashing, two pointers, and sliding windows, and learn to pick an approach from a problem's time and space constraints.  
+  <sub>Source: Real Python · Discovered: 2026-11-10</sub>
+- [Quiz: Python Coding Interview Practice: Prefix Sums and Binary Search](https://realpython.com/quizzes/coding-interview-practice-prefix-sums-binary-search) — Check your grasp of prefix sums and binary search, and learn to pick between them from a problem's values, ordering, and time bounds.  
+  <sub>Source: Real Python · Discovered: 2026-11-10</sub>
+- [TDD With AI Agents: Design the Tests First, Let the Agent Implement](https://realpython.com/tdd-ai-agents) — Learn how to use test-driven development (TDD) with AI agents in Python. Design the tests first, then let a coding agent write code that passes them.  
+  <sub>Source: Real Python · Discovered: 2026-11-09</sub>
 - [Quiz: TDD With AI Agents: Design the Tests First, Let the Agent Implement](https://realpython.com/quizzes/tdd-ai-agents) — Check your grasp of TDD with AI agents in Python. Write the contract and tests first, then let a coding agent implement code that passes them.  
   <sub>Source: Real Python · Discovered: 2026-11-09</sub>
 - [Memory Management in Python](https://realpython.com/python-memory-management) — Take a deep dive into Python memory management and learn how CPython allocates and frees memory for your objects with arenas, pools, and blocks.  
