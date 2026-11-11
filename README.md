@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-11-10 13:28 UTC  
-**Unique resources:** 159
+**Last updated:** 2026-11-11 12:43 UTC  
+**Unique resources:** 167
 
 ## Start here
 
@@ -33,6 +33,10 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Courses & Training
 
+- [Python Coding Interview Practice: Hashing, Pointers, and Windows](https://realpython.com/courses/coding-interview-practice-hashing-two-pointers-sliding-windows) — Practice hashing, two pointers, and sliding windows in Python through 20 coding interview exercises with tests, hints, and guided code reviews.  
+  <sub>Source: Real Python · Discovered: 2026-11-10</sub>
+- [Python Coding Interview Practice: Prefix Sums and Binary Search](https://realpython.com/courses/coding-interview-practice-prefix-sums-binary-search) — Practice prefix sums and binary search in Python through 14 coding interview exercises with tests, efficiency checks, hints, and code reviews.  
+  <sub>Source: Real Python · Discovered: 2026-11-10</sub>
 - [Converting Documents to Markdown With MarkItDown](https://realpython.com/courses/converting-documents-markdown-markitdown) — Learn how to use MarkItDown to convert Excel files, PDFs, and images into clean Markdown that's ready for LLMs and AI workflows.  
   <sub>Source: Real Python · Discovered: 2026-11-03</sub>
 - [Operator and Function Overloading in Custom Python Classes](https://realpython.com/operator-function-overloading) — Use Python operator overloading to make built-in functions and operators work with your own classes, and write more Pythonic code.  
@@ -160,11 +164,13 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework course training · Discovered: 2025-03-06</sub>
 - [Create a Fullstack and Responsive Todo List Web Application With Django and React - YouTube](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxRmlQZDkyUmRhQ2xvVmpGc2xkZ3B0dEdoMkhnSHQ0RWdxMk5VeGUza3ZQcWwycmRjTENxVmwzclYtd0E2aVlRQktIcTVyYmFBZkxfN1dGbDdmMmVf?oc=5) — Create a Fullstack and Responsive Todo List Web Application With Django and React YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2024-03-25</sub>
+- [Understanding Signals in Django - SitePoint](https://news.google.com/rss/articles/CBMiakFVX3lxTE12SDRucld3Tm1CZW5HU0I2S2pQV0Fycm5DNWNrN2xjWDNENk1GYTVLV0cxOG1OaW5jS1ZtZHkzcGowNjh4eEdJaFJCR1MyaE9KSWctVjB3ZzFoOVpGdXVxb2FtT0thWjhaSEE?oc=5) — Understanding Signals in Django SitePoint  
+  <sub>Source: Google News search: Django REST framework tutorial · Discovered: 2024-01-30</sub>
 - [DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IWS05M2c3cWNBOGtBYW9zNWs5d29CdUJ1VWJqVzU4WUFZMVhYTlhPSm9PV2hyQ2huRnlLYW1DSnFsU1MxMnNhSDFn?oc=5) — DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
-- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
-  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
+- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
@@ -199,6 +205,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework tutorial · Discovered: 2025-09-11</sub>
 - [Build a User Authentication Web App With Python and Django - Towards Data Science](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQTBMTEhaNGFqYVAxSjIwZmRNdXBOWnJUZTlTd2pfelZFVzZsSlBEUFJ0aHZNcG5LNmh0bGdrU0FJOHBTVGlBM3VON0NabUtCRllWMnYya0FLVC1rcFVuSjBnZ2c3ckRjNWU4Z2ZtbVBvYmwxMzB3clFpOG1BNzdCSm9LalBYczFVVWh4cGVRZHRURFM3YVRRN3dRekFlcm9mUklpMFJB?oc=5) — Build a User Authentication Web App With Python and Django Towards Data Science  
   <sub>Source: Google News search: Django REST framework beginner project · Discovered: 2025-02-04</sub>
+- [Implementing User Authentication in Django - nucamp.co](https://news.google.com/rss/articles/CBMitAFBVV95cUxOWHBqVW9oRG90U20wbENXSzhETUJvOHQ4bXZwRWRNeW9rakZURFNBSmMtdi16cUNZMkFzbnVkWTdSeDBJa2Q2NHVuaTVfby03ekswcl9JSlRfTU9GMXQ2dzgybkNKd0JNQkFUU1k0a2R4MGZ6bnpleHV2SVhIYmlPV0Zib0NrM0I4RlJoN3YzZFY4d2NzcEpCMlJiSnRsNWUycTN6MXkzQl9DZkhJcTVraTFFLUU?oc=5) — Implementing User Authentication in Django nucamp.co  
+  <sub>Source: Google News search: Django tutorial advanced · Discovered: 2024-04-09</sub>
 
 ## Testing & Quality
 
@@ -271,6 +279,14 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Other
 
+- [Quiz: Python HTTPX: Making HTTP Requests With HTTPX2](https://realpython.com/quizzes/python-httpx) — Test your knowledge of Python HTTPX2 by reusing clients, sending async requests, setting timeouts, streaming responses, and enabling HTTP/2.  
+  <sub>Source: Real Python · Discovered: 2026-11-11</sub>
+- [Claude Fable 5.2 Draws a Python Reading a Book](https://realpython.com/ai-benchmark-claude-fable-5-2) — Explore Claude Fable 5.2's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.  
+  <sub>Source: Real Python · Discovered: 2026-11-10</sub>
+- [Gemini 4 Carbon Draws a Python Reading a Book](https://realpython.com/ai-benchmark-gemini-4-carbon) — Explore Gemini 4 Carbon's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.  
+  <sub>Source: Real Python · Discovered: 2026-11-10</sub>
+- [Gemini 4 Carbon Explained: Google's Model That Thinks Longer](https://realpython.com/gemini-4-carbon) — Gemini 4 Carbon is Google's new reasoning model. Learn what it is, what it costs, and how to call it from Python with the google-genai SDK.  
+  <sub>Source: Real Python · Discovered: 2026-11-10</sub>
 - [Quiz: Getting Started With Git](https://realpython.com/quizzes/getting-started-with-git) — Test your Git basics, from configuring your identity and committing changes to rewriting history and ignoring files you don't need.  
   <sub>Source: Real Python · Discovered: 2026-11-10</sub>
 - [Quiz: Python Coding Interview Practice: Hashing, Pointers, and Windows](https://realpython.com/quizzes/coding-interview-practice-hashing-two-pointers-sliding-windows) — Check your grasp of hashing, two pointers, and sliding windows, and learn to pick an approach from a problem's time and space constraints.  

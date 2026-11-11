@@ -80,6 +80,30 @@
     "description": "Build a User Authentication Web App With Python and Django Towards Data Science"
   },
   {
+    "title": "Implementing User Authentication in Django - nucamp.co",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWHBqVW9oRG90U20wbENXSzhETUJvOHQ4bXZwRWRNeW9rakZURFNBSmMtdi16cUNZMkFzbnVkWTdSeDBJa2Q2NHVuaTVfby03ekswcl9JSlRfTU9GMXQ2dzgybkNKd0JNQkFUU1k0a2R4MGZ6bnpleHV2SVhIYmlPV0Zib0NrM0I4RlJoN3YzZFY4d2NzcEpCMlJiSnRsNWUycTN6MXkzQl9DZkhJcTVraTFFLUU?oc=5",
+    "source": "Google News search: Django tutorial advanced",
+    "category": "API Security \u0026 Authentication",
+    "discovered": "2024-04-09T07:00:00Z",
+    "description": "Implementing User Authentication in Django nucamp.co"
+  },
+  {
+    "title": "Python Coding Interview Practice: Hashing, Pointers, and Windows",
+    "url": "https://realpython.com/courses/coding-interview-practice-hashing-two-pointers-sliding-windows",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2026-11-10T14:00:00Z",
+    "description": "Practice hashing, two pointers, and sliding windows in Python through 20 coding interview exercises with tests, hints, and guided code reviews."
+  },
+  {
+    "title": "Python Coding Interview Practice: Prefix Sums and Binary Search",
+    "url": "https://realpython.com/courses/coding-interview-practice-prefix-sums-binary-search",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2026-11-10T14:00:00Z",
+    "description": "Practice prefix sums and binary search in Python through 14 coding interview exercises with tests, efficiency checks, hints, and code reviews."
+  },
+  {
     "title": "Converting Documents to Markdown With MarkItDown",
     "url": "https://realpython.com/courses/converting-documents-markdown-markitdown",
     "source": "Real Python",
@@ -350,6 +374,38 @@
     "category": "Official Documentation",
     "discovered": "2026-10-30T05:42:46.45323262Z",
     "description": "Official API guide and tutorials for serializers, views, authentication, permissions, and more."
+  },
+  {
+    "title": "Quiz: Python HTTPX: Making HTTP Requests With HTTPX2",
+    "url": "https://realpython.com/quizzes/python-httpx",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-11T12:00:00Z",
+    "description": "Test your knowledge of Python HTTPX2 by reusing clients, sending async requests, setting timeouts, streaming responses, and enabling HTTP/2."
+  },
+  {
+    "title": "Claude Fable 5.2 Draws a Python Reading a Book",
+    "url": "https://realpython.com/ai-benchmark-claude-fable-5-2",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-10T14:00:00Z",
+    "description": "Explore Claude Fable 5.2's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions."
+  },
+  {
+    "title": "Gemini 4 Carbon Draws a Python Reading a Book",
+    "url": "https://realpython.com/ai-benchmark-gemini-4-carbon",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-10T14:00:00Z",
+    "description": "Explore Gemini 4 Carbon's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions."
+  },
+  {
+    "title": "Gemini 4 Carbon Explained: Google's Model That Thinks Longer",
+    "url": "https://realpython.com/gemini-4-carbon",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-10T14:00:00Z",
+    "description": "Gemini 4 Carbon is Google's new reasoning model. Learn what it is, what it costs, and how to call it from Python with the google-genai SDK."
   },
   {
     "title": "Quiz: Getting Started With Git",
@@ -1184,6 +1240,14 @@
     "description": "Create a Fullstack and Responsive Todo List Web Application With Django and React YouTube"
   },
   {
+    "title": "Understanding Signals in Django - SitePoint",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12SDRucld3Tm1CZW5HU0I2S2pQV0Fycm5DNWNrN2xjWDNENk1GYTVLV0cxOG1OaW5jS1ZtZHkzcGowNjh4eEdJaFJCR1MyaE9KSWctVjB3ZzFoOVpGdXVxb2FtT0thWjhaSEE?oc=5",
+    "source": "Google News search: Django REST framework tutorial",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2024-01-30T08:00:00Z",
+    "description": "Understanding Signals in Django SitePoint"
+  },
+  {
     "title": "DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IWS05M2c3cWNBOGtBYW9zNWs5d29CdUJ1VWJqVzU4WUFZMVhYTlhPSm9PV2hyQ2huRnlLYW1DSnFsU1MxMnNhSDFn?oc=5",
     "source": "Google News search: Django REST framework YouTube",
@@ -1193,7 +1257,7 @@
   },
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",
@@ -1201,7 +1265,7 @@
   },
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",
