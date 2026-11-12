@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-11-11 12:43 UTC  
-**Unique resources:** 167
+**Last updated:** 2026-11-12 13:45 UTC  
+**Unique resources:** 171
 
 ## Start here
 
@@ -154,6 +154,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework tutorial · Discovered: 2026-09-12</sub>
 - [Top Django Libraries Every Python Developer Needs in 2026 - Analytics Insight](https://news.google.com/rss/articles/CBMioAFBVV95cUxNTl9YY3pwSVRlZGpvWjB5UkhUX09jZTR0YUdKTjlGYmtEa2JEVGU2OXVKY2xwb1pJa3hVa0VnQ0RKVlZDQjEwaXFwczdsN2FpdFZYNjBqMzVYaWg3U2FRYVM2SE92cWZMRFd3WEg5Z1ZpVGRVbnVEcVhiRkZsbVlvalBiYzNyQUdMS3pYTU04MGd3N05tdXBUZTUzbzFoR3pn0gGuAUFVX3lxTE0tVlkyNGYzdzREbXlHZ1R0Q1FBNXVHVzNQQVJuQWFDRG9IT21TV3BIX3Y5TXYtd3ZCNWptbTdxNzBmcDBqT3U1QzMzLWF5UFA5OElJdjByZHhmSGd3azFidnlmcVMzaFhNSXVONk42NFZNdmw2SlQ3TEdwcFF0cWkxUGVudE1HenU2NXFoQVpuLXc0RG95WmpXVE84NF84QWFaWkZHRmFwc1BhT01uUQ?oc=5) — Top Django Libraries Every Python Developer Needs in 2026 Analytics Insight  
   <sub>Source: Google News search: Django REST framework beginner project · Discovered: 2026-07-26</sub>
+- [How to Build a Django-Unfold Admin Dashboard with Custom Models, Filters, Actions, and KPIs - MarkTechPost](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaHFmU3FTUmRxTXVwSFU5TjZ0czdId0oxb3lfdjNGYTIzN1U3Y0ptVExld21VbXRWczhPNkdZS29ZaG12WDhsRE9QZmFrMWxBSFFVbUs4d1NiQTJQUVF1NW5ZNTZpajN1ampMcmxaSmhBMTAwTEJPQUdYWm9KSEdpaFQ0dk5xNXk1clZEZFVibkJ2bkJBTTRXUFItSDZMampoVEtZdUJyVlFYTmcxc1I0QzJscV9VaEJ0T0hVVEIyQVhPcGVQWS1nbdIByAFBVV95cUxQaHFmU3FTUmRxTXVwSFU5TjZ0czdId0oxb3lfdjNGYTIzN1U3Y0ptVExld21VbXRWczhPNkdZS29ZaG12WDhsRE9QZmFrMWxBSFFVbUs4d1NiQTJQUVF1NW5ZNTZpajN1ampMcmxaSmhBMTAwTEJPQUdYWm9KSEdpaFQ0dk5xNXk1clZEZFVibkJ2bkJBTTRXUFItSDZMampoVEtZdUJyVlFYTmcxc1I0QzJscV9VaEJ0T0hVVEIyQVhPcGVQWS1nbQ?oc=5) — How to Build a Django-Unfold Admin Dashboard with Custom Models, Filters, Actions, and KPIs MarkTechPost  
+  <sub>Source: Google News search: Django tutorial advanced · Discovered: 2026-05-14</sub>
 - [Build a Django REST API in 30 Minutes \[2026\] - tech-insider.org](https://news.google.com/rss/articles/CBMifEFVX3lxTFB1bmJhcmNPU3JVM1RVUHJQRGtobnR3YTV2b2pzMEQyQ1ZRXzBpTmlGYmJ5RUVBUnA5RlNnNmlXeEpqR1VtNEFNX192SmkzbEp3WVI0MmUzWjJEY1RnZmNiMGN6MWNxTnBFaFM3ei1OYnluMng1cncxYTNYV1o?oc=5) — Build a Django REST API in 30 Minutes \[2026\] tech-insider.org  
   <sub>Source: Google News search: Django REST framework tutorial · Discovered: 2026-03-30</sub>
 - [Python Django Tutorial: The Best Guide on Django Framework - Simplilearn.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE9rOUxCUURqbWhydHBKNTlLT3dZLUVKSzFQOE5qSkNHWG44YWFZMzQ1MnlyQXl0OUhnc05Md2R0Z2NTS2UtSDdkYjJFZUhtUjl5ZTVLVVVsUFZkc19DVXJQRUo1Z21mQlJ3MUxjYkpnY2JrSHpMWWc?oc=5) — Python Django Tutorial: The Best Guide on Django Framework Simplilearn.com  
@@ -170,9 +172,9 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
-- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
-  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
+- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kSUM1cDk5QVRTaEVOT2NlS0ZTOFczRnJnZkgtZkJvaEJNWWc4dHBzWTJ1ZzhYZVN6SFJNTXVXODRCOGFQVDloUWlB?oc=5) — DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
@@ -181,6 +183,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 - [DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner - YouTube](https://news.google.com/rss/articles/CBMiR0FVX3lxTE8taTVRMzdHVVRXYTZtckdDZGcwMExVODRKb0lPQTRMbG5Rcmx3a0s3c1NQWXBLWElBQ1J3TWl5ZllsRXBsTGY4?oc=5) — DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2016-08-12</sub>
 - [DjangoCon 2014- Digging Into Django's Migrations - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XLVFTQWs0Tm5BTkNyQ29tcDRTbXdCM0RsMm5DMjhWdy14UC1SbHplNnpzMlBqTmxoZDhIN0pmLWhhZmdKZGIteTd3Yw?oc=5) — DjangoCon 2014- Digging Into Django's Migrations YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2014-09-16</sub>
+- [DjangoCon 2014- Digging Into Django's Migrations - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFclpUdXFSSl9FM180TFFQNXhXZE1pa1hhMGFtSWw4dnVhYjdrQ3RTNkN5SzdSMXVRdmRRcHcxWVRaNnlxdHRmZXFR?oc=5) — DjangoCon 2014- Digging Into Django's Migrations YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2014-09-16</sub>
 
 ## API Security & Authentication
@@ -279,6 +283,10 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Other
 
+- [Quiz: Learn With Mentor AI: Working Through a Coding Exercise](https://realpython.com/quizzes/mentor-ai-coding-exercise) — Practice getting unstuck on a Python coding exercise with Mentor AI, from mutable default arguments to checking for None with is.  
+  <sub>Source: Real Python · Discovered: 2026-11-12</sub>
+- [Python HTTPX: Making HTTP Requests With HTTPX2](https://realpython.com/python-httpx) — Learn how to use Python HTTPX (now HTTPX2) to make HTTP requests, send async calls, set safe timeouts, stream large downloads, and enable HTTP/2.  
+  <sub>Source: Real Python · Discovered: 2026-11-11</sub>
 - [Quiz: Python HTTPX: Making HTTP Requests With HTTPX2](https://realpython.com/quizzes/python-httpx) — Test your knowledge of Python HTTPX2 by reusing clients, sending async requests, setting timeouts, streaming responses, and enabling HTTP/2.  
   <sub>Source: Real Python · Discovered: 2026-11-11</sub>
 - [Claude Fable 5.2 Draws a Python Reading a Book](https://realpython.com/ai-benchmark-claude-fable-5-2) — Explore Claude Fable 5.2's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.  

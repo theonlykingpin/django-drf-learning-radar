@@ -376,6 +376,22 @@
     "description": "Official API guide and tutorials for serializers, views, authentication, permissions, and more."
   },
   {
+    "title": "Quiz: Learn With Mentor AI: Working Through a Coding Exercise",
+    "url": "https://realpython.com/quizzes/mentor-ai-coding-exercise",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-12T12:00:00Z",
+    "description": "Practice getting unstuck on a Python coding exercise with Mentor AI, from mutable default arguments to checking for None with is."
+  },
+  {
+    "title": "Python HTTPX: Making HTTP Requests With HTTPX2",
+    "url": "https://realpython.com/python-httpx",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-11T14:00:00Z",
+    "description": "Learn how to use Python HTTPX (now HTTPX2) to make HTTP requests, send async calls, set safe timeouts, stream large downloads, and enable HTTP/2."
+  },
+  {
     "title": "Quiz: Python HTTPX: Making HTTP Requests With HTTPX2",
     "url": "https://realpython.com/quizzes/python-httpx",
     "source": "Real Python",
@@ -1200,6 +1216,14 @@
     "description": "Top Django Libraries Every Python Developer Needs in 2026 Analytics Insight"
   },
   {
+    "title": "How to Build a Django-Unfold Admin Dashboard with Custom Models, Filters, Actions, and KPIs - MarkTechPost",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaHFmU3FTUmRxTXVwSFU5TjZ0czdId0oxb3lfdjNGYTIzN1U3Y0ptVExld21VbXRWczhPNkdZS29ZaG12WDhsRE9QZmFrMWxBSFFVbUs4d1NiQTJQUVF1NW5ZNTZpajN1ampMcmxaSmhBMTAwTEJPQUdYWm9KSEdpaFQ0dk5xNXk1clZEZFVibkJ2bkJBTTRXUFItSDZMampoVEtZdUJyVlFYTmcxc1I0QzJscV9VaEJ0T0hVVEIyQVhPcGVQWS1nbdIByAFBVV95cUxQaHFmU3FTUmRxTXVwSFU5TjZ0czdId0oxb3lfdjNGYTIzN1U3Y0ptVExld21VbXRWczhPNkdZS29ZaG12WDhsRE9QZmFrMWxBSFFVbUs4d1NiQTJQUVF1NW5ZNTZpajN1ampMcmxaSmhBMTAwTEJPQUdYWm9KSEdpaFQ0dk5xNXk1clZEZFVibkJ2bkJBTTRXUFItSDZMampoVEtZdUJyVlFYTmcxc1I0QzJscV9VaEJ0T0hVVEIyQVhPcGVQWS1nbQ?oc=5",
+    "source": "Google News search: Django tutorial advanced",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-05-14T07:00:00Z",
+    "description": "How to Build a Django-Unfold Admin Dashboard with Custom Models, Filters, Actions, and KPIs MarkTechPost"
+  },
+  {
     "title": "Build a Django REST API in 30 Minutes [2026] - tech-insider.org",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1bmJhcmNPU3JVM1RVUHJQRGtobnR3YTV2b2pzMEQyQ1ZRXzBpTmlGYmJ5RUVBUnA5RlNnNmlXeEpqR1VtNEFNX192SmkzbEp3WVI0MmUzWjJEY1RnZmNiMGN6MWNxTnBFaFM3ei1OYnluMng1cncxYTNYV1o?oc=5",
     "source": "Google News search: Django REST framework tutorial",
@@ -1265,7 +1289,7 @@
   },
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",
@@ -1273,7 +1297,7 @@
   },
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",
@@ -1306,6 +1330,14 @@
   {
     "title": "DjangoCon 2014- Digging Into Django's Migrations - YouTube",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XLVFTQWs0Tm5BTkNyQ29tcDRTbXdCM0RsMm5DMjhWdy14UC1SbHplNnpzMlBqTmxoZDhIN0pmLWhhZmdKZGIteTd3Yw?oc=5",
+    "source": "Google News search: Django REST framework YouTube",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2014-09-16T07:00:00Z",
+    "description": "DjangoCon 2014- Digging Into Django's Migrations YouTube"
+  },
+  {
+    "title": "DjangoCon 2014- Digging Into Django's Migrations - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFclpUdXFSSl9FM180TFFQNXhXZE1pa1hhMGFtSWw4dnVhYjdrQ3RTNkN5SzdSMXVRdmRRcHcxWVRaNnlxdHRmZXFR?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2014-09-16T07:00:00Z",
