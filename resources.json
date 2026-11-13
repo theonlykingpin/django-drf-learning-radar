@@ -376,6 +376,30 @@
     "description": "Official API guide and tutorials for serializers, views, authentication, permissions, and more."
   },
   {
+    "title": "Quiz: Working With JSON in Python",
+    "url": "https://realpython.com/quizzes/working-json-data-python",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-13T12:00:00Z",
+    "description": "Test your understanding of Python's json module, from serializing and deserializing data to encoding and decoding custom types."
+  },
+  {
+    "title": "The Real Python Podcast – Episode #319: Mentoring Developers Beyond the Code With Tim Schilling",
+    "url": "https://realpython.com/podcasts/rpp/319",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-13T12:00:00Z",
+    "description": "What's it take to be a mentor to developers? Where in an engineer's career can a mentor make an impact? This week we speak with Tim Schilling, Django Steering Council member and Djangonaut Space administrator, about mentoring Python develo…"
+  },
+  {
+    "title": "Learn With Mentor AI: Working Through a Coding Exercise",
+    "url": "https://realpython.com/mentor-ai-coding-exercise",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-12T14:00:00Z",
+    "description": "Learn how to use Mentor AI on a Real Python coding exercise. Ask why a test failed, get hints instead of the answer, and check your understanding."
+  },
+  {
     "title": "Quiz: Learn With Mentor AI: Working Through a Coding Exercise",
     "url": "https://realpython.com/quizzes/mentor-ai-coding-exercise",
     "source": "Real Python",
@@ -1289,7 +1313,7 @@
   },
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",
@@ -1297,7 +1321,7 @@
   },
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",
@@ -1329,7 +1353,7 @@
   },
   {
     "title": "DjangoCon 2014- Digging Into Django's Migrations - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XLVFTQWs0Tm5BTkNyQ29tcDRTbXdCM0RsMm5DMjhWdy14UC1SbHplNnpzMlBqTmxoZDhIN0pmLWhhZmdKZGIteTd3Yw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFclpUdXFSSl9FM180TFFQNXhXZE1pa1hhMGFtSWw4dnVhYjdrQ3RTNkN5SzdSMXVRdmRRcHcxWVRaNnlxdHRmZXFR?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2014-09-16T07:00:00Z",
@@ -1337,7 +1361,7 @@
   },
   {
     "title": "DjangoCon 2014- Digging Into Django's Migrations - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFclpUdXFSSl9FM180TFFQNXhXZE1pa1hhMGFtSWw4dnVhYjdrQ3RTNkN5SzdSMXVRdmRRcHcxWVRaNnlxdHRmZXFR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XLVFTQWs0Tm5BTkNyQ29tcDRTbXdCM0RsMm5DMjhWdy14UC1SbHplNnpzMlBqTmxoZDhIN0pmLWhhZmdKZGIteTd3Yw?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2014-09-16T07:00:00Z",
