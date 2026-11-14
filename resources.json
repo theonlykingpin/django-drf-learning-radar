@@ -376,6 +376,22 @@
     "description": "Official API guide and tutorials for serializers, views, authentication, permissions, and more."
   },
   {
+    "title": "Anthropic and Google Make Their Best AI Models Cheaper",
+    "url": "https://realpython.com/ai-news-weekly-2026-11-13",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-13T14:00:00Z",
+    "description": "Real Python's weekly AI news for November 7–13, 2026, explained in plain language: Cheaper Claude, Google's Strongest Gemini, and a Faster Gemini."
+  },
+  {
+    "title": "Get Started With Meta Muse in Python: Spark and Glimmer",
+    "url": "https://realpython.com/meta-muse-python",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-13T14:00:00Z",
+    "description": "Get started with Meta Muse in Python. Make your first Muse Spark call, then add streaming, images, and tool calls, and try the open-weights Glimmer."
+  },
+  {
     "title": "Quiz: Working With JSON in Python",
     "url": "https://realpython.com/quizzes/working-json-data-python",
     "source": "Real Python",
@@ -1305,7 +1321,7 @@
   },
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",
@@ -1321,7 +1337,7 @@
   },
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",
@@ -1353,7 +1369,7 @@
   },
   {
     "title": "DjangoCon 2014- Digging Into Django's Migrations - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFclpUdXFSSl9FM180TFFQNXhXZE1pa1hhMGFtSWw4dnVhYjdrQ3RTNkN5SzdSMXVRdmRRcHcxWVRaNnlxdHRmZXFR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XLVFTQWs0Tm5BTkNyQ29tcDRTbXdCM0RsMm5DMjhWdy14UC1SbHplNnpzMlBqTmxoZDhIN0pmLWhhZmdKZGIteTd3Yw?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2014-09-16T07:00:00Z",
@@ -1361,7 +1377,7 @@
   },
   {
     "title": "DjangoCon 2014- Digging Into Django's Migrations - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XLVFTQWs0Tm5BTkNyQ29tcDRTbXdCM0RsMm5DMjhWdy14UC1SbHplNnpzMlBqTmxoZDhIN0pmLWhhZmdKZGIteTd3Yw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFclpUdXFSSl9FM180TFFQNXhXZE1pa1hhMGFtSWw4dnVhYjdrQ3RTNkN5SzdSMXVRdmRRcHcxWVRaNnlxdHRmZXFR?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2014-09-16T07:00:00Z",

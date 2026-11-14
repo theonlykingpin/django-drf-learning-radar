@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-11-13 13:06 UTC  
-**Unique resources:** 174
+**Last updated:** 2026-11-14 12:11 UTC  
+**Unique resources:** 176
 
 ## Start here
 
@@ -170,11 +170,11 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework tutorial · Discovered: 2024-01-30</sub>
 - [DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IWS05M2c3cWNBOGtBYW9zNWs5d29CdUJ1VWJqVzU4WUFZMVhYTlhPSm9PV2hyQ2huRnlLYW1DSnFsU1MxMnNhSDFn?oc=5) — DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
-- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
+- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
-- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
+- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kSUM1cDk5QVRTaEVOT2NlS0ZTOFczRnJnZkgtZkJvaEJNWWc4dHBzWTJ1ZzhYZVN6SFJNTXVXODRCOGFQVDloUWlB?oc=5) — DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
@@ -182,9 +182,9 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2016-11-16</sub>
 - [DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner - YouTube](https://news.google.com/rss/articles/CBMiR0FVX3lxTE8taTVRMzdHVVRXYTZtckdDZGcwMExVODRKb0lPQTRMbG5Rcmx3a0s3c1NQWXBLWElBQ1J3TWl5ZllsRXBsTGY4?oc=5) — DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2016-08-12</sub>
-- [DjangoCon 2014- Digging Into Django's Migrations - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFclpUdXFSSl9FM180TFFQNXhXZE1pa1hhMGFtSWw4dnVhYjdrQ3RTNkN5SzdSMXVRdmRRcHcxWVRaNnlxdHRmZXFR?oc=5) — DjangoCon 2014- Digging Into Django's Migrations YouTube  
-  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2014-09-16</sub>
 - [DjangoCon 2014- Digging Into Django's Migrations - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XLVFTQWs0Tm5BTkNyQ29tcDRTbXdCM0RsMm5DMjhWdy14UC1SbHplNnpzMlBqTmxoZDhIN0pmLWhhZmdKZGIteTd3Yw?oc=5) — DjangoCon 2014- Digging Into Django's Migrations YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2014-09-16</sub>
+- [DjangoCon 2014- Digging Into Django's Migrations - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFclpUdXFSSl9FM180TFFQNXhXZE1pa1hhMGFtSWw4dnVhYjdrQ3RTNkN5SzdSMXVRdmRRcHcxWVRaNnlxdHRmZXFR?oc=5) — DjangoCon 2014- Digging Into Django's Migrations YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2014-09-16</sub>
 
 ## API Security & Authentication
@@ -283,6 +283,10 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Other
 
+- [Anthropic and Google Make Their Best AI Models Cheaper](https://realpython.com/ai-news-weekly-2026-11-13) — Real Python's weekly AI news for November 7–13, 2026, explained in plain language: Cheaper Claude, Google's Strongest Gemini, and a Faster Gemini.  
+  <sub>Source: Real Python · Discovered: 2026-11-13</sub>
+- [Get Started With Meta Muse in Python: Spark and Glimmer](https://realpython.com/meta-muse-python) — Get started with Meta Muse in Python. Make your first Muse Spark call, then add streaming, images, and tool calls, and try the open-weights Glimmer.  
+  <sub>Source: Real Python · Discovered: 2026-11-13</sub>
 - [Quiz: Working With JSON in Python](https://realpython.com/quizzes/working-json-data-python) — Test your understanding of Python's json module, from serializing and deserializing data to encoding and decoding custom types.  
   <sub>Source: Real Python · Discovered: 2026-11-13</sub>
 - [The Real Python Podcast – Episode #319: Mentoring Developers Beyond the Code With Tim Schilling](https://realpython.com/podcasts/rpp/319) — What's it take to be a mentor to developers? Where in an engineer's career can a mentor make an impact? This week we speak with Tim Schilling, Django Steering Council member and Djangonaut Space administrator, about mentoring Python develo…  
