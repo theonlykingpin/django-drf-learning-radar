@@ -1000,6 +1000,14 @@
     "description": "Can Rust Improve Real Django API Performance? Testing Django-Bolt Beyond Synthetic Benchmarks DevOps.com"
   },
   {
+    "title": "How to Do a Binary Search in Python",
+    "url": "https://realpython.com/binary-search-python",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-11-14T14:00:00Z",
+    "description": "Use the bisect module to do a binary search in Python, then implement this classic algorithm yourself, both iteratively and recursively."
+  },
+  {
     "title": "Quiz: Python Plotting With Matplotlib (Guide)",
     "url": "https://realpython.com/quizzes/python-matplotlib-guide",
     "source": "Real Python",
@@ -1280,6 +1288,14 @@
     "description": "Python Django Tutorial: The Best Guide on Django Framework Simplilearn.com"
   },
   {
+    "title": "API Frameworks: Django REST vs FastAPI for 2025 Development - RESIDENT™ | A Luxury Lifestyle Magazine",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV3lKLWo0d0RIVXZTTlpITVAxRV92MUlyYVZPUWN4Q3RITF9sS0RZY2FmZUtKaVlHUWtGMFF4RFdxNmpYdUs0SXBIMkg0bEY1UndrOU1ySnZtMGk2ZWVna1Z1aU5QdldRM2tWeTZRbzZYQ0xibmg5MmNoa2QtTHVkSHZIajdIUQ?oc=5",
+    "source": "Google News search: Django REST framework testing deployment performance",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2025-08-09T07:00:00Z",
+    "description": "API Frameworks: Django REST vs FastAPI for 2025 Development RESIDENT™ | A Luxury Lifestyle Magazine"
+  },
+  {
     "title": "Django vs Flask vs FastAPI: Which Python Web Framework Should You Choose in 2025? - Vocal",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbno4REZWbzlBUE50RmJ0UXFJZmtEemtuSUh3cGs2bFJJNXdkWVJ3d0k2Q3MtZHBZdDh6aFN5WFFnMWd6X21GYnY3N0JrdEFiNDVuVzFPaXRfZWhEem56T25GTm1nTUxtbUU4ZEpMd1d2NnZPS3pQVkp1elk1WDFPbjc5bFh4Q0IzeXZ1Q1JNWTlUbGdscnhoMUk5S1ZFbC1nZ3N6R2hn?oc=5",
     "source": "Google News search: Django REST framework beginner project",
@@ -1329,7 +1345,7 @@
   },
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",
@@ -1337,7 +1353,7 @@
   },
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",

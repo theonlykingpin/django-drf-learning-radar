@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-11-14 12:11 UTC  
-**Unique resources:** 176
+**Last updated:** 2026-11-15 12:44 UTC  
+**Unique resources:** 178
 
 ## Start here
 
@@ -90,6 +90,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Tutorials & Articles
 
+- [How to Do a Binary Search in Python](https://realpython.com/binary-search-python) — Use the bisect module to do a binary search in Python, then implement this classic algorithm yourself, both iteratively and recursively.  
+  <sub>Source: Real Python · Discovered: 2026-11-14</sub>
 - [Quiz: Python Plotting With Matplotlib (Guide)](https://realpython.com/quizzes/python-matplotlib-guide) — Test your understanding of Python plotting with matplotlib, from Figure and Axes objects to subplots, pandas plotting, and styling.  
   <sub>Source: Real Python · Discovered: 2026-11-05</sub>
 - [Positron IDE: A Hands-on Python Tutorial](https://realpython.com/positron-ide) — Learn how to use Positron IDE for Python data analysis: clean, visualize, and explore data manually or with the help of AI.  
@@ -160,6 +162,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework tutorial · Discovered: 2026-03-30</sub>
 - [Python Django Tutorial: The Best Guide on Django Framework - Simplilearn.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE9rOUxCUURqbWhydHBKNTlLT3dZLUVKSzFQOE5qSkNHWG44YWFZMzQ1MnlyQXl0OUhnc05Md2R0Z2NTS2UtSDdkYjJFZUhtUjl5ZTVLVVVsUFZkc19DVXJQRUo1Z21mQlJ3MUxjYkpnY2JrSHpMWWc?oc=5) — Python Django Tutorial: The Best Guide on Django Framework Simplilearn.com  
   <sub>Source: Google News search: Django tutorial advanced · Discovered: 2026-03-05</sub>
+- [API Frameworks: Django REST vs FastAPI for 2025 Development - RESIDENT™ | A Luxury Lifestyle Magazine](https://news.google.com/rss/articles/CBMihgFBVV95cUxOV3lKLWo0d0RIVXZTTlpITVAxRV92MUlyYVZPUWN4Q3RITF9sS0RZY2FmZUtKaVlHUWtGMFF4RFdxNmpYdUs0SXBIMkg0bEY1UndrOU1ySnZtMGk2ZWVna1Z1aU5QdldRM2tWeTZRbzZYQ0xibmg5MmNoa2QtTHVkSHZIajdIUQ?oc=5) — API Frameworks: Django REST vs FastAPI for 2025 Development RESIDENT™ | A Luxury Lifestyle Magazine  
+  <sub>Source: Google News search: Django REST framework testing deployment performance · Discovered: 2025-08-09</sub>
 - [Django vs Flask vs FastAPI: Which Python Web Framework Should You Choose in 2025? - Vocal](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbno4REZWbzlBUE50RmJ0UXFJZmtEemtuSUh3cGs2bFJJNXdkWVJ3d0k2Q3MtZHBZdDh6aFN5WFFnMWd6X21GYnY3N0JrdEFiNDVuVzFPaXRfZWhEem56T25GTm1nTUxtbUU4ZEpMd1d2NnZPS3pQVkp1elk1WDFPbjc5bFh4Q0IzeXZ1Q1JNWTlUbGdscnhoMUk5S1ZFbC1nZ3N6R2hn?oc=5) — Django vs Flask vs FastAPI: Which Python Web Framework Should You Choose in 2025? Vocal  
   <sub>Source: Google News search: Django REST framework beginner project · Discovered: 2025-05-06</sub>
 - [LearnDjango - Django for APIs (5th Edition) - Buttondown](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNUh6YjVPcDBpUDZaTUJvbjkzQ3ZvX3VFbUpTRWNoa2l6TTJqdTNsWTFiVVk0QVN2S2NzUDlYZ2R1dHlaSU94cVF5RVN4cGduOVI0a19rSHkwcEJlX2djNFh0TWFOUG5sRlNzUkFKejBHRWFzMTRFeVVQSUI3Qk9QX3pTVUFSSmlfeDQ4?oc=5) — LearnDjango - Django for APIs (5th Edition) Buttondown  
@@ -172,9 +176,9 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
-- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
-  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
+- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kSUM1cDk5QVRTaEVOT2NlS0ZTOFczRnJnZkgtZkJvaEJNWWc4dHBzWTJ1ZzhYZVN6SFJNTXVXODRCOGFQVDloUWlB?oc=5) — DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
