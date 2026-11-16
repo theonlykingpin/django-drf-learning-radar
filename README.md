@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-11-15 12:44 UTC  
-**Unique resources:** 178
+**Last updated:** 2026-11-16 13:39 UTC  
+**Unique resources:** 181
 
 ## Start here
 
@@ -174,11 +174,11 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework tutorial · Discovered: 2024-01-30</sub>
 - [DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IWS05M2c3cWNBOGtBYW9zNWs5d29CdUJ1VWJqVzU4WUFZMVhYTlhPSm9PV2hyQ2huRnlLYW1DSnFsU1MxMnNhSDFn?oc=5) — DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
+- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
-  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
-- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kSUM1cDk5QVRTaEVOT2NlS0ZTOFczRnJnZkgtZkJvaEJNWWc4dHBzWTJ1ZzhYZVN6SFJNTXVXODRCOGFQVDloUWlB?oc=5) — DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
@@ -215,6 +215,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework beginner project · Discovered: 2025-02-04</sub>
 - [Implementing User Authentication in Django - nucamp.co](https://news.google.com/rss/articles/CBMitAFBVV95cUxOWHBqVW9oRG90U20wbENXSzhETUJvOHQ4bXZwRWRNeW9rakZURFNBSmMtdi16cUNZMkFzbnVkWTdSeDBJa2Q2NHVuaTVfby03ekswcl9JSlRfTU9GMXQ2dzgybkNKd0JNQkFUU1k0a2R4MGZ6bnpleHV2SVhIYmlPV0Zib0NrM0I4RlJoN3YzZFY4d2NzcEpCMlJiSnRsNWUycTN6MXkzQl9DZkhJcTVraTFFLUU?oc=5) — Implementing User Authentication in Django nucamp.co  
   <sub>Source: Google News search: Django tutorial advanced · Discovered: 2024-04-09</sub>
+- [DRF JWT AUTHENTICATION MANAGEMENT SYSTEM - YouTube](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BMks1TGpQWHV3REFSYWFWWnZaYWpKWG9VYURhelVHWGxaLXpDQ2dDa0VyUkhiMl9RbFg1MnNQc1J5aDZEeUZ6VXM0UTU1d0RIRGlVZHFVQk13d2Y2?oc=5) — DRF JWT AUTHENTICATION MANAGEMENT SYSTEM YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2024-02-10</sub>
 
 ## Testing & Quality
 
@@ -225,6 +227,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Deployment & Performance
 
+- [Scientific Python: Using SciPy for Optimization](https://realpython.com/python-scipy-cluster-optimize) — Learn how the SciPy ecosystem differs from the SciPy library, then install SciPy and use its clustering and optimization modules in Python.  
+  <sub>Source: Real Python · Discovered: 2026-11-15</sub>
 - [Django deployment checklist](https://docs.djangoproject.com/en/stable/howto/deployment/checklist) — Production deployment checklist.  
   <sub>Source: Curated starter list · Discovered: 2026-10-30</sub>
 - [Django performance documentation](https://docs.djangoproject.com/en/stable/topics/performance) — Official performance and optimization guidance.  
@@ -242,6 +246,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Projects & Examples
 
+- [Quiz: How to Set Up a Python Project for Agentic Coding](https://realpython.com/quizzes/python-project-for-agentic-coding) — Check how well you can set up a Python project for agentic coding, with the tests, type checks, linting, and hooks that give AI agents fast feedback.  
+  <sub>Source: Real Python · Discovered: 2026-11-16</sub>
 - [Using Python's pip to Manage Your Projects' Dependencies](https://realpython.com/what-is-pip) — What is pip? Learn how to use pip, Python's standard package manager, to install and manage packages that aren't part of the standard library.  
   <sub>Source: Real Python · Discovered: 2026-11-08</sub>
 - [Python Project Structure: How to Choose the Right Layout](https://realpython.com/python-application-layouts) — Learn how to structure Python projects: pick between flat and src/ layouts, organize your code, and apply the patterns to CLI, web, and GUI apps.  

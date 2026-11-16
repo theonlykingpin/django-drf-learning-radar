@@ -88,6 +88,14 @@
     "description": "Implementing User Authentication in Django nucamp.co"
   },
   {
+    "title": "DRF JWT AUTHENTICATION MANAGEMENT SYSTEM - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BMks1TGpQWHV3REFSYWFWWnZaYWpKWG9VYURhelVHWGxaLXpDQ2dDa0VyUkhiMl9RbFg1MnNQc1J5aDZEeUZ6VXM0UTU1d0RIRGlVZHFVQk13d2Y2?oc=5",
+    "source": "Google News search: Django REST framework YouTube",
+    "category": "API Security \u0026 Authentication",
+    "discovered": "2024-02-10T08:00:00Z",
+    "description": "DRF JWT AUTHENTICATION MANAGEMENT SYSTEM YouTube"
+  },
+  {
     "title": "Python Coding Interview Practice: Hashing, Pointers, and Windows",
     "url": "https://realpython.com/courses/coding-interview-practice-hashing-two-pointers-sliding-windows",
     "source": "Real Python",
@@ -302,6 +310,14 @@
     "category": "Courses \u0026 Training",
     "discovered": "2024-11-14T12:00:00Z",
     "description": "Learn how to test Python code with unittest, doctest, pytest, and mock objects. Set up continuous integration with GitHub Actions and Docker."
+  },
+  {
+    "title": "Scientific Python: Using SciPy for Optimization",
+    "url": "https://realpython.com/python-scipy-cluster-optimize",
+    "source": "Real Python",
+    "category": "Deployment \u0026 Performance",
+    "discovered": "2026-11-15T14:00:00Z",
+    "description": "Learn how the SciPy ecosystem differs from the SciPy library, then install SciPy and use its clustering and optimization modules in Python."
   },
   {
     "title": "Django deployment checklist",
@@ -814,6 +830,14 @@
     "category": "Other",
     "discovered": "2026-08-21T12:00:00Z",
     "description": "Why do AI systems silently fail? How can you set up a system that produces results while also reviewing and validating the work? This week on the show, Calvin Hendryx-Parker returns to discuss his recent talk \"Orchestrate Agentic AI: Conte…"
+  },
+  {
+    "title": "Quiz: How to Set Up a Python Project for Agentic Coding",
+    "url": "https://realpython.com/quizzes/python-project-for-agentic-coding",
+    "source": "Real Python",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2026-11-16T12:00:00Z",
+    "description": "Check how well you can set up a Python project for agentic coding, with the tests, type checks, linting, and hooks that give AI agents fast feedback."
   },
   {
     "title": "Using Python's pip to Manage Your Projects' Dependencies",
@@ -1337,6 +1361,14 @@
   },
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
+    "source": "Google News search: Django REST framework YouTube",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2019-10-18T07:00:00Z",
+    "description": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube"
+  },
+  {
+    "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
@@ -1346,14 +1378,6 @@
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5",
-    "source": "Google News search: Django REST framework YouTube",
-    "category": "Tutorials \u0026 Articles",
-    "discovered": "2019-10-18T07:00:00Z",
-    "description": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube"
-  },
-  {
-    "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",
