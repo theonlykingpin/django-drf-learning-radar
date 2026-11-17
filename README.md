@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-11-16 13:39 UTC  
-**Unique resources:** 181
+**Last updated:** 2026-11-17 14:24 UTC  
+**Unique resources:** 186
 
 ## Start here
 
@@ -33,6 +33,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Courses & Training
 
+- [Getting Started With Git](https://realpython.com/courses/getting-started-with-git) — Learn how to set up Git, create a repository, track and commit changes, undo mistakes with git reset, and ignore files using .gitignore.  
+  <sub>Source: Real Python · Discovered: 2026-11-17</sub>
 - [Python Coding Interview Practice: Hashing, Pointers, and Windows](https://realpython.com/courses/coding-interview-practice-hashing-two-pointers-sliding-windows) — Practice hashing, two pointers, and sliding windows in Python through 20 coding interview exercises with tests, hints, and guided code reviews.  
   <sub>Source: Real Python · Discovered: 2026-11-10</sub>
 - [Python Coding Interview Practice: Prefix Sums and Binary Search](https://realpython.com/courses/coding-interview-practice-prefix-sums-binary-search) — Practice prefix sums and binary search in Python through 14 coding interview exercises with tests, efficiency checks, hints, and code reviews.  
@@ -174,11 +176,11 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework tutorial · Discovered: 2024-01-30</sub>
 - [DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IWS05M2c3cWNBOGtBYW9zNWs5d29CdUJ1VWJqVzU4WUFZMVhYTlhPSm9PV2hyQ2huRnlLYW1DSnFsU1MxMnNhSDFn?oc=5) — DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
-- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
+- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
-- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
+- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kSUM1cDk5QVRTaEVOT2NlS0ZTOFczRnJnZkgtZkJvaEJNWWc4dHBzWTJ1ZzhYZVN6SFJNTXVXODRCOGFQVDloUWlB?oc=5) — DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
@@ -186,9 +188,9 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2016-11-16</sub>
 - [DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner - YouTube](https://news.google.com/rss/articles/CBMiR0FVX3lxTE8taTVRMzdHVVRXYTZtckdDZGcwMExVODRKb0lPQTRMbG5Rcmx3a0s3c1NQWXBLWElBQ1J3TWl5ZllsRXBsTGY4?oc=5) — DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2016-08-12</sub>
-- [DjangoCon 2014- Digging Into Django's Migrations - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XLVFTQWs0Tm5BTkNyQ29tcDRTbXdCM0RsMm5DMjhWdy14UC1SbHplNnpzMlBqTmxoZDhIN0pmLWhhZmdKZGIteTd3Yw?oc=5) — DjangoCon 2014- Digging Into Django's Migrations YouTube  
-  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2014-09-16</sub>
 - [DjangoCon 2014- Digging Into Django's Migrations - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFclpUdXFSSl9FM180TFFQNXhXZE1pa1hhMGFtSWw4dnVhYjdrQ3RTNkN5SzdSMXVRdmRRcHcxWVRaNnlxdHRmZXFR?oc=5) — DjangoCon 2014- Digging Into Django's Migrations YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2014-09-16</sub>
+- [DjangoCon 2014- Digging Into Django's Migrations - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XLVFTQWs0Tm5BTkNyQ29tcDRTbXdCM0RsMm5DMjhWdy14UC1SbHplNnpzMlBqTmxoZDhIN0pmLWhhZmdKZGIteTd3Yw?oc=5) — DjangoCon 2014- Digging Into Django's Migrations YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2014-09-16</sub>
 
 ## API Security & Authentication
@@ -246,8 +248,12 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Projects & Examples
 
+- [How to Set Up a Python Project for Agentic Coding](https://realpython.com/python-project-for-agentic-coding) — Learn how to set up a Python project for agentic coding, with the tests, types, and hooks that give AI coding agents fast feedback.  
+  <sub>Source: Real Python · Discovered: 2026-11-16</sub>
 - [Quiz: How to Set Up a Python Project for Agentic Coding](https://realpython.com/quizzes/python-project-for-agentic-coding) — Check how well you can set up a Python project for agentic coding, with the tests, type checks, linting, and hooks that give AI agents fast feedback.  
   <sub>Source: Real Python · Discovered: 2026-11-16</sub>
+- [2027 DSF Board Nominations](https://www.djangoproject.com/weblog/2026/nov/15/2027-dsf-board-nominations) — The Django Software Foundation is inviting nominations for its 2027 Board of Directors. Five of the seven Board positions are open for election this year. The Board of Directors play a central role in the Foundation's work, overseeing its …  
+  <sub>Source: Django Blog · Discovered: 2026-11-16</sub>
 - [Using Python's pip to Manage Your Projects' Dependencies](https://realpython.com/what-is-pip) — What is pip? Learn how to use pip, Python's standard package manager, to install and manage packages that aren't part of the standard library.  
   <sub>Source: Real Python · Discovered: 2026-11-08</sub>
 - [Python Project Structure: How to Choose the Right Layout](https://realpython.com/python-application-layouts) — Learn how to structure Python projects: pick between flat and src/ layouts, organize your code, and apply the patterns to CLI, web, and GUI apps.  
@@ -293,6 +299,10 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Other
 
+- [Python Bindings: Calling C or C++ From Python](https://realpython.com/python-bindings-overview) — Learn how Python bindings let you call C or C++ code from Python, and compare tools like ctypes, CFFI, PyBind11, and Cython.  
+  <sub>Source: Real Python · Discovered: 2026-11-17</sub>
+- [Quiz: Understanding Python Namespace Packages](https://realpython.com/quizzes/understanding-python-namespace-packages) — Test your understanding of Python namespace packages, how they differ from regular packages, and how to build, publish, and install them with uv.  
+  <sub>Source: Real Python · Discovered: 2026-11-17</sub>
 - [Anthropic and Google Make Their Best AI Models Cheaper](https://realpython.com/ai-news-weekly-2026-11-13) — Real Python's weekly AI news for November 7–13, 2026, explained in plain language: Cheaper Claude, Google's Strongest Gemini, and a Faster Gemini.  
   <sub>Source: Real Python · Discovered: 2026-11-13</sub>
 - [Get Started With Meta Muse in Python: Spark and Glimmer](https://realpython.com/meta-muse-python) — Get started with Meta Muse in Python. Make your first Muse Spark call, then add streaming, images, and tool calls, and try the open-weights Glimmer.  
