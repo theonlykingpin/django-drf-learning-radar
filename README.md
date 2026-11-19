@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-11-18 13:58 UTC  
-**Unique resources:** 187
+**Last updated:** 2026-11-19 14:26 UTC  
+**Unique resources:** 193
 
 ## Start here
 
@@ -299,6 +299,18 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Other
 
+- [Build an AI Agent From Scratch in Python: The Agentic Loop](https://realpython.com/agentic-loop) — Learn how the agentic loop works by building a Python AI agent from scratch, with conversation context and tool calling in about 90 lines of code.  
+  <sub>Source: Real Python · Discovered: 2026-11-19</sub>
+- [Quiz: Exploring the Python math Module](https://realpython.com/quizzes/exploring-python-math-module) — Test your knowledge of Python's math module, from constants and rounding to logarithms, gcd(), and isqrt(), plus how it compares with cmath and NumPy.  
+  <sub>Source: Real Python · Discovered: 2026-11-19</sub>
+- [Combining Data in pandas With merge(), .join(), and concat()](https://realpython.com/pandas-merge-join-and-concat) — Learn how to combine data in pandas with merge(), .join(), and concat(), and when to use each one to unify your Series and DataFrame objects.  
+  <sub>Source: Real Python · Discovered: 2026-11-18</sub>
+- [GPT-6.2 Astra Draws a Python Reading a Book](https://realpython.com/ai-benchmark-gpt-6-2-astra) — Explore GPT-6.2 Astra's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.  
+  <sub>Source: Real Python · Discovered: 2026-11-18</sub>
+- [GPT-6.2 Sol Draws a Python Reading a Book](https://realpython.com/ai-benchmark-gpt-6-2-sol) — Explore GPT-6.2 Sol's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.  
+  <sub>Source: Real Python · Discovered: 2026-11-18</sub>
+- [Nuitka: Compile Python Into a Standalone Executable](https://realpython.com/nuitka) — Learn to compile Python into a standalone executable with Nuitka. Compare standalone and onefile builds, test speed, and see when PyInstaller fits better.  
+  <sub>Source: Real Python · Discovered: 2026-11-18</sub>
 - [Quiz: Nuitka: Compile Python Into a Standalone Executable](https://realpython.com/quizzes/nuitka) — Test your understanding of compiling Python with Nuitka, from standalone and onefile builds to speedups and when PyInstaller fits better.  
   <sub>Source: Real Python · Discovered: 2026-11-18</sub>
 - [Python Bindings: Calling C or C++ From Python](https://realpython.com/python-bindings-overview) — Learn how Python bindings let you call C or C++ code from Python, and compare tools like ctypes, CFFI, PyBind11, and Cython.  
