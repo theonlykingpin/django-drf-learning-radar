@@ -400,12 +400,36 @@
     "description": "Official API guide and tutorials for serializers, views, authentication, permissions, and more."
   },
   {
+    "title": "Quiz: Python Practice Problems: Parsing CSV Files",
+    "url": "https://realpython.com/quizzes/python-interview-problem-parsing-csv-files",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-20T12:00:00Z",
+    "description": "Practice parsing CSV files in Python with the csv module, generators, pytest, and pandas, and get ready to discuss your solutions in an interview."
+  },
+  {
     "title": "Build an AI Agent From Scratch in Python: The Agentic Loop",
     "url": "https://realpython.com/agentic-loop",
     "source": "Real Python",
     "category": "Other",
     "discovered": "2026-11-19T14:00:00Z",
     "description": "Learn how the agentic loop works by building a Python AI agent from scratch, with conversation context and tool calling in about 90 lines of code."
+  },
+  {
+    "title": "Data Management With Python, SQLite, and SQLAlchemy",
+    "url": "https://realpython.com/python-sqlite-sqlalchemy",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-19T14:00:00Z",
+    "description": "Store and retrieve data with Python, SQLite, and SQLAlchemy. You'll compare flat files with SQL and work with your data as Python objects."
+  },
+  {
+    "title": "Hy4 flash Draws a Python Reading a Book",
+    "url": "https://realpython.com/ai-benchmark-hy4-flash",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-19T14:00:00Z",
+    "description": "Explore Hy4 flash's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions."
   },
   {
     "title": "Quiz: Exploring the Python math Module",
@@ -910,6 +934,22 @@
     "category": "Other",
     "discovered": "2026-08-21T12:00:00Z",
     "description": "Why do AI systems silently fail? How can you set up a system that produces results while also reviewing and validating the work? This week on the show, Calvin Hendryx-Parker returns to discuss his recent talk \"Orchestrate Agentic AI: Conte…"
+  },
+  {
+    "title": "DSF member of the month - Johannes Maron",
+    "url": "https://www.djangoproject.com/weblog/2026/nov/20/dsf-member-of-the-month-johannes-maron",
+    "source": "Django Blog",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2026-11-20T13:00:00Z",
+    "description": "For November 2026, we welcome Johannes Maron as our DSF member of the month! ⭐ Johannes has long been part of the Django community. He is a frequent contributor including project such as django-hijack which has more than 1.7K stars! He is …"
+  },
+  {
+    "title": "2026 Malcolm Tredinnick Memorial Prize awarded to Raffaella Suardini",
+    "url": "https://www.djangoproject.com/weblog/2026/nov/19/malcolm-prize-awarded-to-raffaella-suardini",
+    "source": "Django Blog",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2026-11-19T17:22:21Z",
+    "description": "We are pleased to announce that the 2026 Malcolm Tredinnick Memorial Prize has been awarded to Raffaella Suardini ! Raffaella embodies the values that define the Django community: generosity, respect, thoughtfulness, and a deep commitment …"
   },
   {
     "title": "How to Set Up a Python Project for Agentic Coding",
@@ -1457,7 +1497,7 @@
   },
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",
@@ -1473,7 +1513,7 @@
   },
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",

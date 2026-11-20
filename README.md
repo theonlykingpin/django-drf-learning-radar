@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-11-19 14:26 UTC  
-**Unique resources:** 193
+**Last updated:** 2026-11-20 14:00 UTC  
+**Unique resources:** 198
 
 ## Start here
 
@@ -176,11 +176,11 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework tutorial · Discovered: 2024-01-30</sub>
 - [DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IWS05M2c3cWNBOGtBYW9zNWs5d29CdUJ1VWJqVzU4WUFZMVhYTlhPSm9PV2hyQ2huRnlLYW1DSnFsU1MxMnNhSDFn?oc=5) — DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
-- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
+- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
-- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
+- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kSUM1cDk5QVRTaEVOT2NlS0ZTOFczRnJnZkgtZkJvaEJNWWc4dHBzWTJ1ZzhYZVN6SFJNTXVXODRCOGFQVDloUWlB?oc=5) — DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
@@ -248,6 +248,10 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Projects & Examples
 
+- [DSF member of the month - Johannes Maron](https://www.djangoproject.com/weblog/2026/nov/20/dsf-member-of-the-month-johannes-maron) — For November 2026, we welcome Johannes Maron as our DSF member of the month! ⭐ Johannes has long been part of the Django community. He is a frequent contributor including project such as django-hijack which has more than 1.7K stars! He is …  
+  <sub>Source: Django Blog · Discovered: 2026-11-20</sub>
+- [2026 Malcolm Tredinnick Memorial Prize awarded to Raffaella Suardini](https://www.djangoproject.com/weblog/2026/nov/19/malcolm-prize-awarded-to-raffaella-suardini) — We are pleased to announce that the 2026 Malcolm Tredinnick Memorial Prize has been awarded to Raffaella Suardini ! Raffaella embodies the values that define the Django community: generosity, respect, thoughtfulness, and a deep commitment …  
+  <sub>Source: Django Blog · Discovered: 2026-11-19</sub>
 - [How to Set Up a Python Project for Agentic Coding](https://realpython.com/python-project-for-agentic-coding) — Learn how to set up a Python project for agentic coding, with the tests, types, and hooks that give AI coding agents fast feedback.  
   <sub>Source: Real Python · Discovered: 2026-11-16</sub>
 - [Quiz: How to Set Up a Python Project for Agentic Coding](https://realpython.com/quizzes/python-project-for-agentic-coding) — Check how well you can set up a Python project for agentic coding, with the tests, type checks, linting, and hooks that give AI agents fast feedback.  
@@ -299,7 +303,13 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Other
 
+- [Quiz: Python Practice Problems: Parsing CSV Files](https://realpython.com/quizzes/python-interview-problem-parsing-csv-files) — Practice parsing CSV files in Python with the csv module, generators, pytest, and pandas, and get ready to discuss your solutions in an interview.  
+  <sub>Source: Real Python · Discovered: 2026-11-20</sub>
 - [Build an AI Agent From Scratch in Python: The Agentic Loop](https://realpython.com/agentic-loop) — Learn how the agentic loop works by building a Python AI agent from scratch, with conversation context and tool calling in about 90 lines of code.  
+  <sub>Source: Real Python · Discovered: 2026-11-19</sub>
+- [Data Management With Python, SQLite, and SQLAlchemy](https://realpython.com/python-sqlite-sqlalchemy) — Store and retrieve data with Python, SQLite, and SQLAlchemy. You'll compare flat files with SQL and work with your data as Python objects.  
+  <sub>Source: Real Python · Discovered: 2026-11-19</sub>
+- [Hy4 flash Draws a Python Reading a Book](https://realpython.com/ai-benchmark-hy4-flash) — Explore Hy4 flash's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.  
   <sub>Source: Real Python · Discovered: 2026-11-19</sub>
 - [Quiz: Exploring the Python math Module](https://realpython.com/quizzes/exploring-python-math-module) — Test your knowledge of Python's math module, from constants and rounding to logarithms, gcd(), and isqrt(), plus how it compares with cmath and NumPy.  
   <sub>Source: Real Python · Discovered: 2026-11-19</sub>
