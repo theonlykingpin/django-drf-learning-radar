@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-11-20 14:00 UTC  
-**Unique resources:** 198
+**Last updated:** 2026-11-21 13:28 UTC  
+**Unique resources:** 202
 
 ## Start here
 
@@ -92,6 +92,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Tutorials & Articles
 
+- [How to Refactor Python Code With an AI Agent](https://realpython.com/ai-refactor-python) — Learn how to refactor Python code with AI safely: find code smells, check that tests pin the behavior, and let an agent apply one refactoring at a time.  
+  <sub>Source: Real Python · Discovered: 2026-11-20</sub>
 - [How to Do a Binary Search in Python](https://realpython.com/binary-search-python) — Use the bisect module to do a binary search in Python, then implement this classic algorithm yourself, both iteratively and recursively.  
   <sub>Source: Real Python · Discovered: 2026-11-14</sub>
 - [Quiz: Python Plotting With Matplotlib (Guide)](https://realpython.com/quizzes/python-matplotlib-guide) — Test your understanding of Python plotting with matplotlib, from Figure and Axes objects to subplots, pandas plotting, and styling.  
@@ -164,6 +166,10 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework tutorial · Discovered: 2026-03-30</sub>
 - [Python Django Tutorial: The Best Guide on Django Framework - Simplilearn.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE9rOUxCUURqbWhydHBKNTlLT3dZLUVKSzFQOE5qSkNHWG44YWFZMzQ1MnlyQXl0OUhnc05Md2R0Z2NTS2UtSDdkYjJFZUhtUjl5ZTVLVVVsUFZkc19DVXJQRUo1Z21mQlJ3MUxjYkpnY2JrSHpMWWc?oc=5) — Python Django Tutorial: The Best Guide on Django Framework Simplilearn.com  
   <sub>Source: Google News search: Django tutorial advanced · Discovered: 2026-03-05</sub>
+- [Critical SQL Injection Vulnerability in Django (CVE-2025-64459) - Endor Labs](https://news.google.com/rss/articles/CBMimAFBVV95cUxQc0lERFo3UC1HSnZ0YUV0NW5GdVp1OHgxV2R2WTlvZ0F0ZXVGcUs1VUFqQW9MX2YxdXNNM21sMS1GUVhzUWl4ZERnT25OQk1PUTZBNVY0Zm1MYnB3d25uNzNtUHdOa0d2SFNFYWQ0OG0tOUU5LVBscGpWZk1RYjhZYkpMZ1dHT2NYVzFrM1NtVXZqZkMweUk5bA?oc=5) — Critical SQL Injection Vulnerability in Django (CVE-2025-64459) Endor Labs  
+  <sub>Source: Google News search: Django REST framework tutorial · Discovered: 2025-11-06</sub>
+- [Building Machine Learning Application with Django - KDnuggets](https://news.google.com/rss/articles/CBMigAFBVV95cUxNZkRKOW0xMEVDVFppN0FTWVRyeXJ1Tk9QZ1JLeHlPTi03V2ZHaGNSVmk2Q3MzemtqbFhpUjFFY3kxRVY2VXhiNGdSVmVjVm9Rbmt1WGZWbU9GcW9nMnpxQy01WHNGVVNMMVg5SmtoSEFtRXZXcjQ0X2c0NGs1Q2VQQQ?oc=5) — Building Machine Learning Application with Django KDnuggets  
+  <sub>Source: Google News search: Django REST framework course training · Discovered: 2025-09-26</sub>
 - [API Frameworks: Django REST vs FastAPI for 2025 Development - RESIDENT™ | A Luxury Lifestyle Magazine](https://news.google.com/rss/articles/CBMihgFBVV95cUxOV3lKLWo0d0RIVXZTTlpITVAxRV92MUlyYVZPUWN4Q3RITF9sS0RZY2FmZUtKaVlHUWtGMFF4RFdxNmpYdUs0SXBIMkg0bEY1UndrOU1ySnZtMGk2ZWVna1Z1aU5QdldRM2tWeTZRbzZYQ0xibmg5MmNoa2QtTHVkSHZIajdIUQ?oc=5) — API Frameworks: Django REST vs FastAPI for 2025 Development RESIDENT™ | A Luxury Lifestyle Magazine  
   <sub>Source: Google News search: Django REST framework testing deployment performance · Discovered: 2025-08-09</sub>
 - [Django vs Flask vs FastAPI: Which Python Web Framework Should You Choose in 2025? - Vocal](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbno4REZWbzlBUE50RmJ0UXFJZmtEemtuSUh3cGs2bFJJNXdkWVJ3d0k2Q3MtZHBZdDh6aFN5WFFnMWd6X21GYnY3N0JrdEFiNDVuVzFPaXRfZWhEem56T25GTm1nTUxtbUU4ZEpMd1d2NnZPS3pQVkp1elk1WDFPbjc5bFh4Q0IzeXZ1Q1JNWTlUbGdscnhoMUk5S1ZFbC1nZ3N6R2hn?oc=5) — Django vs Flask vs FastAPI: Which Python Web Framework Should You Choose in 2025? Vocal  
@@ -176,11 +182,11 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework tutorial · Discovered: 2024-01-30</sub>
 - [DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IWS05M2c3cWNBOGtBYW9zNWs5d29CdUJ1VWJqVzU4WUFZMVhYTlhPSm9PV2hyQ2huRnlLYW1DSnFsU1MxMnNhSDFn?oc=5) — DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
+- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
-  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
-- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kSUM1cDk5QVRTaEVOT2NlS0ZTOFczRnJnZkgtZkJvaEJNWWc4dHBzWTJ1ZzhYZVN6SFJNTXVXODRCOGFQVDloUWlB?oc=5) — DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
@@ -188,9 +194,9 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2016-11-16</sub>
 - [DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner - YouTube](https://news.google.com/rss/articles/CBMiR0FVX3lxTE8taTVRMzdHVVRXYTZtckdDZGcwMExVODRKb0lPQTRMbG5Rcmx3a0s3c1NQWXBLWElBQ1J3TWl5ZllsRXBsTGY4?oc=5) — DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2016-08-12</sub>
-- [DjangoCon 2014- Digging Into Django's Migrations - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFclpUdXFSSl9FM180TFFQNXhXZE1pa1hhMGFtSWw4dnVhYjdrQ3RTNkN5SzdSMXVRdmRRcHcxWVRaNnlxdHRmZXFR?oc=5) — DjangoCon 2014- Digging Into Django's Migrations YouTube  
-  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2014-09-16</sub>
 - [DjangoCon 2014- Digging Into Django's Migrations - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XLVFTQWs0Tm5BTkNyQ29tcDRTbXdCM0RsMm5DMjhWdy14UC1SbHplNnpzMlBqTmxoZDhIN0pmLWhhZmdKZGIteTd3Yw?oc=5) — DjangoCon 2014- Digging Into Django's Migrations YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2014-09-16</sub>
+- [DjangoCon 2014- Digging Into Django's Migrations - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFclpUdXFSSl9FM180TFFQNXhXZE1pa1hhMGFtSWw4dnVhYjdrQ3RTNkN5SzdSMXVRdmRRcHcxWVRaNnlxdHRmZXFR?oc=5) — DjangoCon 2014- Digging Into Django's Migrations YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2014-09-16</sub>
 
 ## API Security & Authentication
@@ -303,6 +309,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Other
 
+- [OpenAI Cuts the Price of Its Best AI Model by 20 Percent](https://realpython.com/ai-news-weekly-2026-11-20) — Real Python's weekly AI news for November 14–20, 2026, explained in plain language: Cheaper GPT-6.2, a Poisoned AI Toolkit, and Gemini 4 Neon.  
+  <sub>Source: Real Python · Discovered: 2026-11-20</sub>
 - [Quiz: Python Practice Problems: Parsing CSV Files](https://realpython.com/quizzes/python-interview-problem-parsing-csv-files) — Practice parsing CSV files in Python with the csv module, generators, pytest, and pandas, and get ready to discuss your solutions in an interview.  
   <sub>Source: Real Python · Discovered: 2026-11-20</sub>
 - [Build an AI Agent From Scratch in Python: The Agentic Loop](https://realpython.com/agentic-loop) — Learn how the agentic loop works by building a Python AI agent from scratch, with conversation context and tool calling in about 90 lines of code.  
