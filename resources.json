@@ -400,6 +400,22 @@
     "description": "Official API guide and tutorials for serializers, views, authentication, permissions, and more."
   },
   {
+    "title": "Gemini 4 Neon Draws a Python Reading a Book",
+    "url": "https://realpython.com/ai-benchmark-gemini-4-neon",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-21T14:00:00Z",
+    "description": "Explore Gemini 4 Neon's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions."
+  },
+  {
+    "title": "Inkling 2 Mini Draws a Python Reading a Book",
+    "url": "https://realpython.com/ai-benchmark-inkling-2-mini",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-21T14:00:00Z",
+    "description": "Explore Inkling 2 Mini's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions."
+  },
+  {
     "title": "OpenAI Cuts the Price of Its Best AI Model by 20 Percent",
     "url": "https://realpython.com/ai-news-weekly-2026-11-20",
     "source": "Real Python",
@@ -1176,6 +1192,14 @@
     "description": "Learn how to refactor Python code with AI safely: find code smells, check that tests pin the behavior, and let an agent apply one refactoring at a time."
   },
   {
+    "title": "How to Use any() in Python",
+    "url": "https://realpython.com/any-python",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-11-20T14:00:00Z",
+    "description": "Use any() in Python to check whether at least one condition is true, simplify complex conditionals, and see how it compares to the or operator."
+  },
+  {
     "title": "How to Do a Binary Search in Python",
     "url": "https://realpython.com/binary-search-python",
     "source": "Real Python",
@@ -1529,14 +1553,6 @@
   },
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
-    "source": "Google News search: Django REST framework YouTube",
-    "category": "Tutorials \u0026 Articles",
-    "discovered": "2019-10-18T07:00:00Z",
-    "description": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube"
-  },
-  {
-    "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
@@ -1546,6 +1562,14 @@
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5",
+    "source": "Google News search: Django REST framework YouTube",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2019-10-18T07:00:00Z",
+    "description": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube"
+  },
+  {
+    "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",
@@ -1577,7 +1601,7 @@
   },
   {
     "title": "DjangoCon 2014- Digging Into Django's Migrations - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XLVFTQWs0Tm5BTkNyQ29tcDRTbXdCM0RsMm5DMjhWdy14UC1SbHplNnpzMlBqTmxoZDhIN0pmLWhhZmdKZGIteTd3Yw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFclpUdXFSSl9FM180TFFQNXhXZE1pa1hhMGFtSWw4dnVhYjdrQ3RTNkN5SzdSMXVRdmRRcHcxWVRaNnlxdHRmZXFR?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2014-09-16T07:00:00Z",
@@ -1585,7 +1609,7 @@
   },
   {
     "title": "DjangoCon 2014- Digging Into Django's Migrations - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFclpUdXFSSl9FM180TFFQNXhXZE1pa1hhMGFtSWw4dnVhYjdrQ3RTNkN5SzdSMXVRdmRRcHcxWVRaNnlxdHRmZXFR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XLVFTQWs0Tm5BTkNyQ29tcDRTbXdCM0RsMm5DMjhWdy14UC1SbHplNnpzMlBqTmxoZDhIN0pmLWhhZmdKZGIteTd3Yw?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2014-09-16T07:00:00Z",

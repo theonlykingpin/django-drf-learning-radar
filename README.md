@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-11-21 13:28 UTC  
-**Unique resources:** 202
+**Last updated:** 2026-11-22 13:21 UTC  
+**Unique resources:** 205
 
 ## Start here
 
@@ -93,6 +93,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 ## Tutorials & Articles
 
 - [How to Refactor Python Code With an AI Agent](https://realpython.com/ai-refactor-python) — Learn how to refactor Python code with AI safely: find code smells, check that tests pin the behavior, and let an agent apply one refactoring at a time.  
+  <sub>Source: Real Python · Discovered: 2026-11-20</sub>
+- [How to Use any() in Python](https://realpython.com/any-python) — Use any() in Python to check whether at least one condition is true, simplify complex conditionals, and see how it compares to the or operator.  
   <sub>Source: Real Python · Discovered: 2026-11-20</sub>
 - [How to Do a Binary Search in Python](https://realpython.com/binary-search-python) — Use the bisect module to do a binary search in Python, then implement this classic algorithm yourself, both iteratively and recursively.  
   <sub>Source: Real Python · Discovered: 2026-11-14</sub>
@@ -182,11 +184,11 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework tutorial · Discovered: 2024-01-30</sub>
 - [DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IWS05M2c3cWNBOGtBYW9zNWs5d29CdUJ1VWJqVzU4WUFZMVhYTlhPSm9PV2hyQ2huRnlLYW1DSnFsU1MxMnNhSDFn?oc=5) — DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
-- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
-  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
+- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kSUM1cDk5QVRTaEVOT2NlS0ZTOFczRnJnZkgtZkJvaEJNWWc4dHBzWTJ1ZzhYZVN6SFJNTXVXODRCOGFQVDloUWlB?oc=5) — DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
@@ -194,9 +196,9 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2016-11-16</sub>
 - [DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner - YouTube](https://news.google.com/rss/articles/CBMiR0FVX3lxTE8taTVRMzdHVVRXYTZtckdDZGcwMExVODRKb0lPQTRMbG5Rcmx3a0s3c1NQWXBLWElBQ1J3TWl5ZllsRXBsTGY4?oc=5) — DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2016-08-12</sub>
-- [DjangoCon 2014- Digging Into Django's Migrations - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XLVFTQWs0Tm5BTkNyQ29tcDRTbXdCM0RsMm5DMjhWdy14UC1SbHplNnpzMlBqTmxoZDhIN0pmLWhhZmdKZGIteTd3Yw?oc=5) — DjangoCon 2014- Digging Into Django's Migrations YouTube  
-  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2014-09-16</sub>
 - [DjangoCon 2014- Digging Into Django's Migrations - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFclpUdXFSSl9FM180TFFQNXhXZE1pa1hhMGFtSWw4dnVhYjdrQ3RTNkN5SzdSMXVRdmRRcHcxWVRaNnlxdHRmZXFR?oc=5) — DjangoCon 2014- Digging Into Django's Migrations YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2014-09-16</sub>
+- [DjangoCon 2014- Digging Into Django's Migrations - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XLVFTQWs0Tm5BTkNyQ29tcDRTbXdCM0RsMm5DMjhWdy14UC1SbHplNnpzMlBqTmxoZDhIN0pmLWhhZmdKZGIteTd3Yw?oc=5) — DjangoCon 2014- Digging Into Django's Migrations YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2014-09-16</sub>
 
 ## API Security & Authentication
@@ -309,6 +311,10 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Other
 
+- [Gemini 4 Neon Draws a Python Reading a Book](https://realpython.com/ai-benchmark-gemini-4-neon) — Explore Gemini 4 Neon's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.  
+  <sub>Source: Real Python · Discovered: 2026-11-21</sub>
+- [Inkling 2 Mini Draws a Python Reading a Book](https://realpython.com/ai-benchmark-inkling-2-mini) — Explore Inkling 2 Mini's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.  
+  <sub>Source: Real Python · Discovered: 2026-11-21</sub>
 - [OpenAI Cuts the Price of Its Best AI Model by 20 Percent](https://realpython.com/ai-news-weekly-2026-11-20) — Real Python's weekly AI news for November 14–20, 2026, explained in plain language: Cheaper GPT-6.2, a Poisoned AI Toolkit, and Gemini 4 Neon.  
   <sub>Source: Real Python · Discovered: 2026-11-20</sub>
 - [Quiz: Python Practice Problems: Parsing CSV Files](https://realpython.com/quizzes/python-interview-problem-parsing-csv-files) — Practice parsing CSV files in Python with the csv module, generators, pytest, and pandas, and get ready to discuss your solutions in an interview.  
