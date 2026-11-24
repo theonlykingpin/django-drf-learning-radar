@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-11-23 15:58 UTC  
-**Unique resources:** 209
+**Last updated:** 2026-11-24 15:53 UTC  
+**Unique resources:** 214
 
 ## Start here
 
@@ -33,6 +33,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Courses & Training
 
+- [Build an AI Agent From Scratch in Python](https://realpython.com/courses/build-ai-agent-scratch-python) — Learn how the agentic loop works by building an AI agent from scratch in Python, with conversation context and tool calling in about 90 lines of code.  
+  <sub>Source: Real Python · Discovered: 2026-11-24</sub>
 - [Getting Started With Git](https://realpython.com/courses/getting-started-with-git) — Learn how to set up Git, create a repository, track and commit changes, undo mistakes with git reset, and ignore files using .gitignore.  
   <sub>Source: Real Python · Discovered: 2026-11-17</sub>
 - [Python Coding Interview Practice: Hashing, Pointers, and Windows](https://realpython.com/courses/coding-interview-practice-hashing-two-pointers-sliding-windows) — Practice hashing, two pointers, and sliding windows in Python through 20 coding interview exercises with tests, hints, and guided code reviews.  
@@ -92,6 +94,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Tutorials & Articles
 
+- [K-Means Clustering in Python: A Practical Guide](https://realpython.com/k-means-clustering-python) — Learn how to perform k-means clustering in Python with scikit-learn, choose the right number of clusters, and build an end-to-end clustering pipeline.  
+  <sub>Source: Real Python · Discovered: 2026-11-24</sub>
 - [LangChain Tutorial: From Prompts to RAG and AI Agents](https://realpython.com/langchain-tutorial) — Learn LangChain in Python step by step. This hands-on LangChain tutorial covers chat models, prompt templates, LCEL chains, RAG, and tool-calling agents.  
   <sub>Source: Real Python · Discovered: 2026-11-23</sub>
 - [Quiz: LangChain Tutorial: From Prompts to RAG and AI Agents](https://realpython.com/quizzes/langchain-tutorial) — Check your grasp of LangChain in Python, from chat messages and prompt templates to LCEL chains, RAG retrieval, and tool-calling agents.  
@@ -200,9 +204,9 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2016-11-16</sub>
 - [DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner - YouTube](https://news.google.com/rss/articles/CBMiR0FVX3lxTE8taTVRMzdHVVRXYTZtckdDZGcwMExVODRKb0lPQTRMbG5Rcmx3a0s3c1NQWXBLWElBQ1J3TWl5ZllsRXBsTGY4?oc=5) — DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2016-08-12</sub>
-- [DjangoCon 2014- Digging Into Django's Migrations - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XLVFTQWs0Tm5BTkNyQ29tcDRTbXdCM0RsMm5DMjhWdy14UC1SbHplNnpzMlBqTmxoZDhIN0pmLWhhZmdKZGIteTd3Yw?oc=5) — DjangoCon 2014- Digging Into Django's Migrations YouTube  
-  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2014-09-16</sub>
 - [DjangoCon 2014- Digging Into Django's Migrations - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFclpUdXFSSl9FM180TFFQNXhXZE1pa1hhMGFtSWw4dnVhYjdrQ3RTNkN5SzdSMXVRdmRRcHcxWVRaNnlxdHRmZXFR?oc=5) — DjangoCon 2014- Digging Into Django's Migrations YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2014-09-16</sub>
+- [DjangoCon 2014- Digging Into Django's Migrations - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XLVFTQWs0Tm5BTkNyQ29tcDRTbXdCM0RsMm5DMjhWdy14UC1SbHplNnpzMlBqTmxoZDhIN0pmLWhhZmdKZGIteTd3Yw?oc=5) — DjangoCon 2014- Digging Into Django's Migrations YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2014-09-16</sub>
 
 ## API Security & Authentication
@@ -315,6 +319,12 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Other
 
+- [Conditional Statements in Python](https://realpython.com/python-conditional-statements) — Master Python conditional statements: write if, elif, and else blocks, and build the complex decision-making logic your programs need.  
+  <sub>Source: Real Python · Discovered: 2026-11-24</sub>
+- [Quiz: Plotting Declarative Charts With Altair](https://realpython.com/quizzes/plotting-declarative-charts-with-altair) — Test your knowledge of Altair, from marks and encoding channels to linked interactive charts and HTML export, in this quick Python quiz.  
+  <sub>Source: Real Python · Discovered: 2026-11-24</sub>
+- [Quiz: Python Conditional Statements](https://realpython.com/quizzes/python-conditional-statements) — Test your understanding of Python conditional statements. You'll practice using if, elif, and else to control the flow of your programs.  
+  <sub>Source: Real Python · Discovered: 2026-11-24</sub>
 - [DaisyRose 27B Draws a Python Reading a Book](https://realpython.com/ai-benchmark-daisyrose-27b) — Explore DaisyRose 27B's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.  
   <sub>Source: Real Python · Discovered: 2026-11-22</sub>
 - [Top Python Game Engines](https://realpython.com/top-python-game-engines) — Explore the top Python game engines, code a basic example and a full game in each, and learn the strengths and weaknesses of every engine.  

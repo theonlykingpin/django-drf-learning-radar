@@ -96,6 +96,14 @@
     "description": "DRF JWT AUTHENTICATION MANAGEMENT SYSTEM YouTube"
   },
   {
+    "title": "Build an AI Agent From Scratch in Python",
+    "url": "https://realpython.com/courses/build-ai-agent-scratch-python",
+    "source": "Real Python",
+    "category": "Courses \u0026 Training",
+    "discovered": "2026-11-24T14:00:00Z",
+    "description": "Learn how the agentic loop works by building an AI agent from scratch in Python, with conversation context and tool calling in about 90 lines of code."
+  },
+  {
     "title": "Getting Started With Git",
     "url": "https://realpython.com/courses/getting-started-with-git",
     "source": "Real Python",
@@ -398,6 +406,30 @@
     "category": "Official Documentation",
     "discovered": "2026-10-30T05:42:46.45323262Z",
     "description": "Official API guide and tutorials for serializers, views, authentication, permissions, and more."
+  },
+  {
+    "title": "Conditional Statements in Python",
+    "url": "https://realpython.com/python-conditional-statements",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-24T14:00:00Z",
+    "description": "Master Python conditional statements: write if, elif, and else blocks, and build the complex decision-making logic your programs need."
+  },
+  {
+    "title": "Quiz: Plotting Declarative Charts With Altair",
+    "url": "https://realpython.com/quizzes/plotting-declarative-charts-with-altair",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-24T12:00:00Z",
+    "description": "Test your knowledge of Altair, from marks and encoding channels to linked interactive charts and HTML export, in this quick Python quiz."
+  },
+  {
+    "title": "Quiz: Python Conditional Statements",
+    "url": "https://realpython.com/quizzes/python-conditional-statements",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-24T12:00:00Z",
+    "description": "Test your understanding of Python conditional statements. You'll practice using if, elif, and else to control the flow of your programs."
   },
   {
     "title": "DaisyRose 27B Draws a Python Reading a Book",
@@ -1200,6 +1232,14 @@
     "description": "Can Rust Improve Real Django API Performance? Testing Django-Bolt Beyond Synthetic Benchmarks DevOps.com"
   },
   {
+    "title": "K-Means Clustering in Python: A Practical Guide",
+    "url": "https://realpython.com/k-means-clustering-python",
+    "source": "Real Python",
+    "category": "Tutorials \u0026 Articles",
+    "discovered": "2026-11-24T14:00:00Z",
+    "description": "Learn how to perform k-means clustering in Python with scikit-learn, choose the right number of clusters, and build an end-to-end clustering pipeline."
+  },
+  {
     "title": "LangChain Tutorial: From Prompts to RAG and AI Agents",
     "url": "https://realpython.com/langchain-tutorial",
     "source": "Real Python",
@@ -1633,7 +1673,7 @@
   },
   {
     "title": "DjangoCon 2014- Digging Into Django's Migrations - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XLVFTQWs0Tm5BTkNyQ29tcDRTbXdCM0RsMm5DMjhWdy14UC1SbHplNnpzMlBqTmxoZDhIN0pmLWhhZmdKZGIteTd3Yw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFclpUdXFSSl9FM180TFFQNXhXZE1pa1hhMGFtSWw4dnVhYjdrQ3RTNkN5SzdSMXVRdmRRcHcxWVRaNnlxdHRmZXFR?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2014-09-16T07:00:00Z",
@@ -1641,7 +1681,7 @@
   },
   {
     "title": "DjangoCon 2014- Digging Into Django's Migrations - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFclpUdXFSSl9FM180TFFQNXhXZE1pa1hhMGFtSWw4dnVhYjdrQ3RTNkN5SzdSMXVRdmRRcHcxWVRaNnlxdHRmZXFR?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XLVFTQWs0Tm5BTkNyQ29tcDRTbXdCM0RsMm5DMjhWdy14UC1SbHplNnpzMlBqTmxoZDhIN0pmLWhhZmdKZGIteTd3Yw?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2014-09-16T07:00:00Z",
