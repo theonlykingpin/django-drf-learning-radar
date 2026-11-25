@@ -408,6 +408,22 @@
     "description": "Official API guide and tutorials for serializers, views, authentication, permissions, and more."
   },
   {
+    "title": "LLM Evaluation in Python: Build an Eval Harness From Scratch",
+    "url": "https://realpython.com/llm-evaluation",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-25T14:00:00Z",
+    "description": "Build an LLM evaluation harness in Python that scores model outputs with code-based checks and an LLM judge you calibrate against human labels."
+  },
+  {
+    "title": "Quiz: LLM Evaluation in Python: Build an Eval Harness From Scratch",
+    "url": "https://realpython.com/quizzes/llm-evaluation",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-25T12:00:00Z",
+    "description": "Test your understanding of LLM evaluation in Python, from rubrics and code checks to LLM judges, calibration, and release gates."
+  },
+  {
     "title": "Conditional Statements in Python",
     "url": "https://realpython.com/python-conditional-statements",
     "source": "Real Python",
@@ -1006,6 +1022,14 @@
     "category": "Other",
     "discovered": "2026-08-21T12:00:00Z",
     "description": "Why do AI systems silently fail? How can you set up a system that produces results while also reviewing and validating the work? This week on the show, Calvin Hendryx-Parker returns to discuss his recent talk \"Orchestrate Agentic AI: Conte…"
+  },
+  {
+    "title": "pandas Project: Make a Gradebook With Python \u0026 pandas",
+    "url": "https://realpython.com/pandas-project-gradebook",
+    "source": "Real Python",
+    "category": "Projects \u0026 Examples",
+    "discovered": "2026-11-25T14:00:00Z",
+    "description": "Build a pandas project that calculates class grades from several data sources. Load, merge, and save data, then plot summary statistics with pandas."
   },
   {
     "title": "DSF member of the month - Johannes Maron",
@@ -1633,7 +1657,7 @@
   },
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",
@@ -1641,7 +1665,7 @@
   },
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",

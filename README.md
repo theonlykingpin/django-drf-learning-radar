@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-11-24 15:53 UTC  
-**Unique resources:** 214
+**Last updated:** 2026-11-25 15:36 UTC  
+**Unique resources:** 217
 
 ## Start here
 
@@ -194,9 +194,9 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
-- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
-  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
+- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kSUM1cDk5QVRTaEVOT2NlS0ZTOFczRnJnZkgtZkJvaEJNWWc4dHBzWTJ1ZzhYZVN6SFJNTXVXODRCOGFQVDloUWlB?oc=5) — DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
@@ -264,6 +264,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Projects & Examples
 
+- [pandas Project: Make a Gradebook With Python & pandas](https://realpython.com/pandas-project-gradebook) — Build a pandas project that calculates class grades from several data sources. Load, merge, and save data, then plot summary statistics with pandas.  
+  <sub>Source: Real Python · Discovered: 2026-11-25</sub>
 - [DSF member of the month - Johannes Maron](https://www.djangoproject.com/weblog/2026/nov/20/dsf-member-of-the-month-johannes-maron) — For November 2026, we welcome Johannes Maron as our DSF member of the month! ⭐ Johannes has long been part of the Django community. He is a frequent contributor including project such as django-hijack which has more than 1.7K stars! He is …  
   <sub>Source: Django Blog · Discovered: 2026-11-20</sub>
 - [2026 Malcolm Tredinnick Memorial Prize awarded to Raffaella Suardini](https://www.djangoproject.com/weblog/2026/nov/19/malcolm-prize-awarded-to-raffaella-suardini) — We are pleased to announce that the 2026 Malcolm Tredinnick Memorial Prize has been awarded to Raffaella Suardini ! Raffaella embodies the values that define the Django community: generosity, respect, thoughtfulness, and a deep commitment …  
@@ -319,6 +321,10 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Other
 
+- [LLM Evaluation in Python: Build an Eval Harness From Scratch](https://realpython.com/llm-evaluation) — Build an LLM evaluation harness in Python that scores model outputs with code-based checks and an LLM judge you calibrate against human labels.  
+  <sub>Source: Real Python · Discovered: 2026-11-25</sub>
+- [Quiz: LLM Evaluation in Python: Build an Eval Harness From Scratch](https://realpython.com/quizzes/llm-evaluation) — Test your understanding of LLM evaluation in Python, from rubrics and code checks to LLM judges, calibration, and release gates.  
+  <sub>Source: Real Python · Discovered: 2026-11-25</sub>
 - [Conditional Statements in Python](https://realpython.com/python-conditional-statements) — Master Python conditional statements: write if, elif, and else blocks, and build the complex decision-making logic your programs need.  
   <sub>Source: Real Python · Discovered: 2026-11-24</sub>
 - [Quiz: Plotting Declarative Charts With Altair](https://realpython.com/quizzes/plotting-declarative-charts-with-altair) — Test your knowledge of Altair, from marks and encoding channels to linked interactive charts and HTML export, in this quick Python quiz.  
