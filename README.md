@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-11-25 15:36 UTC  
-**Unique resources:** 217
+**Last updated:** 2026-11-26 15:15 UTC  
+**Unique resources:** 219
 
 ## Start here
 
@@ -194,9 +194,9 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOHNqWnpsdU1TcTZaYXZrdFhCMU5oSkRkZzRMdmdXNUlsbm5Ra2RKQmJlQzRaYnRJc0p0NVV0dkl4cmVoXzV4aGNfQQ?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
-- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
-  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
+- [DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5) — DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
 - [DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1kSUM1cDk5QVRTaEVOT2NlS0ZTOFczRnJnZkgtZkJvaEJNWWc4dHBzWTJ1ZzhYZVN6SFJNTXVXODRCOGFQVDloUWlB?oc=5) — DjangoCon 2019 - Orientation and Welcome by Kojo Idrissa YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2019-10-18</sub>
@@ -321,7 +321,11 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Other
 
+- [Quiz: Python and TOML: Read, Write, and Configure with tomllib](https://realpython.com/quizzes/python-toml) — Test your knowledge of TOML in Python. Review the syntax for tables and arrays, and read and write config files with tomllib, tomli_w, and tomlkit.  
+  <sub>Source: Real Python · Discovered: 2026-11-26</sub>
 - [LLM Evaluation in Python: Build an Eval Harness From Scratch](https://realpython.com/llm-evaluation) — Build an LLM evaluation harness in Python that scores model outputs with code-based checks and an LLM judge you calibrate against human labels.  
+  <sub>Source: Real Python · Discovered: 2026-11-25</sub>
+- [The No AI Slop Manifesto: A Pledge to Own What Agents Ship](https://realpython.com/no-ai-slop-manifesto) — The No AI Slop Manifesto explained: what the slop manifesto says, why it appeared now, and what its beliefs mean for Python developers using AI.  
   <sub>Source: Real Python · Discovered: 2026-11-25</sub>
 - [Quiz: LLM Evaluation in Python: Build an Eval Harness From Scratch](https://realpython.com/quizzes/llm-evaluation) — Test your understanding of LLM evaluation in Python, from rubrics and code checks to LLM judges, calibration, and release gates.  
   <sub>Source: Real Python · Discovered: 2026-11-25</sub>

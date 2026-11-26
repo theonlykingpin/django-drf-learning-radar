@@ -408,12 +408,28 @@
     "description": "Official API guide and tutorials for serializers, views, authentication, permissions, and more."
   },
   {
+    "title": "Quiz: Python and TOML: Read, Write, and Configure with tomllib",
+    "url": "https://realpython.com/quizzes/python-toml",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-26T12:00:00Z",
+    "description": "Test your knowledge of TOML in Python. Review the syntax for tables and arrays, and read and write config files with tomllib, tomli_w, and tomlkit."
+  },
+  {
     "title": "LLM Evaluation in Python: Build an Eval Harness From Scratch",
     "url": "https://realpython.com/llm-evaluation",
     "source": "Real Python",
     "category": "Other",
     "discovered": "2026-11-25T14:00:00Z",
     "description": "Build an LLM evaluation harness in Python that scores model outputs with code-based checks and an LLM judge you calibrate against human labels."
+  },
+  {
+    "title": "The No AI Slop Manifesto: A Pledge to Own What Agents Ship",
+    "url": "https://realpython.com/no-ai-slop-manifesto",
+    "source": "Real Python",
+    "category": "Other",
+    "discovered": "2026-11-25T14:00:00Z",
+    "description": "The No AI Slop Manifesto explained: what the slop manifesto says, why it appeared now, and what its beliefs mean for Python developers using AI."
   },
   {
     "title": "Quiz: LLM Evaluation in Python: Build an Eval Harness From Scratch",
@@ -1657,7 +1673,7 @@
   },
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",
@@ -1665,7 +1681,7 @@
   },
   {
     "title": "DjangoCon 2019 - Keynote: The Natural State of Computers by Amber Brown - YouTube",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pSERTS0dCdHZ2Q1A4dUxYWk80VkM0ZkNYNkNQOURTM25ReVBzLUFVY09rS3VEVmxTS1luOEJzWlpIckxDdzgtb1hn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xQk1aMjVpdWNBTGVuZlZoZUc3c0hNZkx3bkE3eWYzaWpDMEMxcERUMWt4dDlXTTgxVW5RdUtzdm1KWU9sVTVfNDczbw?oc=5",
     "source": "Google News search: Django REST framework YouTube",
     "category": "Tutorials \u0026 Articles",
     "discovered": "2019-10-18T07:00:00Z",
