@@ -4,8 +4,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 > Updated automatically by GitHub Actions. Discovery uses public RSS/search feeds and is not an exhaustive crawl of the internet. Check the original source for current availability, pricing, and version compatibility.
 
-**Last updated:** 2026-11-26 15:15 UTC  
-**Unique resources:** 219
+**Last updated:** 2026-11-27 15:05 UTC  
+**Unique resources:** 223
 
 ## Start here
 
@@ -204,9 +204,9 @@ A curated, automatically refreshed directory of documentation, articles, videos,
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2016-11-16</sub>
 - [DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner - YouTube](https://news.google.com/rss/articles/CBMiR0FVX3lxTE8taTVRMzdHVVRXYTZtckdDZGcwMExVODRKb0lPQTRMbG5Rcmx3a0s3c1NQWXBLWElBQ1J3TWl5ZllsRXBsTGY4?oc=5) — DjangoCon US 2016 - Building JSON APIS With Django / Pinax by Brian Rosner YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2016-08-12</sub>
-- [DjangoCon 2014- Digging Into Django's Migrations - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFclpUdXFSSl9FM180TFFQNXhXZE1pa1hhMGFtSWw4dnVhYjdrQ3RTNkN5SzdSMXVRdmRRcHcxWVRaNnlxdHRmZXFR?oc=5) — DjangoCon 2014- Digging Into Django's Migrations YouTube  
-  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2014-09-16</sub>
 - [DjangoCon 2014- Digging Into Django's Migrations - YouTube](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XLVFTQWs0Tm5BTkNyQ29tcDRTbXdCM0RsMm5DMjhWdy14UC1SbHplNnpzMlBqTmxoZDhIN0pmLWhhZmdKZGIteTd3Yw?oc=5) — DjangoCon 2014- Digging Into Django's Migrations YouTube  
+  <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2014-09-16</sub>
+- [DjangoCon 2014- Digging Into Django's Migrations - YouTube](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFclpUdXFSSl9FM180TFFQNXhXZE1pa1hhMGFtSWw4dnVhYjdrQ3RTNkN5SzdSMXVRdmRRcHcxWVRaNnlxdHRmZXFR?oc=5) — DjangoCon 2014- Digging Into Django's Migrations YouTube  
   <sub>Source: Google News search: Django REST framework YouTube · Discovered: 2014-09-16</sub>
 
 ## API Security & Authentication
@@ -245,6 +245,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Deployment & Performance
 
+- [The Real Python Podcast – Episode #320: Optimizing Python Performance & Building a Django Static Site](https://realpython.com/podcasts/rpp/320) — What goes into moving from profiling the performance of a Python program to optimizing it? What are common techniques you should consider for speeding up your code, and which ones should you avoid? Christopher Trudeau is back on the show t…  
+  <sub>Source: Real Python · Discovered: 2026-11-27</sub>
 - [Scientific Python: Using SciPy for Optimization](https://realpython.com/python-scipy-cluster-optimize) — Learn how the SciPy ecosystem differs from the SciPy library, then install SciPy and use its clustering and optimization modules in Python.  
   <sub>Source: Real Python · Discovered: 2026-11-15</sub>
 - [Django deployment checklist](https://docs.djangoproject.com/en/stable/howto/deployment/checklist) — Production deployment checklist.  
@@ -321,6 +323,10 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 
 ## Other
 
+- [Google Sets a Deadline for AI Agents Working in Gmail](https://realpython.com/ai-news-weekly-2026-11-27) — Real Python's weekly AI news for November 21–27, 2026, explained in plain language: Workspace Agent Rules, Claude Skills, and Stolen Prompts.  
+  <sub>Source: Real Python · Discovered: 2026-11-27</sub>
+- [Quiz: Python Timer Functions: Three Ways to Monitor Your Code](https://realpython.com/quizzes/python-timer) — Test your knowledge of Python timer functions, from time.perf_counter() to timers built with classes, context managers, and decorators.  
+  <sub>Source: Real Python · Discovered: 2026-11-27</sub>
 - [Quiz: Python and TOML: Read, Write, and Configure with tomllib](https://realpython.com/quizzes/python-toml) — Test your knowledge of TOML in Python. Review the syntax for tables and arrays, and read and write config files with tomllib, tomli_w, and tomlkit.  
   <sub>Source: Real Python · Discovered: 2026-11-26</sub>
 - [LLM Evaluation in Python: Build an Eval Harness From Scratch](https://realpython.com/llm-evaluation) — Build an LLM evaluation harness in Python that scores model outputs with code-based checks and an LLM judge you calibrate against human labels.  
@@ -328,6 +334,8 @@ A curated, automatically refreshed directory of documentation, articles, videos,
 - [The No AI Slop Manifesto: A Pledge to Own What Agents Ship](https://realpython.com/no-ai-slop-manifesto) — The No AI Slop Manifesto explained: what the slop manifesto says, why it appeared now, and what its beliefs mean for Python developers using AI.  
   <sub>Source: Real Python · Discovered: 2026-11-25</sub>
 - [Quiz: LLM Evaluation in Python: Build an Eval Harness From Scratch](https://realpython.com/quizzes/llm-evaluation) — Test your understanding of LLM evaluation in Python, from rubrics and code checks to LLM judges, calibration, and release gates.  
+  <sub>Source: Real Python · Discovered: 2026-11-25</sub>
+- [Quiz: The No AI Slop Manifesto: A Pledge to Own What Agents Ship](https://realpython.com/quizzes/no-ai-slop-manifesto) — Check what you know about the No AI Slop Manifesto, from how it defines slop to owning AI code and what critics dispute.  
   <sub>Source: Real Python · Discovered: 2026-11-25</sub>
 - [Conditional Statements in Python](https://realpython.com/python-conditional-statements) — Master Python conditional statements: write if, elif, and else blocks, and build the complex decision-making logic your programs need.  
   <sub>Source: Real Python · Discovered: 2026-11-24</sub>
